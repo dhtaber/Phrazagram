@@ -1,0 +1,2553 @@
+PHRASE: Every dog has his day
+CLEAN_LETTERS: EVERYDOGHASHISDAY  (len=17)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W5×H5  |  FAMILY 2H3V  |  GRID_ID: W5H5-2H3V-45322811
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=2  C=0–4  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,2  @ (2,0)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+
+CELLS_TRUE (count=17):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#####
+#.#.#
+..#..
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=AYRES
+  H row=2 col=0 word=OGIVE
+  V row=0 col=0 word=AHOY
+  V row=0 col=2 word=RAIDS
+  V row=0 col=4 word=SHED
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DISHY
+  H row=2 col=0 word=GRAVY
+  V row=0 col=0 word=DOGE
+  V row=0 col=2 word=SHADE
+  V row=0 col=4 word=YAYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DODGE
+  H row=2 col=0 word=SHAVE
+  V row=0 col=0 word=DASH
+  V row=0 col=2 word=DIARY
+  V row=0 col=4 word=EYES
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DOGIE
+  H row=2 col=0 word=SHADE
+  V row=0 col=0 word=DASH
+  V row=0 col=2 word=GRAVY
+  V row=0 col=4 word=EYES
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DOGIE
+  H row=2 col=0 word=SHAVE
+  V row=0 col=0 word=DASH
+  V row=0 col=2 word=GRAYS
+  V row=0 col=4 word=EYED
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-183443B4
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=17):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+...#...
+.......
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DIARY
+  H row=3 col=1 word=SHAYS
+  V row=0 col=1 word=DOGS
+  V row=0 col=3 word=AHEAD
+  V row=0 col=5 word=YVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DISHY
+  H row=3 col=1 word=EGADS
+  V row=0 col=1 word=DOVE
+  V row=0 col=3 word=SHEAR
+  V row=0 col=5 word=YAYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DRAGO
+  H row=3 col=1 word=SHAYS
+  V row=0 col=1 word=DEYS
+  V row=0 col=3 word=AHEAD
+  V row=0 col=5 word=OVIS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DRAGO
+  H row=3 col=1 word=SHAYS
+  V row=0 col=1 word=DYES
+  V row=0 col=3 word=AHEAD
+  V row=0 col=5 word=OVIS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=GEHRY
+  H row=3 col=1 word=SHIVS
+  V row=0 col=1 word=GEOS
+  V row=0 col=3 word=HADID
+  V row=0 col=5 word=YAYS
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-71CA47D7
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=17):
+  (0,2) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#####
+#.#.#
+#.#.#
+#####
+.....
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AYERS
+  H row=4 col=0 word=DISHY
+  V row=1 col=0 word=AGED
+  V row=0 col=2 word=DEVOS
+  V row=1 col=4 word=SHAY
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DAIRY
+  H row=4 col=0 word=DOSES
+  V row=1 col=0 word=DYAD
+  V row=0 col=2 word=HIGHS
+  V row=1 col=4 word=YVES
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DIVER
+  H row=4 col=0 word=SHAYS
+  V row=1 col=0 word=DOGS
+  V row=0 col=2 word=AVEDA
+  V row=1 col=4 word=RHYS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DOVER
+  H row=4 col=0 word=SHAYS
+  V row=1 col=0 word=DIGS
+  V row=0 col=2 word=AVEDA
+  V row=1 col=4 word=RHYS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DROVE
+  H row=4 col=0 word=SHIED
+  V row=1 col=0 word=DAYS
+  V row=0 col=2 word=YOSHI
+  V row=1 col=4 word=EGAD
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-01060243
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=17):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+...#...
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DIARY
+  H row=3 col=1 word=SHAYS
+  V row=0 col=1 word=DOGS
+  V row=0 col=3 word=AHEAD
+  V row=0 col=5 word=YVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DISHY
+  H row=3 col=1 word=EGADS
+  V row=0 col=1 word=DOVE
+  V row=0 col=3 word=SHEAR
+  V row=0 col=5 word=YAYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DRAGO
+  H row=3 col=1 word=SHAYS
+  V row=0 col=1 word=DEYS
+  V row=0 col=3 word=AHEAD
+  V row=0 col=5 word=OVIS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DRAGO
+  H row=3 col=1 word=SHAYS
+  V row=0 col=1 word=DYES
+  V row=0 col=3 word=AHEAD
+  V row=0 col=5 word=OVIS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=GEHRY
+  H row=3 col=1 word=SHIVS
+  V row=0 col=1 word=GEOS
+  V row=0 col=3 word=HADID
+  V row=0 col=5 word=YAYS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-51E15DC4
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,0  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,2  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=17):
+  (0,1) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,3) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#####.
+.#.#.#.
+.#####.
+...#...
+...#...
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ADAGE
+  H row=3 col=1 word=SHOES
+  V row=0 col=1 word=HAYS
+  V row=1 col=3 word=AVOID
+  V row=0 col=5 word=REYS
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ADAGE
+  H row=3 col=1 word=SHOES
+  V row=0 col=1 word=HAYS
+  V row=1 col=3 word=AVOID
+  V row=0 col=5 word=YERS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ADDER
+  H row=3 col=1 word=ESSAY
+  V row=0 col=1 word=HAVE
+  V row=1 col=3 word=DISHY
+  V row=0 col=5 word=ORGY
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ARSED
+  H row=3 col=1 word=SHAVE
+  V row=0 col=1 word=GAYS
+  V row=1 col=3 word=SHADY
+  V row=0 col=5 word=ODIE
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ASIDE
+  H row=3 col=1 word=SHOED
+  V row=0 col=1 word=GAYS
+  V row=1 col=3 word=IVORY
+  V row=0 col=5 word=HEAD
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-84F7B098
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,1  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=17):
+  (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,2)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+#.#.#
+#####
+#.#.#
+#####
+..#..
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ADAGE
+  H row=4 col=0 word=SHOED
+  V row=1 col=0 word=HAYS
+  V row=1 col=2 word=SAVOY
+  V row=1 col=4 word=REID
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ADAGE
+  H row=4 col=0 word=SHOER
+  V row=1 col=0 word=DAYS
+  V row=1 col=2 word=SAVOY
+  V row=1 col=4 word=HEIR
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ADAIR
+  H row=4 col=0 word=SEEDY
+  V row=1 col=0 word=HAYS
+  V row=1 col=2 word=HAVES
+  V row=1 col=4 word=ORGY
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ADORE
+  H row=4 col=0 word=SHIVS
+  V row=1 col=0 word=HAYS
+  V row=1 col=2 word=DOGIE
+  V row=1 col=4 word=YEAS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ADORE
+  H row=4 col=0 word=SIGHS
+  V row=1 col=0 word=DAYS
+  V row=1 col=2 word=HOAGY
+  V row=1 col=4 word=VEES
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-07AF01AE
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (2,1)
+  H1,2 ↔ V4,1  @ (2,3)
+  H1,4 ↔ V5,0  @ (2,5)
+  H2,0 ↔ V3,3  @ (5,1)
+  H2,2 ↔ V4,4  @ (5,3)
+  H2,4 ↔ V5,3  @ (5,5)
+
+CELLS_TRUE (count=17):
+  (1,3) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+...#...
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AYERS
+  H row=5 col=1 word=DISHY
+  V row=2 col=1 word=AGED
+  V row=1 col=3 word=DEVOS
+  V row=2 col=5 word=SHAY
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=DAIRY
+  H row=5 col=1 word=DOSES
+  V row=2 col=1 word=DYAD
+  V row=1 col=3 word=HIGHS
+  V row=2 col=5 word=YVES
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=DIVER
+  H row=5 col=1 word=SHAYS
+  V row=2 col=1 word=DOGS
+  V row=1 col=3 word=AVEDA
+  V row=2 col=5 word=RHYS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=DOVER
+  H row=5 col=1 word=SHAYS
+  V row=2 col=1 word=DIGS
+  V row=1 col=3 word=AVEDA
+  V row=2 col=5 word=RHYS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=DROVE
+  H row=5 col=1 word=SHIED
+  V row=2 col=1 word=DAYS
+  V row=1 col=3 word=YOSHI
+  V row=2 col=5 word=EGAD
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-4D9A11F6
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=17):
+  (0,3) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+.......
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ADAIR
+  H row=4 col=1 word=SEEDY
+  V row=1 col=1 word=HAYS
+  V row=0 col=3 word=SHAVE
+  V row=1 col=5 word=ORGY
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AGAVE
+  H row=4 col=1 word=ROSES
+  V row=1 col=1 word=HAIR
+  V row=0 col=3 word=DYADS
+  V row=1 col=5 word=HEYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AGAVE
+  H row=4 col=1 word=SHOES
+  V row=1 col=1 word=DAYS
+  V row=0 col=3 word=IDAHO
+  V row=1 col=5 word=REYS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AGAVE
+  H row=4 col=1 word=SHOES
+  V row=1 col=1 word=DAYS
+  V row=0 col=3 word=IDAHO
+  V row=1 col=5 word=YERS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AGAVE
+  H row=4 col=1 word=SIDES
+  V row=1 col=1 word=DAYS
+  V row=0 col=3 word=HOARD
+  V row=1 col=5 word=HEYS
+
+----------------------------------------------------------------
+
+=== GRID W5×H5  |  FAMILY 2H3V  |  GRID_ID: W5H5-2H3V-D6699755
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=17):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#.#.#
+#####
+..#..
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DIARY
+  H row=3 col=0 word=SHAYS
+  V row=0 col=0 word=DOGS
+  V row=0 col=2 word=AHEAD
+  V row=0 col=4 word=YVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DISHY
+  H row=3 col=0 word=EGADS
+  V row=0 col=0 word=DOVE
+  V row=0 col=2 word=SHEAR
+  V row=0 col=4 word=YAYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DRAGO
+  H row=3 col=0 word=SHAYS
+  V row=0 col=0 word=DEYS
+  V row=0 col=2 word=AHEAD
+  V row=0 col=4 word=OVIS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DRAGO
+  H row=3 col=0 word=SHAYS
+  V row=0 col=0 word=DYES
+  V row=0 col=2 word=AHEAD
+  V row=0 col=4 word=OVIS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=GEHRY
+  H row=3 col=0 word=SHIVS
+  V row=0 col=0 word=GEOS
+  V row=0 col=2 word=HADID
+  V row=0 col=4 word=YAYS
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-76F4256D
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,2  @ (2,1)
+  H2,2 ↔ V4,2  @ (2,3)
+  H2,4 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=17):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+...#...
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=AYRES
+  H row=2 col=1 word=OGIVE
+  V row=0 col=1 word=AHOY
+  V row=0 col=3 word=RAIDS
+  V row=0 col=5 word=SHED
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DISHY
+  H row=2 col=1 word=GRAVY
+  V row=0 col=1 word=DOGE
+  V row=0 col=3 word=SHADE
+  V row=0 col=5 word=YAYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DODGE
+  H row=2 col=1 word=SHAVE
+  V row=0 col=1 word=DASH
+  V row=0 col=3 word=DIARY
+  V row=0 col=5 word=EYES
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DOGIE
+  H row=2 col=1 word=SHADE
+  V row=0 col=1 word=DASH
+  V row=0 col=3 word=GRAVY
+  V row=0 col=5 word=EYES
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DOGIE
+  H row=2 col=1 word=SHAVE
+  V row=0 col=1 word=DASH
+  V row=0 col=3 word=GRAYS
+  V row=0 col=5 word=EYED
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-B9FA6A3D
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=17):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#.#.#
+#####
+..#..
+.....
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DIARY
+  H row=3 col=0 word=SHAYS
+  V row=0 col=0 word=DOGS
+  V row=0 col=2 word=AHEAD
+  V row=0 col=4 word=YVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DISHY
+  H row=3 col=0 word=EGADS
+  V row=0 col=0 word=DOVE
+  V row=0 col=2 word=SHEAR
+  V row=0 col=4 word=YAYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DRAGO
+  H row=3 col=0 word=SHAYS
+  V row=0 col=0 word=DEYS
+  V row=0 col=2 word=AHEAD
+  V row=0 col=4 word=OVIS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DRAGO
+  H row=3 col=0 word=SHAYS
+  V row=0 col=0 word=DYES
+  V row=0 col=2 word=AHEAD
+  V row=0 col=4 word=OVIS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=GEHRY
+  H row=3 col=0 word=SHIVS
+  V row=0 col=0 word=GEOS
+  V row=0 col=2 word=HADID
+  V row=0 col=4 word=YAYS
+
+----------------------------------------------------------------
+
+=== GRID W5×H5  |  FAMILY 2H3V  |  GRID_ID: W5H5-2H3V-02A657A5
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,2  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=17):
+  (0,2) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#.#.#
+#####
+#.#.#
+#####
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=0 word=ADAIR
+  H row=4 col=0 word=SEEDY
+  V row=1 col=0 word=HAYS
+  V row=0 col=2 word=SHAVE
+  V row=1 col=4 word=ORGY
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=ROSES
+  V row=1 col=0 word=HAIR
+  V row=0 col=2 word=DYADS
+  V row=1 col=4 word=HEYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=SHOES
+  V row=1 col=0 word=DAYS
+  V row=0 col=2 word=IDAHO
+  V row=1 col=4 word=REYS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=SHOES
+  V row=1 col=0 word=DAYS
+  V row=0 col=2 word=IDAHO
+  V row=1 col=4 word=YERS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=SIDES
+  V row=1 col=0 word=DAYS
+  V row=0 col=2 word=HOARD
+  V row=1 col=4 word=HEYS
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-E291F893
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,2  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,2  @ (3,4)
+
+CELLS_TRUE (count=17):
+  (0,2) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#####
+#.#.#
+#####
+#.#.#
+.....
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAGE
+  H row=3 col=0 word=HORDE
+  V row=1 col=0 word=ASHY
+  V row=0 col=2 word=HAIRY
+  V row=1 col=4 word=EVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AGAVE
+  H row=3 col=0 word=HEROD
+  V row=1 col=0 word=ASHY
+  V row=0 col=2 word=HAIRS
+  V row=1 col=4 word=EDDY
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AGAVE
+  H row=3 col=0 word=HORDE
+  V row=1 col=0 word=ASHY
+  V row=0 col=2 word=HAIRS
+  V row=1 col=4 word=EYED
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AGAVE
+  H row=3 col=0 word=HORSE
+  V row=1 col=0 word=ADHD
+  V row=0 col=2 word=HAIRY
+  V row=1 col=4 word=EYES
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AHEAD
+  H row=3 col=0 word=HODGE
+  V row=1 col=0 word=ASHY
+  V row=0 col=2 word=VERDI
+  V row=1 col=4 word=DYES
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-6256EB74
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=17):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,2)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+#####
+#.#.#
+#.#.#
+#####
+..#..
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DIARY
+  H row=4 col=0 word=SHAYS
+  V row=1 col=0 word=DOGS
+  V row=1 col=2 word=AHEAD
+  V row=1 col=4 word=YVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DISHY
+  H row=4 col=0 word=EGADS
+  V row=1 col=0 word=DOVE
+  V row=1 col=2 word=SHEAR
+  V row=1 col=4 word=YAYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DRAGO
+  H row=4 col=0 word=SHAYS
+  V row=1 col=0 word=DEYS
+  V row=1 col=2 word=AHEAD
+  V row=1 col=4 word=OVIS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DRAGO
+  H row=4 col=0 word=SHAYS
+  V row=1 col=0 word=DYES
+  V row=1 col=2 word=AHEAD
+  V row=1 col=4 word=OVIS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=GEHRY
+  H row=4 col=0 word=SHIVS
+  V row=1 col=0 word=GEOS
+  V row=1 col=2 word=HADID
+  V row=1 col=4 word=YAYS
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-976B1C3B
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,2  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=17):
+  (0,2) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#.#.#
+#####
+#.#.#
+#####
+.....
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ADAIR
+  H row=4 col=0 word=SEEDY
+  V row=1 col=0 word=HAYS
+  V row=0 col=2 word=SHAVE
+  V row=1 col=4 word=ORGY
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=ROSES
+  V row=1 col=0 word=HAIR
+  V row=0 col=2 word=DYADS
+  V row=1 col=4 word=HEYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=SHOES
+  V row=1 col=0 word=DAYS
+  V row=0 col=2 word=IDAHO
+  V row=1 col=4 word=REYS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=SHOES
+  V row=1 col=0 word=DAYS
+  V row=0 col=2 word=IDAHO
+  V row=1 col=4 word=YERS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=SIDES
+  V row=1 col=0 word=DAYS
+  V row=0 col=2 word=HOARD
+  V row=1 col=4 word=HEYS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-15097876
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (2,1)
+  H1,2 ↔ V4,1  @ (2,3)
+  H1,4 ↔ V5,0  @ (2,5)
+  H2,0 ↔ V3,2  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,2  @ (4,5)
+
+CELLS_TRUE (count=17):
+  (1,3) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+...#...
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ADAGE
+  H row=4 col=1 word=HORDE
+  V row=2 col=1 word=ASHY
+  V row=1 col=3 word=HAIRY
+  V row=2 col=5 word=EVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AGAVE
+  H row=4 col=1 word=HEROD
+  V row=2 col=1 word=ASHY
+  V row=1 col=3 word=HAIRS
+  V row=2 col=5 word=EDDY
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AGAVE
+  H row=4 col=1 word=HORDE
+  V row=2 col=1 word=ASHY
+  V row=1 col=3 word=HAIRS
+  V row=2 col=5 word=EYED
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AGAVE
+  H row=4 col=1 word=HORSE
+  V row=2 col=1 word=ADHD
+  V row=1 col=3 word=HAIRY
+  V row=2 col=5 word=EYES
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AHEAD
+  H row=4 col=1 word=HODGE
+  V row=2 col=1 word=ASHY
+  V row=1 col=3 word=VERDI
+  V row=2 col=5 word=DYES
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-C8E3EAFA
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=17):
+  (0,1) (0,3) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+...#...
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=ADAGE
+  H row=3 col=1 word=SHOED
+  V row=0 col=1 word=HAYS
+  V row=0 col=3 word=SAVOY
+  V row=0 col=5 word=REID
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=ADAGE
+  H row=3 col=1 word=SHOER
+  V row=0 col=1 word=DAYS
+  V row=0 col=3 word=SAVOY
+  V row=0 col=5 word=HEIR
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=ADAIR
+  H row=3 col=1 word=SEEDY
+  V row=0 col=1 word=HAYS
+  V row=0 col=3 word=HAVES
+  V row=0 col=5 word=ORGY
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=ADORE
+  H row=3 col=1 word=SHIVS
+  V row=0 col=1 word=HAYS
+  V row=0 col=3 word=DOGIE
+  V row=0 col=5 word=YEAS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=ADORE
+  H row=3 col=1 word=SIGHS
+  V row=0 col=1 word=DAYS
+  V row=0 col=3 word=HOAGY
+  V row=0 col=5 word=VEES
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-ED11CAC9
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=3:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (3,1)
+  H1,2 ↔ V4,2  @ (3,3)
+  H1,4 ↔ V5,1  @ (3,5)
+  H2,0 ↔ V3,3  @ (5,1)
+  H2,2 ↔ V4,4  @ (5,3)
+  H2,4 ↔ V5,3  @ (5,5)
+
+CELLS_TRUE (count=17):
+  (1,3) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+...#...
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=ADAIR
+  H row=5 col=1 word=SEEDY
+  V row=2 col=1 word=HAYS
+  V row=1 col=3 word=SHAVE
+  V row=2 col=5 word=ORGY
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=AGAVE
+  H row=5 col=1 word=ROSES
+  V row=2 col=1 word=HAIR
+  V row=1 col=3 word=DYADS
+  V row=2 col=5 word=HEYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=AGAVE
+  H row=5 col=1 word=SHOES
+  V row=2 col=1 word=DAYS
+  V row=1 col=3 word=IDAHO
+  V row=2 col=5 word=REYS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=AGAVE
+  H row=5 col=1 word=SHOES
+  V row=2 col=1 word=DAYS
+  V row=1 col=3 word=IDAHO
+  V row=2 col=5 word=YERS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=AGAVE
+  H row=5 col=1 word=SIDES
+  V row=2 col=1 word=DAYS
+  V row=1 col=3 word=HOARD
+  V row=2 col=5 word=HEYS
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-7E606A04
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,2  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,2  @ (3,5)
+
+CELLS_TRUE (count=17):
+  (0,3) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=ADAGE
+  H row=3 col=1 word=HORDE
+  V row=1 col=1 word=ASHY
+  V row=0 col=3 word=HAIRY
+  V row=1 col=5 word=EVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=AGAVE
+  H row=3 col=1 word=HEROD
+  V row=1 col=1 word=ASHY
+  V row=0 col=3 word=HAIRS
+  V row=1 col=5 word=EDDY
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=AGAVE
+  H row=3 col=1 word=HORDE
+  V row=1 col=1 word=ASHY
+  V row=0 col=3 word=HAIRS
+  V row=1 col=5 word=EYED
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=AGAVE
+  H row=3 col=1 word=HORSE
+  V row=1 col=1 word=ADHD
+  V row=0 col=3 word=HAIRY
+  V row=1 col=5 word=EYES
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=AHEAD
+  H row=3 col=1 word=HODGE
+  V row=1 col=1 word=ASHY
+  V row=0 col=3 word=VERDI
+  V row=1 col=5 word=DYES
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-D18A20C7
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=2–5  LEN=4
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (2,0)
+  H1,2 ↔ V4,1  @ (2,2)
+  H1,4 ↔ V5,0  @ (2,4)
+  H2,0 ↔ V3,2  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,2  @ (4,4)
+
+CELLS_TRUE (count=17):
+  (1,2) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,0) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+..#..
+#####
+#.#.#
+#####
+#.#.#
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ADAGE
+  H row=4 col=0 word=HORDE
+  V row=2 col=0 word=ASHY
+  V row=1 col=2 word=HAIRY
+  V row=2 col=4 word=EVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=HEROD
+  V row=2 col=0 word=ASHY
+  V row=1 col=2 word=HAIRS
+  V row=2 col=4 word=EDDY
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=HORDE
+  V row=2 col=0 word=ASHY
+  V row=1 col=2 word=HAIRS
+  V row=2 col=4 word=EYED
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AGAVE
+  H row=4 col=0 word=HORSE
+  V row=2 col=0 word=ADHD
+  V row=1 col=2 word=HAIRY
+  V row=2 col=4 word=EYES
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AHEAD
+  H row=4 col=0 word=HODGE
+  V row=2 col=0 word=ASHY
+  V row=1 col=2 word=VERDI
+  V row=2 col=4 word=DYES
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-CA3FCA33
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=17):
+  (0,0) (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#
+#####
+#.#.#
+#####
+..#..
+.....
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAGE
+  H row=3 col=0 word=SHOED
+  V row=0 col=0 word=HAYS
+  V row=0 col=2 word=SAVOY
+  V row=0 col=4 word=REID
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAGE
+  H row=3 col=0 word=SHOER
+  V row=0 col=0 word=DAYS
+  V row=0 col=2 word=SAVOY
+  V row=0 col=4 word=HEIR
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAIR
+  H row=3 col=0 word=SEEDY
+  V row=0 col=0 word=HAYS
+  V row=0 col=2 word=HAVES
+  V row=0 col=4 word=ORGY
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADORE
+  H row=3 col=0 word=SHIVS
+  V row=0 col=0 word=HAYS
+  V row=0 col=2 word=DOGIE
+  V row=0 col=4 word=YEAS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADORE
+  H row=3 col=0 word=SIGHS
+  V row=0 col=0 word=DAYS
+  V row=0 col=2 word=HOAGY
+  V row=0 col=4 word=VEES
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-A38AF888
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,1  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=17):
+  (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+...#...
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ADAGE
+  H row=4 col=1 word=SHOED
+  V row=1 col=1 word=HAYS
+  V row=1 col=3 word=SAVOY
+  V row=1 col=5 word=REID
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ADAGE
+  H row=4 col=1 word=SHOER
+  V row=1 col=1 word=DAYS
+  V row=1 col=3 word=SAVOY
+  V row=1 col=5 word=HEIR
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ADAIR
+  H row=4 col=1 word=SEEDY
+  V row=1 col=1 word=HAYS
+  V row=1 col=3 word=HAVES
+  V row=1 col=5 word=ORGY
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ADORE
+  H row=4 col=1 word=SHIVS
+  V row=1 col=1 word=HAYS
+  V row=1 col=3 word=DOGIE
+  V row=1 col=5 word=YEAS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ADORE
+  H row=4 col=1 word=SIGHS
+  V row=1 col=1 word=DAYS
+  V row=1 col=3 word=HOAGY
+  V row=1 col=5 word=VEES
+
+----------------------------------------------------------------
+
+=== GRID W5×H5  |  FAMILY 2H3V  |  GRID_ID: W5H5-2H3V-65B55CE6
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,2  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,2  @ (3,4)
+
+CELLS_TRUE (count=17):
+  (0,2) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#####
+#.#.#
+#####
+#.#.#
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ADAGE
+  H row=3 col=0 word=HORDE
+  V row=1 col=0 word=ASHY
+  V row=0 col=2 word=HAIRY
+  V row=1 col=4 word=EVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AGAVE
+  H row=3 col=0 word=HEROD
+  V row=1 col=0 word=ASHY
+  V row=0 col=2 word=HAIRS
+  V row=1 col=4 word=EDDY
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AGAVE
+  H row=3 col=0 word=HORDE
+  V row=1 col=0 word=ASHY
+  V row=0 col=2 word=HAIRS
+  V row=1 col=4 word=EYED
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AGAVE
+  H row=3 col=0 word=HORSE
+  V row=1 col=0 word=ADHD
+  V row=0 col=2 word=HAIRY
+  V row=1 col=4 word=EYES
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AHEAD
+  H row=3 col=0 word=HODGE
+  V row=1 col=0 word=ASHY
+  V row=0 col=2 word=VERDI
+  V row=1 col=4 word=DYES
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-6A6F1031
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,0  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=17):
+  (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+...#...
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=DIARY
+  H row=4 col=1 word=SHAYS
+  V row=1 col=1 word=DOGS
+  V row=1 col=3 word=AHEAD
+  V row=1 col=5 word=YVES
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=DISHY
+  H row=4 col=1 word=EGADS
+  V row=1 col=1 word=DOVE
+  V row=1 col=3 word=SHEAR
+  V row=1 col=5 word=YAYS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=DRAGO
+  H row=4 col=1 word=SHAYS
+  V row=1 col=1 word=DEYS
+  V row=1 col=3 word=AHEAD
+  V row=1 col=5 word=OVIS
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=DRAGO
+  H row=4 col=1 word=SHAYS
+  V row=1 col=1 word=DYES
+  V row=1 col=3 word=AHEAD
+  V row=1 col=5 word=OVIS
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=GEHRY
+  H row=4 col=1 word=SHIVS
+  V row=1 col=1 word=GEOS
+  V row=1 col=3 word=HADID
+  V row=1 col=5 word=YAYS
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-D9A36690
+TOTAL_TRUE: 17   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,2  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=17):
+  (0,0) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,2) (5,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#...#
+#####
+#.#.#
+#####
+..#..
+..#..
+
+SOLUTION #1:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAGE
+  H row=3 col=0 word=SHOES
+  V row=0 col=0 word=HAYS
+  V row=1 col=2 word=AVOID
+  V row=0 col=4 word=REYS
+
+SOLUTION #2:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAGE
+  H row=3 col=0 word=SHOES
+  V row=0 col=0 word=HAYS
+  V row=1 col=2 word=AVOID
+  V row=0 col=4 word=YERS
+
+SOLUTION #3:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADDER
+  H row=3 col=0 word=ESSAY
+  V row=0 col=0 word=HAVE
+  V row=1 col=2 word=DISHY
+  V row=0 col=4 word=ORGY
+
+SOLUTION #4:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ARSED
+  H row=3 col=0 word=SHAVE
+  V row=0 col=0 word=GAYS
+  V row=1 col=2 word=SHADY
+  V row=0 col=4 word=ODIE
+
+SOLUTION #5:
+
+PHRASE: Every dog has his day
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ASIDE
+  H row=3 col=0 word=SHOED
+  V row=0 col=0 word=GAYS
+  V row=1 col=2 word=IVORY
+  V row=0 col=4 word=HEAD
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 25
+Solved grids: 25
+Total unique solutions: 125
+Elapsed: 11.51s

@@ -1,0 +1,11 @@
+PHRASE: indiana jones and the temple of doom
+CLEAN_LETTERS: INDIANAJONESANDTHETEMPLEOFDOOM  (len=30)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_4.txt
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 15
+Solved grids: 0
+Total unique solutions: 0
+Elapsed: 31.24s

@@ -1,0 +1,40 @@
+PHRASE: "It's like déjà vu all over again."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ANGLERS
+  H row=4 col=0 word=VIVALDI
+  V row=0 col=1 word=JUNKIE
+  V row=0 col=3 word=TALIA
+  V row=0 col=5 word=LAREDO
+  
+  
+  
+  PHRASE: Breakfast at Tiffany's
+  
+  WIDTH: 5
+  HEIGHT: 6
+  
+  WORDS:
+    H row=1 col=0 word=BEAST
+    H row=3 col=0 word=STAFF
+    V row=1 col=0 word=BASIN
+    V row=0 col=2 word=KARAT
+   V row=1 col=4 word=TAFFY
+  
+  
+  
+  PHRASE: United we stand, divided we fall.
+  
+  WIDTH: 7
+  HEIGHT: 6
+  
+  WORDS:
+    H row=2 col=0 word=INDIANA
+    H row=4 col=0 word=WILDEST
+    V row=1 col=0 word=VIEW
+    V row=0 col=2 word=FUDDLE
+    V row=0 col=4 word=LEADED
+  V row=1 col=6 word=WATT

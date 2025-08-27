@@ -1,0 +1,727 @@
+PHRASE: you cant always get what you want
+CLEAN_LETTERS: YOUCANTALWAYSGETWHATYOUWANT  (len=27)
+GRID RANKING: duplicate squares (desc); tie-break seed=0
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-87EF4B9E
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=1  C=0–6  LEN=7
+  [S2] H  R=3  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=0  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S4,1  @ (1,0)
+  S1,6 ↔ S5,1  @ (1,6)
+  S2,0 ↔ S4,3  @ (3,0)
+  S2,6 ↔ S5,3  @ (3,6)
+  S3,0 ↔ S4,5  @ (5,0)
+  S3,6 ↔ S5,5  @ (5,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#     #
+#######
+#     #
+#######
+#     #
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-7E5E2DB9
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=1  C=0–6  LEN=7
+  [S2] H  R=3  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=1  R=0–5  LEN=6
+  [S5] V  C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,1 ↔ S4,1  @ (1,1)
+  S1,5 ↔ S5,1  @ (1,5)
+  S2,1 ↔ S4,3  @ (3,1)
+  S2,5 ↔ S5,3  @ (3,5)
+  S3,1 ↔ S4,5  @ (5,1)
+  S3,5 ↔ S5,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+ #   # 
+#######
+ #   # 
+#######
+ #   # 
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-51740462
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=2  C=0–6  LEN=7
+  [S3] H  R=4  C=0–6  LEN=7
+  [S4] V  C=1  R=0–5  LEN=6
+  [S5] V  C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,1 ↔ S4,0  @ (0,1)
+  S1,5 ↔ S5,0  @ (0,5)
+  S2,1 ↔ S4,2  @ (2,1)
+  S2,5 ↔ S5,2  @ (2,5)
+  S3,1 ↔ S4,4  @ (4,1)
+  S3,5 ↔ S5,4  @ (4,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII:
+#######
+ #   # 
+#######
+ #   # 
+#######
+ #   # 
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-05708AD3
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=3  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=1  R=0–5  LEN=6
+  [S5] V  C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,1 ↔ S4,0  @ (0,1)
+  S1,5 ↔ S5,0  @ (0,5)
+  S2,1 ↔ S4,3  @ (3,1)
+  S2,5 ↔ S5,3  @ (3,5)
+  S3,1 ↔ S4,5  @ (5,1)
+  S3,5 ↔ S5,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#######
+ #   # 
+ #   # 
+#######
+ #   # 
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-CB9370A9
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=2  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=1  R=0–5  LEN=6
+  [S5] V  C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,1 ↔ S4,0  @ (0,1)
+  S1,5 ↔ S5,0  @ (0,5)
+  S2,1 ↔ S4,2  @ (2,1)
+  S2,5 ↔ S5,2  @ (2,5)
+  S3,1 ↔ S4,5  @ (5,1)
+  S3,5 ↔ S5,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#######
+ #   # 
+#######
+ #   # 
+ #   # 
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-EA932CF4
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=2  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=2  R=0–5  LEN=6
+  [S5] V  C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,2 ↔ S4,0  @ (0,2)
+  S1,4 ↔ S5,0  @ (0,4)
+  S2,2 ↔ S4,2  @ (2,2)
+  S2,4 ↔ S5,2  @ (2,4)
+  S3,2 ↔ S4,5  @ (5,2)
+  S3,4 ↔ S5,5  @ (5,4)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#######
+  # #  
+#######
+  # #  
+  # #  
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-9369B015
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=2  C=0–6  LEN=7
+  [S3] H  R=4  C=0–6  LEN=7
+  [S4] V  C=2  R=0–5  LEN=6
+  [S5] V  C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,2 ↔ S4,0  @ (0,2)
+  S1,4 ↔ S5,0  @ (0,4)
+  S2,2 ↔ S4,2  @ (2,2)
+  S2,4 ↔ S5,2  @ (2,4)
+  S3,2 ↔ S4,4  @ (4,2)
+  S3,4 ↔ S5,4  @ (4,4)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,2) (5,4)
+
+ASCII:
+#######
+  # #  
+#######
+  # #  
+#######
+  # #  
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-5D82C1BC
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=2  C=0–6  LEN=7
+  [S3] H  R=4  C=0–6  LEN=7
+  [S4] V  C=0  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S4,0  @ (0,0)
+  S1,6 ↔ S5,0  @ (0,6)
+  S2,0 ↔ S4,2  @ (2,0)
+  S2,6 ↔ S5,2  @ (2,6)
+  S3,0 ↔ S4,4  @ (4,0)
+  S3,6 ↔ S5,4  @ (4,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII:
+#######
+#     #
+#######
+#     #
+#######
+#     #
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-D8644AEC
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=1  C=0–6  LEN=7
+  [S2] H  R=3  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=2  R=0–5  LEN=6
+  [S5] V  C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,2 ↔ S4,1  @ (1,2)
+  S1,4 ↔ S5,1  @ (1,4)
+  S2,2 ↔ S4,3  @ (3,2)
+  S2,4 ↔ S5,3  @ (3,4)
+  S3,2 ↔ S4,5  @ (5,2)
+  S3,4 ↔ S5,5  @ (5,4)
+
+CELLS_TRUE (count=27):
+  (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+  # #  
+#######
+  # #  
+#######
+  # #  
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-0FCB615F
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=3  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=2  R=0–5  LEN=6
+  [S5] V  C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,2 ↔ S4,0  @ (0,2)
+  S1,4 ↔ S5,0  @ (0,4)
+  S2,2 ↔ S4,3  @ (3,2)
+  S2,4 ↔ S5,3  @ (3,4)
+  S3,2 ↔ S4,5  @ (5,2)
+  S3,4 ↔ S5,5  @ (5,4)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#######
+  # #  
+  # #  
+#######
+  # #  
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-B8A5F33D
+TOTAL_TRUE: 27   INTERSECTIONS: 4   DUP_SQUARES: 4
+
+SLOTS (5 total):
+  [S1] H  R=3  C=0–6  LEN=7
+  [S2] V  C=0  R=0–5  LEN=6
+  [S3] V  C=2  R=0–5  LEN=6
+  [S4] V  C=4  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S2,3  @ (3,0)
+  S1,2 ↔ S3,3  @ (3,2)
+  S1,4 ↔ S4,3  @ (3,4)
+  S1,6 ↔ S5,3  @ (3,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII:
+# # # #
+# # # #
+# # # #
+#######
+# # # #
+# # # #
+
+SOLUTION #1:
+  H@R3  R=3  C=0–6  LEN=7   WORD=GESTALT
+  V@C0  C=0  R=0–5  LEN=6   WORD=CAUGHT
+  V@C2  C=2  R=0–5  LEN=6   WORD=NAYSAY
+  V@C4  C=4  R=0–5  LEN=6   WORD=OTTAWA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WONTON
+
+SOLUTION #2:
+  H@R3  R=3  C=0–6  LEN=7   WORD=NAHUATL
+  V@C0  C=0  R=0–5  LEN=6   WORD=CANNOT
+  V@C2  C=2  R=0–5  LEN=6   WORD=OUGHTA
+  V@C4  C=4  R=0–5  LEN=6   WORD=SWEATY
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+SOLUTION #3:
+  H@R3  R=3  C=0–6  LEN=7   WORD=NAHUATL
+  V@C0  C=0  R=0–5  LEN=6   WORD=COUNTY
+  V@C2  C=2  R=0–5  LEN=6   WORD=NATHAN
+  V@C4  C=4  R=0–5  LEN=6   WORD=SWEATY
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+SOLUTION #4:
+  H@R3  R=3  C=0–6  LEN=7   WORD=OCTANES
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANTONY
+  V@C2  C=2  R=0–5  LEN=6   WORD=TOOTHY
+  V@C4  C=4  R=0–5  LEN=6   WORD=WALNUT
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #5:
+  H@R3  R=3  C=0–6  LEN=7   WORD=OCTANES
+  V@C0  C=0  R=0–5  LEN=6   WORD=NAGOYA
+  V@C2  C=2  R=0–5  LEN=6   WORD=TOOTHY
+  V@C4  C=4  R=0–5  LEN=6   WORD=WALNUT
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #6:
+  H@R3  R=3  C=0–6  LEN=7   WORD=OUTLAWS
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANTONY
+  V@C2  C=2  R=0–5  LEN=6   WORD=CHATTY
+  V@C4  C=4  R=0–5  LEN=6   WORD=OTTAWA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #7:
+  H@R3  R=3  C=0–6  LEN=7   WORD=OUTLAWS
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYONE
+  V@C2  C=2  R=0–5  LEN=6   WORD=CHATTY
+  V@C4  C=4  R=0–5  LEN=6   WORD=OTTAWA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #8:
+  H@R3  R=3  C=0–6  LEN=7   WORD=OUTLAWS
+  V@C0  C=0  R=0–5  LEN=6   WORD=NAGOYA
+  V@C2  C=2  R=0–5  LEN=6   WORD=TATTOO
+  V@C4  C=4  R=0–5  LEN=6   WORD=TENANT
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #9:
+  H@R3  R=3  C=0–6  LEN=7   WORD=OUTLAYS
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANTONY
+  V@C2  C=2  R=0–5  LEN=6   WORD=CHATTY
+  V@C4  C=4  R=0–5  LEN=6   WORD=OTTAWA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #10:
+  H@R3  R=3  C=0–6  LEN=7   WORD=OUTLAYS
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYONE
+  V@C2  C=2  R=0–5  LEN=6   WORD=CHATTY
+  V@C4  C=4  R=0–5  LEN=6   WORD=OTTAWA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #11:
+  H@R3  R=3  C=0–6  LEN=7   WORD=OUTLAYS
+  V@C0  C=0  R=0–5  LEN=6   WORD=NAGOYA
+  V@C2  C=2  R=0–5  LEN=6   WORD=TATTOO
+  V@C4  C=4  R=0–5  LEN=6   WORD=TENANT
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #12:
+  H@R3  R=3  C=0–6  LEN=7   WORD=WALTONS
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYWAY
+  V@C2  C=2  R=0–5  LEN=6   WORD=CUTLET
+  V@C4  C=4  R=0–5  LEN=6   WORD=TOYOTA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAUSAU
+
+SOLUTION #13:
+  H@R3  R=3  C=0–6  LEN=7   WORD=WASHOUT
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYWAY
+  V@C2  C=2  R=0–5  LEN=6   WORD=CATSAT
+  V@C4  C=4  R=0–5  LEN=6   WORD=EULOGY
+  V@C6  C=6  R=0–5  LEN=6   WORD=WONTON
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-48D43A86
+TOTAL_TRUE: 27   INTERSECTIONS: 4   DUP_SQUARES: 4
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] V  C=0  R=0–5  LEN=6
+  [S3] V  C=2  R=0–5  LEN=6
+  [S4] V  C=4  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S2,0  @ (0,0)
+  S1,2 ↔ S3,0  @ (0,2)
+  S1,4 ↔ S4,0  @ (0,4)
+  S1,6 ↔ S5,0  @ (0,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII:
+#######
+# # # #
+# # # #
+# # # #
+# # # #
+# # # #
+
+SOLUTION #1:
+  H@R0  R=0  C=0–6  LEN=7   WORD=CANYONS
+  V@C0  C=0  R=0–5  LEN=6   WORD=CHATTY
+  V@C2  C=2  R=0–5  LEN=6   WORD=NOUGAT
+  V@C4  C=4  R=0–5  LEN=6   WORD=OUTLAW
+  V@C6  C=6  R=0–5  LEN=6   WORD=SEAWAY
+
+SOLUTION #2:
+  H@R0  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  V@C0  C=0  R=0–5  LEN=6   WORD=CATGUT
+  V@C2  C=2  R=0–5  LEN=6   WORD=TWENTY
+  V@C4  C=4  R=0–5  LEN=6   WORD=WAYLON
+  V@C6  C=6  R=0–5  LEN=6   WORD=YAHOOS
+
+SOLUTION #3:
+  H@R0  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  V@C0  C=0  R=0–5  LEN=6   WORD=CUTOUT
+  V@C2  C=2  R=0–5  LEN=6   WORD=TWENTY
+  V@C4  C=4  R=0–5  LEN=6   WORD=WAYLAY
+  V@C6  C=6  R=0–5  LEN=6   WORD=YAHOOS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-1B0328D1
+TOTAL_TRUE: 27   INTERSECTIONS: 4   DUP_SQUARES: 4
+
+SLOTS (5 total):
+  [S1] H  R=5  C=0–6  LEN=7
+  [S2] V  C=0  R=0–5  LEN=6
+  [S3] V  C=2  R=0–5  LEN=6
+  [S4] V  C=4  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S2,5  @ (5,0)
+  S1,2 ↔ S3,5  @ (5,2)
+  S1,4 ↔ S4,5  @ (5,4)
+  S1,6 ↔ S5,5  @ (5,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+# # # #
+# # # #
+# # # #
+# # # #
+# # # #
+#######
+
+SOLUTION #1:
+  H@R5  R=5  C=0–6  LEN=7   WORD=OUTLAWS
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYWHO
+  V@C2  C=2  R=0–5  LEN=6   WORD=CATGUT
+  V@C4  C=4  R=0–5  LEN=6   WORD=TOYOTA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYNES
+
+SOLUTION #2:
+  H@R5  R=5  C=0–6  LEN=7   WORD=OUTLAYS
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYWHO
+  V@C2  C=2  R=0–5  LEN=6   WORD=CATGUT
+  V@C4  C=4  R=0–5  LEN=6   WORD=OTTAWA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYNES
+
+SOLUTION #3:
+  H@R5  R=5  C=0–6  LEN=7   WORD=OUTSTAY
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYHOO
+  V@C2  C=2  R=0–5  LEN=6   WORD=CATGUT
+  V@C4  C=4  R=0–5  LEN=6   WORD=TENANT
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+SOLUTION #4:
+  H@R5  R=5  C=0–6  LEN=7   WORD=OUTSTAY
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYWHO
+  V@C2  C=2  R=0–5  LEN=6   WORD=CATGUT
+  V@C4  C=4  R=0–5  LEN=6   WORD=TENANT
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+SOLUTION #5:
+  H@R5  R=5  C=0–6  LEN=7   WORD=OUTSTAY
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYWHO
+  V@C2  C=2  R=0–5  LEN=6   WORD=CUTOUT
+  V@C4  C=4  R=0–5  LEN=6   WORD=TENANT
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+SOLUTION #6:
+  H@R5  R=5  C=0–6  LEN=7   WORD=TUSCANY
+  V@C0  C=0  R=0–5  LEN=6   WORD=NOUGAT
+  V@C2  C=2  R=0–5  LEN=6   WORD=THETAS
+  V@C4  C=4  R=0–5  LEN=6   WORD=TOYOTA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+SOLUTION #7:
+  H@R5  R=5  C=0–6  LEN=7   WORD=TUSCANY
+  V@C0  C=0  R=0–5  LEN=6   WORD=TAUGHT
+  V@C2  C=2  R=0–5  LEN=6   WORD=TENONS
+  V@C4  C=4  R=0–5  LEN=6   WORD=TOYOTA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+SOLUTION #8:
+  H@R5  R=5  C=0–6  LEN=7   WORD=TUSCANY
+  V@C0  C=0  R=0–5  LEN=6   WORD=TAUGHT
+  V@C2  C=2  R=0–5  LEN=6   WORD=TONNES
+  V@C4  C=4  R=0–5  LEN=6   WORD=TOYOTA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+SOLUTION #9:
+  H@R5  R=5  C=0–6  LEN=7   WORD=TUSCANY
+  V@C0  C=0  R=0–5  LEN=6   WORD=TENANT
+  V@C2  C=2  R=0–5  LEN=6   WORD=TOUGHS
+  V@C4  C=4  R=0–5  LEN=6   WORD=TOYOTA
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-2A027C55
+TOTAL_TRUE: 27   INTERSECTIONS: 4   DUP_SQUARES: 4
+
+SLOTS (5 total):
+  [S1] H  R=1  C=0–6  LEN=7
+  [S2] V  C=0  R=0–5  LEN=6
+  [S3] V  C=2  R=0–5  LEN=6
+  [S4] V  C=4  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S2,1  @ (1,0)
+  S1,2 ↔ S3,1  @ (1,2)
+  S1,4 ↔ S4,1  @ (1,4)
+  S1,6 ↔ S5,1  @ (1,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII:
+# # # #
+#######
+# # # #
+# # # #
+# # # #
+# # # #
+
+SOLUTION #1:
+  H@R1  R=1  C=0–6  LEN=7   WORD=CANTATA
+  V@C0  C=0  R=0–5  LEN=6   WORD=ACETYL
+  V@C2  C=2  R=0–5  LEN=6   WORD=ANYWAY
+  V@C4  C=4  R=0–5  LEN=6   WORD=HANSON
+  V@C6  C=6  R=0–5  LEN=6   WORD=TATTOO
+
+SOLUTION #2:
+  H@R1  R=1  C=0–6  LEN=7   WORD=LENGTHY
+  V@C0  C=0  R=0–5  LEN=6   WORD=ALWAYS
+  V@C2  C=2  R=0–5  LEN=6   WORD=ANYWAY
+  V@C4  C=4  R=0–5  LEN=6   WORD=OTTAWA
+  V@C6  C=6  R=0–5  LEN=6   WORD=TYCOON
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-121A2C68
+TOTAL_TRUE: 27   INTERSECTIONS: 4   DUP_SQUARES: 4
+
+SLOTS (5 total):
+  [S1] H  R=4  C=0–6  LEN=7
+  [S2] V  C=0  R=0–5  LEN=6
+  [S3] V  C=2  R=0–5  LEN=6
+  [S4] V  C=4  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S2,4  @ (4,0)
+  S1,2 ↔ S3,4  @ (4,2)
+  S1,4 ↔ S4,4  @ (4,4)
+  S1,6 ↔ S5,4  @ (4,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII:
+# # # #
+# # # #
+# # # #
+# # # #
+#######
+# # # #
+
+SOLUTION #1:
+  H@R4  R=4  C=0–6  LEN=7   WORD=ACTUATE
+  V@C0  C=0  R=0–5  LEN=6   WORD=ANYWAY
+  V@C2  C=2  R=0–5  LEN=6   WORD=OUGHTA
+  V@C4  C=4  R=0–5  LEN=6   WORD=WAYLAY
+  V@C6  C=6  R=0–5  LEN=6   WORD=WOOTEN
+
+SOLUTION #2:
+  H@R4  R=4  C=0–6  LEN=7   WORD=ACTUATE
+  V@C0  C=0  R=0–5  LEN=6   WORD=NAYSAY
+  V@C2  C=2  R=0–5  LEN=6   WORD=OUGHTA
+  V@C4  C=4  R=0–5  LEN=6   WORD=WAYLAY
+  V@C6  C=6  R=0–5  LEN=6   WORD=WOOTEN
+
+SOLUTION #3:
+  H@R4  R=4  C=0–6  LEN=7   WORD=TATYANA
+  V@C0  C=0  R=0–5  LEN=6   WORD=COUNTY
+  V@C2  C=2  R=0–5  LEN=6   WORD=GHETTO
+  V@C4  C=4  R=0–5  LEN=6   WORD=WAUSAU
+  V@C6  C=6  R=0–5  LEN=6   WORD=WAYLAY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-56DA7EC4
+TOTAL_TRUE: 27   INTERSECTIONS: 4   DUP_SQUARES: 4
+
+SLOTS (5 total):
+  [S1] H  R=2  C=0–6  LEN=7
+  [S2] V  C=0  R=0–5  LEN=6
+  [S3] V  C=2  R=0–5  LEN=6
+  [S4] V  C=4  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S2,2  @ (2,0)
+  S1,2 ↔ S3,2  @ (2,2)
+  S1,4 ↔ S4,2  @ (2,4)
+  S1,6 ↔ S5,2  @ (2,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII:
+# # # #
+# # # #
+#######
+# # # #
+# # # #
+# # # #
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 16
+Solved grids: 5
+Total unique solutions: 30
+Elapsed: 11.92s

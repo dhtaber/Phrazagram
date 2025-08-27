@@ -1,0 +1,1240 @@
+PHRASE: THE VERY HUNGRY CATERPILLAR
+CLEAN_LETTERS: THEVERYHUNGRYCATERPILLAR  (len=24)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_4.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-BEAFE703
+TOTAL_TRUE: 24   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=0–5  LEN=6
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,1)
+  H1,2 ↔ V5,1  @ (1,3)
+  H1,4 ↔ V6,0  @ (1,5)
+  H2,1 ↔ V4,2  @ (3,1)
+  H2,3 ↔ V5,3  @ (3,3)
+  H2,5 ↔ V6,2  @ (3,5)
+  H3,0 ↔ V4,4  @ (5,1)
+  H3,2 ↔ V5,5  @ (5,3)
+  H3,4 ↔ V6,4  @ (5,5)
+
+CELLS_TRUE (count=24):
+  (0,3) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=CHIRP
+  H row=3 col=0 word=HAGERTY
+  H row=5 col=1 word=ELREY
+  V row=1 col=1 word=CRAVE
+  V row=0 col=3 word=LINEAR
+  V row=1 col=5 word=PUTTY
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H4V  |  GRID_ID: W7H5-2H4V-CE9E6C85
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H1,6 ↔ V6,0  @ (0,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H2,6 ↔ V6,3  @ (3,6)
+
+CELLS_TRUE (count=24):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.#.#.#
+#.#.#.#
+#######
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=CULPRIT
+  H row=3 col=0 word=THERAGE
+  V row=0 col=0 word=CHET
+  V row=0 col=2 word=LAVER
+  V row=0 col=4 word=RYLAN
+  V row=0 col=6 word=TYRE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-EE822B84
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H1,6 ↔ V6,0  @ (1,6)
+  H2,0 ↔ V3,2  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H2,6 ↔ V6,2  @ (3,6)
+
+CELLS_TRUE (count=24):
+  (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,2) (4,4) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#######
+#.#.#.#
+#######
+#.#.#.#
+.......
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CURRANT
+  H row=3 col=0 word=EVILEYE
+  V row=1 col=0 word=CHET
+  V row=0 col=2 word=GRAIL
+  V row=0 col=4 word=PARER
+  V row=1 col=6 word=THEY
+
+SOLUTION #2:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CULVERT
+  H row=3 col=0 word=IHEARYA
+  V row=1 col=0 word=CHIT
+  V row=0 col=2 word=ELLEN
+  V row=0 col=4 word=GERRY
+  V row=1 col=6 word=TRAP
+
+SOLUTION #3:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CULVERT
+  H row=3 col=0 word=IHEARYA
+  V row=1 col=0 word=CRIT
+  V row=0 col=2 word=ELLEN
+  V row=0 col=4 word=GEHRY
+  V row=1 col=6 word=TRAP
+
+SOLUTION #4:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AIRVENT
+  H row=3 col=0 word=TREACLE
+  V row=1 col=0 word=ARTY
+  V row=0 col=2 word=GRUEL
+  V row=0 col=4 word=PERCH
+  V row=1 col=6 word=THEY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-72ED68C9
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H1,6 ↔ V6,1  @ (1,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H2,6 ↔ V6,3  @ (3,6)
+
+CELLS_TRUE (count=24):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#######
+#.#.#.#
+#######
+..#.#..
+.......
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ALLHERE
+  H row=3 col=0 word=THERAIN
+  V row=0 col=0 word=CATT
+  V row=0 col=2 word=GLUEY
+  V row=0 col=4 word=REPAY
+  V row=0 col=6 word=VERN
+
+SOLUTION #2:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AVERAGE
+  H row=3 col=0 word=TYRRELL
+  V row=0 col=0 word=CATT
+  V row=0 col=2 word=NEHRU
+  V row=0 col=4 word=PAYER
+  V row=0 col=6 word=HEIL
+
+SOLUTION #3:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=HILLARY
+  H row=3 col=0 word=THEATRE
+  V row=0 col=0 word=CHET
+  V row=0 col=2 word=GLUEY
+  V row=0 col=4 word=PARTV
+  V row=0 col=6 word=RYNE
+
+SOLUTION #4:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=HEAVING
+  H row=3 col=0 word=THERAPY
+  V row=0 col=0 word=CHET
+  V row=0 col=2 word=RATER
+  V row=0 col=4 word=RIYAL
+  V row=0 col=6 word=UGLY
+
+SOLUTION #5:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=HEATING
+  H row=3 col=0 word=THERAPY
+  V row=0 col=0 word=CHET
+  V row=0 col=2 word=RAVER
+  V row=0 col=4 word=RIYAL
+  V row=0 col=6 word=UGLY
+
+SOLUTION #6:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ARCHERY
+  H row=3 col=0 word=GRUYERE
+  V row=0 col=0 word=HAIG
+  V row=0 col=2 word=ACTUP
+  V row=0 col=4 word=LEVEL
+  V row=0 col=6 word=TYNE
+
+SOLUTION #7:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AVARICE
+  H row=3 col=0 word=THERENT
+  V row=0 col=0 word=HAUT
+  V row=0 col=2 word=GAYER
+  V row=0 col=4 word=RILEY
+  V row=0 col=6 word=PELT
+
+SOLUTION #8:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CULVERT
+  H row=3 col=0 word=RAPHAEL
+  V row=0 col=0 word=ICER
+  V row=0 col=2 word=GLYPH
+  V row=0 col=4 word=RERAN
+  V row=0 col=6 word=TTYL
+
+SOLUTION #9:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CHALUPA
+  H row=3 col=0 word=REENTRY
+  V row=0 col=0 word=ICER
+  V row=0 col=2 word=HAGEL
+  V row=0 col=4 word=RUTTY
+  V row=0 col=6 word=VARY
+
+SOLUTION #10:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ELANTRA
+  H row=3 col=0 word=THECURE
+  V row=0 col=0 word=PERT
+  V row=0 col=2 word=HALEY
+  V row=0 col=4 word=ITGUY
+  V row=0 col=6 word=RAVE
+
+SOLUTION #11:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=EVACUEE
+  H row=3 col=0 word=TIGHTLY
+  V row=0 col=0 word=PERT
+  V row=0 col=2 word=AARGH
+  V row=0 col=4 word=RUNTY
+  V row=0 col=6 word=RELY
+
+SOLUTION #12:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ELANTRA
+  H row=3 col=0 word=THECURE
+  V row=0 col=0 word=PERT
+  V row=0 col=2 word=HAVER
+  V row=0 col=4 word=ITGUY
+  V row=0 col=6 word=YALE
+
+SOLUTION #13:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=HELLUVA
+  H row=3 col=0 word=THERAPY
+  V row=0 col=0 word=CHIT
+  V row=0 col=2 word=ELREY
+  V row=0 col=4 word=RUNAT
+  V row=0 col=6 word=GARY
+
+SOLUTION #14:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AVARICE
+  H row=3 col=0 word=TRUTHER
+  V row=0 col=0 word=HART
+  V row=0 col=2 word=LAYUP
+  V row=0 col=4 word=NIGHY
+  V row=0 col=6 word=LEER
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-A5F77EF7
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H1,6 ↔ V6,0  @ (1,6)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+  H2,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=24):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+#.#.#.#
+#.#.#.#
+#######
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CULPRIT
+  H row=4 col=0 word=THERAGE
+  V row=1 col=0 word=CHET
+  V row=1 col=2 word=LAVER
+  V row=1 col=4 word=RYLAN
+  V row=1 col=6 word=TYRE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-D92F7C66
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,1  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H1,6 ↔ V6,1  @ (2,6)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+  H2,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=24):
+  (1,0) (1,2) (1,4) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#.#.#.#
+#######
+#.#.#.#
+#######
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ALLHERE
+  H row=4 col=0 word=THERAIN
+  V row=1 col=0 word=CATT
+  V row=1 col=2 word=GLUEY
+  V row=1 col=4 word=REPAY
+  V row=1 col=6 word=VERN
+
+SOLUTION #2:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AVERAGE
+  H row=4 col=0 word=TYRRELL
+  V row=1 col=0 word=CATT
+  V row=1 col=2 word=NEHRU
+  V row=1 col=4 word=PAYER
+  V row=1 col=6 word=HEIL
+
+SOLUTION #3:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=HILLARY
+  H row=4 col=0 word=THEATRE
+  V row=1 col=0 word=CHET
+  V row=1 col=2 word=GLUEY
+  V row=1 col=4 word=PARTV
+  V row=1 col=6 word=RYNE
+
+SOLUTION #4:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=HEAVING
+  H row=4 col=0 word=THERAPY
+  V row=1 col=0 word=CHET
+  V row=1 col=2 word=RATER
+  V row=1 col=4 word=RIYAL
+  V row=1 col=6 word=UGLY
+
+SOLUTION #5:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=HEATING
+  H row=4 col=0 word=THERAPY
+  V row=1 col=0 word=CHET
+  V row=1 col=2 word=RAVER
+  V row=1 col=4 word=RIYAL
+  V row=1 col=6 word=UGLY
+
+SOLUTION #6:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ARCHERY
+  H row=4 col=0 word=GRUYERE
+  V row=1 col=0 word=HAIG
+  V row=1 col=2 word=ACTUP
+  V row=1 col=4 word=LEVEL
+  V row=1 col=6 word=TYNE
+
+SOLUTION #7:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AVARICE
+  H row=4 col=0 word=THERENT
+  V row=1 col=0 word=HAUT
+  V row=1 col=2 word=GAYER
+  V row=1 col=4 word=RILEY
+  V row=1 col=6 word=PELT
+
+SOLUTION #8:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=CULVERT
+  H row=4 col=0 word=RAPHAEL
+  V row=1 col=0 word=ICER
+  V row=1 col=2 word=GLYPH
+  V row=1 col=4 word=RERAN
+  V row=1 col=6 word=TTYL
+
+SOLUTION #9:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=CHALUPA
+  H row=4 col=0 word=REENTRY
+  V row=1 col=0 word=ICER
+  V row=1 col=2 word=HAGEL
+  V row=1 col=4 word=RUTTY
+  V row=1 col=6 word=VARY
+
+SOLUTION #10:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ELANTRA
+  H row=4 col=0 word=THECURE
+  V row=1 col=0 word=PERT
+  V row=1 col=2 word=HALEY
+  V row=1 col=4 word=ITGUY
+  V row=1 col=6 word=RAVE
+
+SOLUTION #11:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=EVACUEE
+  H row=4 col=0 word=TIGHTLY
+  V row=1 col=0 word=PERT
+  V row=1 col=2 word=AARGH
+  V row=1 col=4 word=RUNTY
+  V row=1 col=6 word=RELY
+
+SOLUTION #12:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ELANTRA
+  H row=4 col=0 word=THECURE
+  V row=1 col=0 word=PERT
+  V row=1 col=2 word=HAVER
+  V row=1 col=4 word=ITGUY
+  V row=1 col=6 word=YALE
+
+SOLUTION #13:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=HELLUVA
+  H row=4 col=0 word=THERAPY
+  V row=1 col=0 word=CHIT
+  V row=1 col=2 word=ELREY
+  V row=1 col=4 word=RUNAT
+  V row=1 col=6 word=GARY
+
+SOLUTION #14:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AVARICE
+  H row=4 col=0 word=TRUTHER
+  V row=1 col=0 word=HART
+  V row=1 col=2 word=LAYUP
+  V row=1 col=4 word=NIGHY
+  V row=1 col=6 word=LEER
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-24BD2096
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–3  LEN=4
+  [V] C=4  R=0–3  LEN=4
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H1,6 ↔ V6,0  @ (0,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H2,6 ↔ V6,3  @ (3,6)
+
+CELLS_TRUE (count=24):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.#.#.#
+#.#.#.#
+#######
+#.....#
+.......
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=CHATGPT
+  H row=3 col=0 word=RELIEVE
+  V row=0 col=0 word=CHURN
+  V row=0 col=2 word=ARAL
+  V row=0 col=4 word=GYRE
+  V row=0 col=6 word=TYLER
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-103B2E1A
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H1,6 ↔ V6,0  @ (0,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H2,6 ↔ V6,3  @ (3,6)
+
+CELLS_TRUE (count=24):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.#.#.#
+#.#.#.#
+#######
+..#.#..
+.......
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=CULPRIT
+  H row=3 col=0 word=THERAGE
+  V row=0 col=0 word=CHET
+  V row=0 col=2 word=LAVER
+  V row=0 col=4 word=RYLAN
+  V row=0 col=6 word=TYRE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-F33491FB
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=1–4  LEN=4
+  [V] C=4  R=1–4  LEN=4
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H1,6 ↔ V6,0  @ (1,6)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+  H2,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=24):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+#.#.#.#
+#.#.#.#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CHATGPT
+  H row=4 col=0 word=RELIEVE
+  V row=1 col=0 word=CHURN
+  V row=1 col=2 word=ARAL
+  V row=1 col=4 word=GYRE
+  V row=1 col=6 word=TYLER
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-0F48A1A2
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H1,6 ↔ V6,0  @ (1,6)
+  H2,0 ↔ V3,2  @ (3,0)
+  H2,2 ↔ V4,2  @ (3,2)
+  H2,4 ↔ V5,2  @ (3,4)
+  H2,6 ↔ V6,2  @ (3,6)
+
+CELLS_TRUE (count=24):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,2) (4,4) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+#.#.#.#
+#######
+#.#.#.#
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CHARGER
+  H row=3 col=0 word=ELTRAIN
+  V row=1 col=0 word=CHET
+  V row=1 col=2 word=APTLY
+  V row=1 col=4 word=GRAVY
+  V row=1 col=6 word=RUNE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-443DF4D1
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H1,6 ↔ V6,0  @ (1,6)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+  H2,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=24):
+  (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#######
+#.#.#.#
+#.#.#.#
+#######
+.......
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CHARLIE
+  H row=4 col=0 word=THERAPY
+  V row=1 col=0 word=CERT
+  V row=0 col=2 word=GAYLE
+  V row=0 col=4 word=ULTRA
+  V row=1 col=6 word=ENVY
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H4V  |  GRID_ID: W7H5-2H4V-B2466E14
+TOTAL_TRUE: 24   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H1,6 ↔ V6,1  @ (1,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H2,6 ↔ V6,3  @ (3,6)
+
+CELLS_TRUE (count=24):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#######
+#.#.#.#
+#######
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ALLHERE
+  H row=3 col=0 word=THERAIN
+  V row=0 col=0 word=CATT
+  V row=0 col=2 word=GLUEY
+  V row=0 col=4 word=REPAY
+  V row=0 col=6 word=VERN
+
+SOLUTION #2:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AVERAGE
+  H row=3 col=0 word=TYRRELL
+  V row=0 col=0 word=CATT
+  V row=0 col=2 word=NEHRU
+  V row=0 col=4 word=PAYER
+  V row=0 col=6 word=HEIL
+
+SOLUTION #3:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=HILLARY
+  H row=3 col=0 word=THEATRE
+  V row=0 col=0 word=CHET
+  V row=0 col=2 word=GLUEY
+  V row=0 col=4 word=PARTV
+  V row=0 col=6 word=RYNE
+
+SOLUTION #4:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=HEAVING
+  H row=3 col=0 word=THERAPY
+  V row=0 col=0 word=CHET
+  V row=0 col=2 word=RATER
+  V row=0 col=4 word=RIYAL
+  V row=0 col=6 word=UGLY
+
+SOLUTION #5:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=HEATING
+  H row=3 col=0 word=THERAPY
+  V row=0 col=0 word=CHET
+  V row=0 col=2 word=RAVER
+  V row=0 col=4 word=RIYAL
+  V row=0 col=6 word=UGLY
+
+SOLUTION #6:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ARCHERY
+  H row=3 col=0 word=GRUYERE
+  V row=0 col=0 word=HAIG
+  V row=0 col=2 word=ACTUP
+  V row=0 col=4 word=LEVEL
+  V row=0 col=6 word=TYNE
+
+SOLUTION #7:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AVARICE
+  H row=3 col=0 word=THERENT
+  V row=0 col=0 word=HAUT
+  V row=0 col=2 word=GAYER
+  V row=0 col=4 word=RILEY
+  V row=0 col=6 word=PELT
+
+SOLUTION #8:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=CULVERT
+  H row=3 col=0 word=RAPHAEL
+  V row=0 col=0 word=ICER
+  V row=0 col=2 word=GLYPH
+  V row=0 col=4 word=RERAN
+  V row=0 col=6 word=TTYL
+
+SOLUTION #9:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=CHALUPA
+  H row=3 col=0 word=REENTRY
+  V row=0 col=0 word=ICER
+  V row=0 col=2 word=HAGEL
+  V row=0 col=4 word=RUTTY
+  V row=0 col=6 word=VARY
+
+SOLUTION #10:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ELANTRA
+  H row=3 col=0 word=THECURE
+  V row=0 col=0 word=PERT
+  V row=0 col=2 word=HALEY
+  V row=0 col=4 word=ITGUY
+  V row=0 col=6 word=RAVE
+
+SOLUTION #11:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=EVACUEE
+  H row=3 col=0 word=TIGHTLY
+  V row=0 col=0 word=PERT
+  V row=0 col=2 word=AARGH
+  V row=0 col=4 word=RUNTY
+  V row=0 col=6 word=RELY
+
+SOLUTION #12:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ELANTRA
+  H row=3 col=0 word=THECURE
+  V row=0 col=0 word=PERT
+  V row=0 col=2 word=HAVER
+  V row=0 col=4 word=ITGUY
+  V row=0 col=6 word=YALE
+
+SOLUTION #13:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=HELLUVA
+  H row=3 col=0 word=THERAPY
+  V row=0 col=0 word=CHIT
+  V row=0 col=2 word=ELREY
+  V row=0 col=4 word=RUNAT
+  V row=0 col=6 word=GARY
+
+SOLUTION #14:
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AVARICE
+  H row=3 col=0 word=TRUTHER
+  V row=0 col=0 word=HART
+  V row=0 col=2 word=LAYUP
+  V row=0 col=4 word=NIGHY
+  V row=0 col=6 word=LEER
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 30
+Solved grids: 12
+Total unique solutions: 54
+Elapsed: 433.84s

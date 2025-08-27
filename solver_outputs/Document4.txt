@@ -1,0 +1,237 @@
+Prompt
+
+I have a crossword puzzle with the theme answer "[THEME PHRASE]".
+Please give me 1–2 concise, engaging trivia facts about this theme. Depending on the type, this could include:
+
+For quotes: who said it, and in what context.
+
+For idioms/proverbs: origin, first known use, or literary appearances.
+
+For books: author, publication details, cultural impact.
+
+For songs: artist, release year, chart performance, or notable history.
+
+For films/TV: creators, awards, cultural references.
+
+Guidelines:
+
+Keep each fact 1–3 sentences long.
+
+Prioritize fun, surprising, or solver-friendly details.
+
+Pull only from reliable sources (Wikipedia, Britannica, major news outlets).  It's ok to use verbatim language from the source you find.
+
+After each fact, include a parenthetical citation with the source name.
+
+Format the output exactly as follows:
+About [THEME PHRASE]...
+• [Fact 1] (Source)  
+• [Fact 2] (Source)  
+
+
+====================================
+====================================
+====================================
+
+
+Prompt 1 (Three Hard Clues Per Word)
+
+Use this whenever you want 3 ultra-difficult clues per answer in the “word → 3 clues → line break” format.
+
+You are a professional crossword constructor writing Saturday–NYT-level difficult clues. 
+Given a block of crossword answers, output three very challenging and varied clues for each answer. 
+The clues should be concise, misleading, and at a difficulty equal to or harder than a Saturday NYT crossword. 
+Mix clueing styles (straight definition with misdirection, figurative, cryptic-style surfaces, double meanings). 
+Do not use trivia or proper nouns unless unavoidable. 
+Do not include bullets, numbers, or extra formatting. 
+
+Format the output exactly as follows:
+WORD
+Clue 1
+Clue 2
+Clue 3
+
+(blank line)
+
+Then repeat for the next word. 
+Only return the words and their clues in this format.
+
+The block of answers will follow.
+
+
+====================================
+====================================
+====================================
+
+
+
+Prompt 2 (Preferred Single Clue List)
+
+Use this whenever you want just one chosen “best” clue per answer in your compact “CLUES:” list style.
+
+You are a professional crossword constructor writing Saturday–NYT-level difficult clues. 
+Given a block of crossword answers, output one single best clue for each word. 
+The clues must be at the level of late-week NYT difficulty: indirect, clever, and very challenging, with misdirection or layered meaning. 
+Do not include definitions that are too straightforward. 
+Do not use trivia or proper nouns unless unavoidable. 
+Mix clueing styles, but keep each clue elegant and concise. 
+
+Format the output exactly as follows:
+CLUES:
+Clue for first answer.
+Clue for second answer.
+Clue for third answer.
+...etc.
+
+Do not include the words themselves, only the clue list in this exact format.
+
+The block of answers will follow.
+
+====================================
+====================================
+====================================
+
+
+
+PHRASE: ROME WASN'T BUILT IN DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BAILS
+  H row=3 col=0 word=UNTIE
+  V row=1 col=0 word=BOUND
+  V row=0 col=2 word=WITTY
+  V row=1 col=4 word=SMEAR
+  
+CLUES:
+Buckets out trouble by the armful.
+Work through something knotty.
+Destined, or detained.
+Sharp with lines.
+Blacken in print.
+
+THEME:
+
+
+PHRASE: THE MUSTARD'S OFF THE HOT DOG
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=THEFT
+  H row=4 col=0 word=SOOTHED
+  V row=0 col=1 word=FATHOM
+  V row=0 col=3 word=GUEST
+  V row=0 col=5 word=ROTTED
+  
+
+CLUES:
+
+THEME:
+
+
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=LAGER
+  H row=2 col=0 word=ADULATE
+  H row=4 col=0 word=EVASION
+  V row=1 col=0 word=JAKE
+  V row=0 col=3 word=GILLS
+  V row=1 col=6 word=VEIN
+
+
+CLUES:
+A pale ale, often served cold.
+To laud with a certain fervor.
+A slippery form of a question.
+A certain country boy.
+A pair of parts on a fish.
+A blue line, often on a map.
+
+THEME:
+Despite being one of baseball's most famous "Yogi-isms," the quote didn't appear in print attributed to Yogi Berra until 1984, and in a 1987 interview with the New York Times, Berra himself denied ever saying it, stating "Nope, not true, I never said that" (Quote Investigator)
+According to the Yogi Berra Museum, Yogi supposedly said this phrase after Mickey Mantle and Roger Maris hit back-to-back home runs during the 1961 season when both players were competing to break Babe Ruth's single-season home run record of 60 Yogi-isms  (Yogi Berra Museum & Learning Center)
+
+
+PHRASE: (I CAN’T GET NO) SATISFACTION
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=CANTINA
+  H row=4 col=1 word=TOOTS
+  V row=0 col=1 word=FAINTS
+  V row=1 col=3 word=TACO
+  V row=0 col=5 word=INGEST
+  
+CLUES:
+An agave-forward watering hole.
+Pet names with a Jazz Age ring.
+Drops in a dead swoon.
+A folded street staple.
+Introduce to the alimentary tract.  
+  
+  
+THEME:
+Keith Richards wrote the famous guitar riff in his sleep on May 6, 1965, woke up to record it on a tape player, then fell back asleep - when he played the tape back, it contained 30 seconds of the riff followed by 40 minutes of snoring. (Songfacts/American Songwriter)
+The song's success was so enormous that it caused Gibson's entire stock of fuzzbox pedals to sell out by the end of 1965, as musicians rushed to recreate the distinctive distorted guitar sound that defined the track (Wikipedia)
+
+PHRASE: EVERY DOG HAS HIS DAY
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DODGE
+  H row=2 col=0 word=SHAVE
+  V row=0 col=0 word=DASH
+  V row=0 col=2 word=DIARY
+  V row=0 col=4 word=EYES
+  
+CLUES:
+To evade in a quick motion.
+A close trim, or a narrow escape.
+A sudden burst of speed.
+A record kept daily.
+A pair of organs for sight.  
+  
+THEME:
+According to Dutch scholar Erasmus, the saying originated from the death of Greek playwright Euripides in 405 BC, who was killed by dogs set upon him by a rival, with the proverb first recorded by Plutarch in the first century AD as "Even a dog gets his revenge" (EnglishClub/Phrases.org.uk)
+The phrase became popularized by William Shakespeare when he used it in Hamlet in the early 1600s, though earlier English versions appeared as "A dogge hath a day" in Richard Taverner's 1539 translation of Erasmus' Adages (The Stunt Dog Guy/No Sweat Shakespeare)
+
+
+PHRASE: THE VERY HUNGRY CATERPILLAR
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ELANTRA
+  H row=3 col=0 word=THECURE
+  V row=0 col=0 word=PERT
+  V row=0 col=2 word=HALEY
+  V row=0 col=4 word=ITGUY
+  V row=0 col=6 word=RAVE
+
+CLUES:
+A compact parked between Accent and Sonata.
+An act whose “Disintegration” was anything but.
+Arch, in a charming way.
+Successor to Sanford in Columbia.
+An in-house troubleshooter, informally.
+An all-night warehouse party.  
+  
+  
+THEME:
+The book originated from Eric Carle's use of a hole puncher on papers at his desk, which reminded him of a worm - his editor Ann Beneduce suggested changing it from "A Week with Willi the Worm" to a caterpillar, and Carle immediately shouted "Butterfly!" (Wikipedia/Penguin UK)
+The book was originally printed in Japan due to high US publishing costs caused by the die-cut holes in the pages, and Eric Carle intentionally used "cocoon" instead of the scientifically correct "chrysalis" because his father used to tell him to "come out of your cocoon" as a child. (Wikipedia)
+
+

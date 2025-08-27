@@ -1086,7 +1086,7 @@ export default function Page() {
 
     <div>
       <div className="font-semibold">Starting position</div>
-      <p>Some squares begin highlighted in green, meaning those letters are already correctly placed. These give you a head start.</p>
+      <p>Some squares begin highlighted in green, meaning those letters are already correctly placed.</p>
     </div>
   </div>
 

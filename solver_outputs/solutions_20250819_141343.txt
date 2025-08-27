@@ -1,0 +1,522 @@
+PHRASE: My name is Inigo Montoya
+CLEAN_LETTERS: MYNAMEISINIGOMONTOYA  (len=20)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-4C0DA777
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,0  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=IMAGN
+  H row=4 col=1 word=TYSON
+  V row=0 col=1 word=MINETA
+  V row=1 col=3 word=AIMS
+  V row=0 col=5 word=ONIONY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-97428BF0
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (2,1)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,5 ↔ V5,1  @ (2,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=NOSEGAY
+  H row=4 col=1 word=MINIM
+  V row=1 col=1 word=NOOMI
+  V row=1 col=3 word=AEON
+  V row=1 col=5 word=TAMMY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-89820C8E
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=2–5  LEN=4
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,0  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,2  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (1,1) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#...#.
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=MONGO
+  H row=4 col=0 word=AMENITY
+  V row=1 col=1 word=IMAMS
+  V row=2 col=3 word=NINO
+  V row=1 col=5 word=MONTY
+
+SOLUTION #2:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=MONGO
+  H row=4 col=0 word=ANONYMS
+  V row=1 col=1 word=IMANI
+  V row=2 col=3 word=NINE
+  V row=1 col=5 word=TOMMY
+
+SOLUTION #3:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=MOMMA
+  H row=4 col=0 word=ATONING
+  V row=1 col=1 word=OMITS
+  V row=2 col=3 word=MINE
+  V row=1 col=5 word=YANNY
+
+SOLUTION #4:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=MOMMA
+  H row=4 col=0 word=ATONING
+  V row=1 col=1 word=SMOTE
+  V row=2 col=3 word=MINI
+  V row=1 col=5 word=YANNY
+
+SOLUTION #5:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AMINO
+  H row=4 col=0 word=EGOTISM
+  V row=1 col=1 word=MANGY
+  V row=2 col=3 word=IOTA
+  V row=1 col=5 word=NOISY
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-78D94BA0
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (2,1)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,5 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#.#.#.
+#######
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-F521C7FA
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–3  LEN=4
+  [V] C=3  R=0–3  LEN=4
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,6 ↔ V5,0  @ (0,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,6 ↔ V5,3  @ (3,6)
+
+CELLS_TRUE (count=20):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,3) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#..#..#
+#..#..#
+#######
+.......
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-3274BE52
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–3  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,3) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+.#...#.
+.......
+
+SOLUTION #1:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=NOSEGAY
+  H row=3 col=1 word=MINIM
+  V row=0 col=1 word=NOOMI
+  V row=0 col=3 word=AEON
+  V row=0 col=5 word=TAMMY
+
+----------------------------------------------------------------
+
+=== GRID W6×H6  |  FAMILY 3H2V  |  GRID_ID: W6H6-3H2V-E0B79B2B
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=6, R=2:LEN=4, R=5:LEN=4
+
+SLOTS (5 total):
+  [H] R=0  C=0–5  LEN=6
+  [H] R=2  C=1–4  LEN=4
+  [H] R=5  C=1–4  LEN=4
+  [V] C=1  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,4)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,3 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=20):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) (3,4) (4,1) (4,4) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+######
+.#..#.
+.####.
+.#..#.
+.#..#.
+.####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-D63D5C53
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=2–5  LEN=4
+  [V] C=3  R=2–5  LEN=4
+  [V] C=6  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (2,0)
+  H1,3 ↔ V4,0  @ (2,3)
+  H1,6 ↔ V5,0  @ (2,6)
+  H2,0 ↔ V3,3  @ (5,0)
+  H2,3 ↔ V4,3  @ (5,3)
+  H2,6 ↔ V5,3  @ (5,6)
+
+CELLS_TRUE (count=20):
+  (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,3) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.......
+#######
+#..#..#
+#..#..#
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-B72DF828
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–5  LEN=6
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,3) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+...#...
+
+SOLUTION #1:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=GENII
+  H row=3 col=1 word=NOOMI
+  V row=0 col=1 word=AGONY
+  V row=0 col=3 word=ANTONY
+  V row=0 col=5 word=MIMIS
+
+SOLUTION #2:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=NOOMI
+  H row=3 col=1 word=SINAI
+  V row=0 col=1 word=ANTSY
+  V row=0 col=3 word=GOONEY
+  V row=0 col=5 word=MINIM
+
+SOLUTION #3:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=MAMMA
+  H row=3 col=1 word=TIGON
+  V row=0 col=1 word=OMITS
+  V row=0 col=3 word=IMOGEN
+  V row=0 col=5 word=YANNY
+
+SOLUTION #4:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AMINO
+  H row=3 col=1 word=MEANT
+  V row=0 col=1 word=NAOMI
+  V row=0 col=3 word=MIYAGI
+  V row=0 col=5 word=SOOTY
+
+SOLUTION #5:
+
+PHRASE: My name is Inigo Montoya
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=NOOMI
+  H row=3 col=1 word=OMEGA
+  V row=0 col=1 word=ANNOY
+  V row=0 col=3 word=MOIETY
+  V row=0 col=5 word=SINAI
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-12FECE97
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=3  R=1–4  LEN=4
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,6 ↔ V5,0  @ (1,6)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,6 ↔ V5,3  @ (4,6)
+
+CELLS_TRUE (count=20):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+#..#..#
+#..#..#
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 10
+Solved grids: 5
+Total unique solutions: 13
+Elapsed: 4.17s

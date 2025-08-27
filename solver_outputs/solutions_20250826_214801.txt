@@ -1,0 +1,571 @@
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+CLEAN_LETTERS: ITSLIKEDEJAVUALLOVERAGAIN  (len=25)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_4.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-C4B8603E
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,1  @ (1,0)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,6 ↔ V6,1  @ (1,6)
+  H2,0 ↔ V4,3  @ (3,0)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,6 ↔ V6,3  @ (3,6)
+  H3,2 ↔ V5,4  @ (5,3)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,3) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#..#..#
+#######
+...#...
+.#####.
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ANTIGUA
+  H row=3 col=0 word=SEVILLE
+  H row=5 col=1 word=VIEJO
+  V row=0 col=0 word=AAAS
+  V row=1 col=3 word=ILIKE
+  V row=0 col=6 word=DARE
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=NIKOLAI
+  H row=3 col=0 word=SEVILLE
+  H row=5 col=1 word=AGAVE
+  V row=0 col=0 word=ANDS
+  V row=1 col=3 word=OUIJA
+  V row=0 col=6 word=RITE
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=NIAGARA
+  H row=3 col=0 word=SEVILLE
+  H row=5 col=1 word=VIEJO
+  V row=0 col=0 word=ANDS
+  V row=1 col=3 word=GUILE
+  V row=0 col=6 word=KATE
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=NIAGARA
+  H row=3 col=0 word=SEVILLE
+  H row=5 col=1 word=VIEJO
+  V row=0 col=0 word=ANDS
+  V row=1 col=3 word=GUILE
+  V row=0 col=6 word=TAKE
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=NIKOLAI
+  H row=3 col=0 word=SEVILLE
+  H row=5 col=1 word=AGAVE
+  V row=0 col=0 word=ANDS
+  V row=1 col=3 word=OUIJA
+  V row=0 col=6 word=TIRE
+
+SOLUTION #6:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALERIE
+  H row=3 col=0 word=VULGATE
+  H row=5 col=1 word=SONJA
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=ELGIN
+  V row=0 col=6 word=DEKE
+
+SOLUTION #7:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALERIE
+  H row=3 col=0 word=VULGATE
+  H row=5 col=1 word=JONAS
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=ELGIN
+  V row=0 col=6 word=DEKE
+
+SOLUTION #8:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VERITAS
+  H row=5 col=1 word=KLINE
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LUIGI
+  V row=0 col=6 word=DOAS
+
+SOLUTION #9:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VERITAS
+  H row=5 col=1 word=ALIKE
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LUIGI
+  V row=0 col=6 word=DONS
+
+SOLUTION #10:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VENTURA
+  H row=3 col=0 word=VILLAGE
+  H row=5 col=1 word=OLDAS
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=TILED
+  V row=0 col=6 word=JAKE
+
+SOLUTION #11:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VERANDA
+  H row=3 col=0 word=VILLAGE
+  H row=5 col=1 word=USETO
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=ALLIE
+  V row=0 col=6 word=JAKE
+
+SOLUTION #12:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VANILLA
+  H row=3 col=0 word=VIOLATE
+  H row=5 col=1 word=SURGE
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=IDLER
+  V row=0 col=6 word=JAKE
+
+SOLUTION #13:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VERITAS
+  H row=5 col=1 word=ALIKE
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LUIGI
+  V row=0 col=6 word=NODS
+
+SOLUTION #14:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VENTURA
+  H row=3 col=0 word=VILLAGE
+  H row=5 col=1 word=JOSIE
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=TALKS
+  V row=0 col=6 word=DALE
+
+SOLUTION #15:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VESTING
+  H row=5 col=1 word=KARLA
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LITER
+  V row=0 col=6 word=DOUG
+
+SOLUTION #16:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VIRTUES
+  H row=5 col=1 word=LANKA
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LETIN
+  V row=0 col=6 word=GODS
+
+SOLUTION #17:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VIRTUES
+  H row=5 col=1 word=DANKE
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LATIN
+  V row=0 col=6 word=LOGS
+
+SOLUTION #18:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VIRTUES
+  H row=5 col=1 word=LANKA
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LETIN
+  V row=0 col=6 word=DOGS
+
+SOLUTION #19:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VULGATE
+  H row=5 col=1 word=KARIN
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LIGER
+  V row=0 col=6 word=DOSE
+
+SOLUTION #20:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VULGATE
+  H row=5 col=1 word=KIRIN
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LAGER
+  V row=0 col=6 word=DOSE
+
+SOLUTION #21:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VANLOAD
+  H row=3 col=0 word=VULGATE
+  H row=5 col=1 word=JERKS
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LIGER
+  V row=0 col=6 word=IDLE
+
+SOLUTION #22:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VERDANA
+  H row=3 col=0 word=VILLAGE
+  H row=5 col=1 word=JOSIE
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=DULLS
+  V row=0 col=6 word=KATE
+
+SOLUTION #23:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VINTAGE
+  H row=5 col=1 word=LASIK
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LETUS
+  V row=0 col=6 word=RODE
+
+SOLUTION #24:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=VALLEJO
+  H row=3 col=0 word=VINTAGE
+  H row=5 col=1 word=LASIK
+  V row=0 col=0 word=AVIV
+  V row=1 col=3 word=LUTES
+  V row=0 col=6 word=RODE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-8BC7B093
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,6 ↔ V5,1  @ (1,6)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,3) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#..#..#
+#######
+#..#..#
+#..#..#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADVISEE
+  H row=4 col=0 word=NIKOLAI
+  V row=0 col=0 word=LAGUNA
+  V row=0 col=3 word=VIEJO
+  V row=0 col=6 word=RETAIL
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-061C0968
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,2  @ (2,1)
+  H2,3 ↔ V4,2  @ (2,3)
+  H2,5 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#.#.#.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ADULATE
+  H row=2 col=0 word=JAVELIN
+  V row=0 col=1 word=DIALOG
+  V row=0 col=3 word=LEEKS
+  V row=0 col=5 word=TRIVIA
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-9CFB24B5
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,5  @ (5,1)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#.#.#.
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ANTARES
+  H row=5 col=0 word=JELLIED
+  V row=0 col=1 word=INVOKE
+  V row=1 col=3 word=AVAIL
+  V row=0 col=5 word=LEAGUE
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADRATES
+  H row=5 col=0 word=KNIEVEL
+  V row=0 col=1 word=ADJOIN
+  V row=1 col=3 word=ALIVE
+  V row=0 col=5 word=LEAGUE
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ELNORTE
+  H row=5 col=0 word=VIVALDI
+  V row=0 col=1 word=ALKALI
+  V row=1 col=3 word=OUIJA
+  V row=0 col=5 word=STAGED
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 50
+Solved grids: 4
+Total unique solutions: 29
+Elapsed: 165.74s

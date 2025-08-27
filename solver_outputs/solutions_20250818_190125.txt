@@ -1,0 +1,394 @@
+PHRASE: you cant always get what you want
+CLEAN_LETTERS: YOUCANTALWAYSGETWHATYOUWANT  (len=27)
+GRID-SELECT SEED: 5
+LETTER SHUFFLE: (not handled here)
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-CB9370A9
+TOTAL_TRUE: 27   INTERSECTIONS: 2
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=2  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=1  R=1–4  LEN=4
+  [S5] V  C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S2,1 ↔ S4,1  @ (2,1)
+  S2,5 ↔ S5,1  @ (2,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#######
+ #   # 
+#######
+ #   # 
+ #   # 
+#######
+
+SOLUTION #1:
+  S1 H  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=OUTLETS
+  S4 V  C=1  R=1–4  LEN=4   WORD=GNAW
+  S5 V  C=5  R=1–4  LEN=4   WORD=ANYA
+
+SOLUTION #2:
+  S1 H  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=STOUTLY
+  S4 V  C=1  R=1–4  LEN=4   WORD=ANEW
+  S5 V  C=5  R=1–4  LEN=4   WORD=GNAW
+
+SOLUTION #3:
+  S1 H  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=STOUTLY
+  S4 V  C=1  R=1–4  LEN=4   WORD=GNAW
+  S5 V  C=5  R=1–4  LEN=4   WORD=ANEW
+
+SOLUTION #4:
+  S1 H  R=0  C=0–6  LEN=7   WORD=GATEWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=OUTLAWS
+  S4 V  C=1  R=1–4  LEN=4   WORD=WNYC
+  S5 V  C=5  R=1–4  LEN=4   WORD=ANTA
+
+SOLUTION #5:
+  S1 H  R=0  C=0–6  LEN=7   WORD=GETAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=OUTLAWS
+  S4 V  C=1  R=1–4  LEN=4   WORD=WNYC
+  S5 V  C=5  R=1–4  LEN=4   WORD=ANTA
+
+SOLUTION #6:
+  S1 H  R=0  C=0–6  LEN=7   WORD=OUTLAWS
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=GATEWAY
+  S4 V  C=1  R=1–4  LEN=4   WORD=WNYC
+  S5 V  C=5  R=1–4  LEN=4   WORD=ANTA
+
+SOLUTION #7:
+  S1 H  R=0  C=0–6  LEN=7   WORD=OUTLAWS
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=GETAWAY
+  S4 V  C=1  R=1–4  LEN=4   WORD=WNYC
+  S5 V  C=5  R=1–4  LEN=4   WORD=ANTA
+
+SOLUTION #8:
+  S1 H  R=0  C=0–6  LEN=7   WORD=OUTLAWS
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=WATTAGE
+  S4 V  C=1  R=1–4  LEN=4   WORD=WNYC
+  S5 V  C=5  R=1–4  LEN=4   WORD=ANYA
+
+SOLUTION #9:
+  S1 H  R=0  C=0–6  LEN=7   WORD=OUTLETS
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=CUTAWAY
+  S4 V  C=1  R=1–4  LEN=4   WORD=GNAW
+  S5 V  C=5  R=1–4  LEN=4   WORD=ANYA
+
+SOLUTION #10:
+  S1 H  R=0  C=0–6  LEN=7   WORD=STOUTLY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANTHONY
+  S3 H  R=5  C=0–6  LEN=7   WORD=CUTAWAY
+  S4 V  C=1  R=1–4  LEN=4   WORD=ANEW
+  S5 V  C=5  R=1–4  LEN=4   WORD=GNAW
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-87EF4B9E
+TOTAL_TRUE: 27   INTERSECTIONS: 0
+
+SLOTS (5 total):
+  [S1] H  R=1  C=1–5  LEN=5
+  [S2] H  R=3  C=1–5  LEN=5
+  [S3] H  R=5  C=1–5  LEN=5
+  [S4] V  C=0  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+
+CELLS_TRUE (count=27):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#     #
+#######
+#     #
+#######
+#     #
+#######
+
+SOLUTION #1:
+  S1 H  R=1  C=1–5  LEN=5   WORD=GUSTY
+  S2 H  R=3  C=1–5  LEN=5   WORD=WYATT
+  S3 H  R=5  C=1–5  LEN=5   WORD=WANNA
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #2:
+  S1 H  R=1  C=1–5  LEN=5   WORD=GUTSY
+  S2 H  R=3  C=1–5  LEN=5   WORD=WYATT
+  S3 H  R=5  C=1–5  LEN=5   WORD=WANNA
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #3:
+  S1 H  R=1  C=1–5  LEN=5   WORD=SWUNG
+  S2 H  R=3  C=1–5  LEN=5   WORD=WYATT
+  S3 H  R=5  C=1–5  LEN=5   WORD=TATTY
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #4:
+  S1 H  R=1  C=1–5  LEN=5   WORD=SWUNG
+  S2 H  R=3  C=1–5  LEN=5   WORD=WYATT
+  S3 H  R=5  C=1–5  LEN=5   WORD=WYATT
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #5:
+  S1 H  R=1  C=1–5  LEN=5   WORD=WYATT
+  S2 H  R=3  C=1–5  LEN=5   WORD=GUSTY
+  S3 H  R=5  C=1–5  LEN=5   WORD=WANNA
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #6:
+  S1 H  R=1  C=1–5  LEN=5   WORD=WYATT
+  S2 H  R=3  C=1–5  LEN=5   WORD=GUTSY
+  S3 H  R=5  C=1–5  LEN=5   WORD=WANNA
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #7:
+  S1 H  R=1  C=1–5  LEN=5   WORD=WYATT
+  S2 H  R=3  C=1–5  LEN=5   WORD=SWUNG
+  S3 H  R=5  C=1–5  LEN=5   WORD=TATTY
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #8:
+  S1 H  R=1  C=1–5  LEN=5   WORD=WYATT
+  S2 H  R=3  C=1–5  LEN=5   WORD=SWUNG
+  S3 H  R=5  C=1–5  LEN=5   WORD=WYATT
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #9:
+  S1 H  R=1  C=1–5  LEN=5   WORD=AGONY
+  S2 H  R=3  C=1–5  LEN=5   WORD=TUTUS
+  S3 H  R=5  C=1–5  LEN=5   WORD=TATTY
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOW
+
+SOLUTION #10:
+  S1 H  R=1  C=1–5  LEN=5   WORD=AGONY
+  S2 H  R=3  C=1–5  LEN=5   WORD=TUTUS
+  S3 H  R=5  C=1–5  LEN=5   WORD=WYATT
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOW
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-42FCFA43
+TOTAL_TRUE: 27   INTERSECTIONS: 0
+
+SLOTS (5 total):
+  [S1] H  R=0  C=1–5  LEN=5
+  [S2] H  R=3  C=1–5  LEN=5
+  [S3] H  R=5  C=1–5  LEN=5
+  [S4] V  C=0  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,6) (2,0) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#######
+#     #
+#     #
+#######
+#     #
+#######
+
+SOLUTION #1:
+  S1 H  R=0  C=1–5  LEN=5   WORD=GUSTY
+  S2 H  R=3  C=1–5  LEN=5   WORD=WYATT
+  S3 H  R=5  C=1–5  LEN=5   WORD=WANNA
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #2:
+  S1 H  R=0  C=1–5  LEN=5   WORD=GUTSY
+  S2 H  R=3  C=1–5  LEN=5   WORD=WYATT
+  S3 H  R=5  C=1–5  LEN=5   WORD=WANNA
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #3:
+  S1 H  R=0  C=1–5  LEN=5   WORD=SWUNG
+  S2 H  R=3  C=1–5  LEN=5   WORD=WYATT
+  S3 H  R=5  C=1–5  LEN=5   WORD=TATTY
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #4:
+  S1 H  R=0  C=1–5  LEN=5   WORD=SWUNG
+  S2 H  R=3  C=1–5  LEN=5   WORD=WYATT
+  S3 H  R=5  C=1–5  LEN=5   WORD=WYATT
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #5:
+  S1 H  R=0  C=1–5  LEN=5   WORD=WYATT
+  S2 H  R=3  C=1–5  LEN=5   WORD=GUSTY
+  S3 H  R=5  C=1–5  LEN=5   WORD=WANNA
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #6:
+  S1 H  R=0  C=1–5  LEN=5   WORD=WYATT
+  S2 H  R=3  C=1–5  LEN=5   WORD=GUTSY
+  S3 H  R=5  C=1–5  LEN=5   WORD=WANNA
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #7:
+  S1 H  R=0  C=1–5  LEN=5   WORD=WYATT
+  S2 H  R=3  C=1–5  LEN=5   WORD=SWUNG
+  S3 H  R=5  C=1–5  LEN=5   WORD=TATTY
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #8:
+  S1 H  R=0  C=1–5  LEN=5   WORD=WYATT
+  S2 H  R=3  C=1–5  LEN=5   WORD=SWUNG
+  S3 H  R=5  C=1–5  LEN=5   WORD=WYATT
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOO
+
+SOLUTION #9:
+  S1 H  R=0  C=1–5  LEN=5   WORD=AGONY
+  S2 H  R=3  C=1–5  LEN=5   WORD=TUTUS
+  S3 H  R=5  C=1–5  LEN=5   WORD=TATTY
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOW
+
+SOLUTION #10:
+  S1 H  R=0  C=1–5  LEN=5   WORD=AGONY
+  S2 H  R=3  C=1–5  LEN=5   WORD=TUTUS
+  S3 H  R=5  C=1–5  LEN=5   WORD=WYATT
+  S4 V  C=0  R=0–5  LEN=6   WORD=ACETAL
+  S5 V  C=6  R=0–5  LEN=6   WORD=ANYHOW
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-EA932CF4
+TOTAL_TRUE: 27   INTERSECTIONS: 2
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=2  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=2  R=1–4  LEN=4
+  [S5] V  C=4  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S2,2 ↔ S4,1  @ (2,2)
+  S2,4 ↔ S5,1  @ (2,4)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#######
+  # #  
+#######
+  # #  
+  # #  
+#######
+
+SOLUTION #1:
+  S1 H  R=0  C=0–6  LEN=7   WORD=LAYAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ACHTUNG
+  S3 H  R=5  C=0–6  LEN=7   WORD=TOYOTAS
+  S4 V  C=2  R=1–4  LEN=4   WORD=WHEN
+  S5 V  C=4  R=1–4  LEN=4   WORD=TUTU
+
+SOLUTION #2:
+  S1 H  R=0  C=0–6  LEN=7   WORD=LAYAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ACHTUNG
+  S3 H  R=5  C=0–6  LEN=7   WORD=TOYOTAS
+  S4 V  C=2  R=1–4  LEN=4   WORD=WHEW
+  S5 V  C=4  R=1–4  LEN=4   WORD=TUTU
+
+SOLUTION #3:
+  S1 H  R=0  C=0–6  LEN=7   WORD=TOYOTAS
+  S2 H  R=2  C=0–6  LEN=7   WORD=ACHTUNG
+  S3 H  R=5  C=0–6  LEN=7   WORD=LAYAWAY
+  S4 V  C=2  R=1–4  LEN=4   WORD=WHEN
+  S5 V  C=4  R=1–4  LEN=4   WORD=TUTU
+
+SOLUTION #4:
+  S1 H  R=0  C=0–6  LEN=7   WORD=TOYOTAS
+  S2 H  R=2  C=0–6  LEN=7   WORD=ACHTUNG
+  S3 H  R=5  C=0–6  LEN=7   WORD=LAYAWAY
+  S4 V  C=2  R=1–4  LEN=4   WORD=WHEW
+  S5 V  C=4  R=1–4  LEN=4   WORD=TUTU
+
+SOLUTION #5:
+  S1 H  R=0  C=0–6  LEN=7   WORD=ANYWAYS
+  S2 H  R=2  C=0–6  LEN=7   WORD=ACTUATE
+  S3 H  R=5  C=0–6  LEN=7   WORD=TOUGHLY
+  S4 V  C=2  R=1–4  LEN=4   WORD=ATWT
+  S5 V  C=4  R=1–4  LEN=4   WORD=NANO
+
+SOLUTION #6:
+  S1 H  R=0  C=0–6  LEN=7   WORD=TOUGHLY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ACTUATE
+  S3 H  R=5  C=0–6  LEN=7   WORD=ANYWAYS
+  S4 V  C=2  R=1–4  LEN=4   WORD=ATWT
+  S5 V  C=4  R=1–4  LEN=4   WORD=NANO
+
+SOLUTION #7:
+  S1 H  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANALOGY
+  S3 H  R=5  C=0–6  LEN=7   WORD=OUTSTAY
+  S4 V  C=2  R=1–4  LEN=4   WORD=HAWN
+  S5 V  C=4  R=1–4  LEN=4   WORD=TOTE
+
+SOLUTION #8:
+  S1 H  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANALOGY
+  S3 H  R=5  C=0–6  LEN=7   WORD=OUTSTAY
+  S4 V  C=2  R=1–4  LEN=4   WORD=WANT
+  S5 V  C=4  R=1–4  LEN=4   WORD=HOWE
+
+SOLUTION #9:
+  S1 H  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANALOGY
+  S3 H  R=5  C=0–6  LEN=7   WORD=WASHOUT
+  S4 V  C=2  R=1–4  LEN=4   WORD=TAYE
+  S5 V  C=4  R=1–4  LEN=4   WORD=TOWN
+
+SOLUTION #10:
+  S1 H  R=0  C=0–6  LEN=7   WORD=CUTAWAY
+  S2 H  R=2  C=0–6  LEN=7   WORD=ANALOGY
+  S3 H  R=5  C=0–6  LEN=7   WORD=WASHOUT
+  S4 V  C=2  R=1–4  LEN=4   WORD=TAYE
+  S5 V  C=4  R=1–4  LEN=4   WORD=WONT
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 4
+Elapsed: 0.39s

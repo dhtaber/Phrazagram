@@ -1,0 +1,115 @@
+PHRASE: the devil is in the details
+CLEAN_LETTERS: THEDEVILISINTHEDETAILS  (len=22)
+GRID-SELECT SEED: 5
+LETTER SHUFFLE: (not seeded here; handled later in builder)
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-C26EFCBF
+TOTAL_TRUE: 22   INTERSECTIONS: 1
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–5  LEN=6   WORD=VITALE
+  [S2] H  R=4  C=1–5  LEN=5   WORD=TEETH
+  [S3] V  C=0  R=1–4  LEN=4   WORD=EELS
+  [S4] V  C=3  R=0–3  LEN=4   WORD=ADDS
+  [S5] V  C=6  R=1–4  LEN=4   WORD=HINT
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,3 ↔ S4,0  @ (0,3)
+
+LETTER BUDGET: OK
+
+CELLS_TRUE (count=22):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (1,0) (1,3) (1,6) (2,0) (2,3) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII:
+###### 
+#  #  #
+#  #  #
+#  #  #
+#######
+
+=== GRID W6×H6  |  FAMILY 3H2V  |  GRID_ID: W6H6-3H2V-33124785
+TOTAL_TRUE: 22   INTERSECTIONS: 2
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–5  LEN=6   WORD=INSTIL
+  [S2] H  R=2  C=0–4  LEN=5   WORD=EDITH
+  [S3] H  R=5  C=0–4  LEN=5   WORD=EEVEE
+  [S4] V  C=1  R=1–4  LEN=4   WORD=ADDS
+  [S5] V  C=4  R=1–4  LEN=4   WORD=EHLE
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S2,1 ↔ S4,1  @ (2,1)
+  S2,4 ↔ S5,1  @ (2,4)
+
+LETTER BUDGET: OK
+
+CELLS_TRUE (count=22):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,1) (3,4) (4,1) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII:
+######
+ #  # 
+##### 
+ #  # 
+ #  # 
+##### 
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-A686CBEC
+TOTAL_TRUE: 22   INTERSECTIONS: 1
+
+SLOTS (5 total):
+  [S1] H  R=0  C=1–5  LEN=5   WORD=HILLS
+  [S2] H  R=2  C=1–4  LEN=4   WORD=ADDS
+  [S3] V  C=0  R=0–4  LEN=5   WORD=TITHE
+  [S4] V  C=3  R=1–4  LEN=4   WORD=EDEN
+  [S5] V  C=6  R=0–4  LEN=5   WORD=EEVEE
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S2,2 ↔ S4,1  @ (2,3)
+
+LETTER BUDGET: OK
+
+CELLS_TRUE (count=22):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,6) (3,0) (3,3) (3,6) (4,0) (4,3) (4,6)
+
+ASCII:
+#######
+#  #  #
+##### #
+#  #  #
+#  #  #
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-F8246F79
+TOTAL_TRUE: 22   INTERSECTIONS: 2
+
+SLOTS (5 total):
+  [S1] H  R=0  C=1–4  LEN=4   WORD=HINT
+  [S2] H  R=3  C=0–5  LEN=6   WORD=IDLEST
+  [S3] H  R=5  C=0–5  LEN=6   WORD=TEETHE
+  [S4] V  C=1  R=1–4  LEN=4   WORD=ADDS
+  [S5] V  C=5  R=1–4  LEN=4   WORD=LITE
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S2,1 ↔ S4,2  @ (3,1)
+  S2,5 ↔ S5,2  @ (3,5)
+
+LETTER BUDGET: OK
+
+CELLS_TRUE (count=22):
+  (0,1) (0,2) (0,3) (0,4) (1,1) (1,5) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII:
+ ####  
+ #   # 
+ #   # 
+###### 
+ #   # 
+###### 
+
+----------------------------------------------------------------
+Solved grids: 4 / attempted 4
+Unique TOTAL_TRUE values in candidate set: 22
+Elapsed: 0.31s

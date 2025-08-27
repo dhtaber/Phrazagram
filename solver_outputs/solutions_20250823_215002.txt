@@ -1,0 +1,1757 @@
+PHRASE: "It's déjà vu all over again."
+CLEAN_LETTERS: ITSDEJAVUALLOVERAGAIN  (len=21)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 3H3V  |  GRID_ID: W5H6-3H3V-3088B696
+TOTAL_TRUE: 21   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,0)
+  H1,2 ↔ V5,0  @ (0,2)
+  H1,4 ↔ V6,0  @ (0,4)
+  H2,0 ↔ V4,2  @ (2,0)
+  H2,2 ↔ V5,2  @ (2,2)
+  H2,4 ↔ V6,2  @ (2,4)
+  H3,0 ↔ V4,4  @ (4,0)
+  H3,2 ↔ V5,4  @ (4,2)
+  H3,4 ↔ V6,4  @ (4,4)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#####
+#.#.#
+#####
+.....
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 3H3V  |  GRID_ID: W5H6-3H3V-F0512A12
+TOTAL_TRUE: 21   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [H] R=5  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,0)
+  H1,2 ↔ V5,0  @ (1,2)
+  H1,4 ↔ V6,0  @ (1,4)
+  H2,0 ↔ V4,2  @ (3,0)
+  H2,2 ↔ V5,2  @ (3,2)
+  H2,4 ↔ V6,2  @ (3,4)
+  H3,0 ↔ V4,4  @ (5,0)
+  H3,2 ↔ V5,4  @ (5,2)
+  H3,4 ↔ V6,4  @ (5,4)
+
+CELLS_TRUE (count=21):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+#####
+#.#.#
+#####
+#.#.#
+#####
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-0D922C58
+TOTAL_TRUE: 21   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,1)
+  H1,2 ↔ V5,0  @ (1,3)
+  H1,4 ↔ V6,0  @ (1,5)
+  H2,0 ↔ V4,2  @ (3,1)
+  H2,2 ↔ V5,2  @ (3,3)
+  H2,4 ↔ V6,2  @ (3,5)
+  H3,0 ↔ V4,4  @ (5,1)
+  H3,2 ↔ V5,4  @ (5,3)
+  H3,4 ↔ V6,4  @ (5,5)
+
+CELLS_TRUE (count=21):
+  (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H3V  |  GRID_ID: W7H5-3H3V-66FB3E2A
+TOTAL_TRUE: 21   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,2 ↔ V5,0  @ (0,3)
+  H1,4 ↔ V6,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,2 ↔ V5,2  @ (2,3)
+  H2,4 ↔ V6,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,2 ↔ V5,4  @ (4,3)
+  H3,4 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-01987BBE
+TOTAL_TRUE: 21   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,2 ↔ V5,0  @ (0,3)
+  H1,4 ↔ V6,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,2 ↔ V5,2  @ (2,3)
+  H2,4 ↔ V6,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,2 ↔ V5,4  @ (4,3)
+  H3,4 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H2V  |  GRID_ID: W7H5-3H2V-C28C53FE
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,1 ↔ V4,2  @ (2,2)
+  H2,3 ↔ V5,2  @ (2,4)
+  H3,1 ↔ V4,4  @ (4,2)
+  H3,3 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,1) (2,2) (2,3) (2,4) (2,5) (3,2) (3,4) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+.#####.
+..#.#..
+.#####.
+
+SOLUTION #1:
+
+PHRASE: "It's déjà vu all over again."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=AUDITOR
+  H row=2 col=1 word=JAVAS
+  H row=4 col=1 word=LEGAL
+  V row=0 col=2 word=DEAVE
+  V row=0 col=4 word=TIANA
+
+SOLUTION #2:
+
+PHRASE: "It's déjà vu all over again."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=AUDITOR
+  H row=2 col=1 word=ELVIN
+  H row=4 col=1 word=JAVAS
+  V row=0 col=2 word=DELLA
+  V row=0 col=4 word=TAIGA
+
+SOLUTION #3:
+
+PHRASE: "It's déjà vu all over again."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=AUDITOR
+  H row=2 col=1 word=ELVIS
+  H row=4 col=1 word=JAVAN
+  V row=0 col=2 word=DELLA
+  V row=0 col=4 word=TAIGA
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-F7A7989A
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,2  @ (2,1)
+  H2,3 ↔ V4,2  @ (2,3)
+  H2,5 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+...#...
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-678ED5ED
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,3) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-51A1B9FE
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,3) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+#######
+.#.#.#.
+#######
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H2V  |  GRID_ID: W7H5-3H2V-28B45EE3
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,4 ↔ V5,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+.#####.
+.#...#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-F05DEADF
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,2  @ (2,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,3) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-EAB005A4
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,4 ↔ V5,2  @ (2,5)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,4 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,5) (4,1) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#...#.
+.#####.
+.#...#.
+.#...#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-B250955C
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,3) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-9E7DF568
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+.#.#.#.
+.#####.
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-AC5C2636
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,2  @ (2,1)
+  H2,3 ↔ V4,2  @ (2,3)
+  H2,5 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+.#.#.#.
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-51736776
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,3) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-67F02BD7
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,4  @ (5,1)
+  H2,2 ↔ V4,4  @ (5,3)
+  H2,4 ↔ V5,4  @ (5,5)
+
+CELLS_TRUE (count=21):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+.#.#.#.
+.#.#.#.
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-0CEB7A79
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,1)
+  H1,2 ↔ V4,1  @ (2,3)
+  H1,4 ↔ V5,2  @ (2,5)
+  H2,0 ↔ V3,5  @ (5,1)
+  H2,2 ↔ V4,4  @ (5,3)
+  H2,4 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#.#.#.
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-1E3F407D
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#.#.#.
+.#####.
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-7556520F
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+.#.#.#.
+.#.#.#.
+.#####.
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-1E4D03A1
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,1)
+  H1,2 ↔ V4,1  @ (2,3)
+  H1,4 ↔ V5,2  @ (2,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-A5C5701E
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,0) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#...#
+#####
+#.#.#
+#.#.#
+#####
+#.#.#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-5C407C22
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,0  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-0C9939A5
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#.#.#.
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-250263F9
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4) (5,0) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#
+#####
+#.#.#
+#####
+#.#.#
+#...#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-69CD6753
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,2  @ (2,1)
+  H2,2 ↔ V4,2  @ (2,3)
+  H2,4 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-A6C8D14A
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,6 ↔ V5,0  @ (1,6)
+  H2,0 ↔ V3,2  @ (3,0)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,6 ↔ V5,2  @ (3,6)
+
+CELLS_TRUE (count=21):
+  (0,3) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+#######
+#..#..#
+#######
+#..#..#
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-674B6B86
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,6 ↔ V5,0  @ (1,6)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,6 ↔ V5,3  @ (4,6)
+
+CELLS_TRUE (count=21):
+  (0,3) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+#######
+#..#..#
+#..#..#
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-A852997B
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+.#.#.#.
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-37296E50
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-048209C1
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,3) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+#######
+.#.#.#.
+#######
+...#...
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-CD879816
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,2  @ (2,1)
+  H2,3 ↔ V4,2  @ (2,3)
+  H2,5 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-3AC8AB8C
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (2,1)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,5 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#.#.#.
+#######
+.#.#.#.
+#######
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 3H2V  |  GRID_ID: W5H6-3H2V-6E3CDC0D
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=2  C=0–4  LEN=5
+  [H] R=5  C=0–4  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,3 ↔ V5,5  @ (5,3)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,1) (1,3) (2,0) (2,1) (2,2) (2,3) (2,4) (3,1) (3,3) (4,1) (4,3) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+.#.#.
+#####
+.#.#.
+.#.#.
+#####
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-03311921
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,2  @ (2,1)
+  H2,2 ↔ V4,2  @ (2,3)
+  H2,4 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#.#.#.
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-4DC52D03
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+.#.#.#.
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-E4892A14
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,2)
+  H1,3 ↔ V5,0  @ (0,4)
+  H2,1 ↔ V4,2  @ (2,2)
+  H2,3 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,4  @ (4,2)
+  H3,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,2) (1,4) (2,1) (2,2) (2,3) (2,4) (2,5) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+..#.#..
+.#####.
+..#.#..
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-EA92E0BF
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,2  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,3) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+#######
+...#...
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-43DD4C91
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (1,1)
+  H1,5 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V4,2  @ (3,1)
+  H2,4 ↔ V5,2  @ (3,5)
+  H3,0 ↔ V4,4  @ (5,1)
+  H3,4 ↔ V5,4  @ (5,5)
+
+CELLS_TRUE (count=21):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+.#...#.
+.#####.
+.#...#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-7BB57DE5
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,3) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 3H2V  |  GRID_ID: W5H6-3H2V-2F6F04B3
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [H] R=5  C=0–4  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,1  @ (1,1)
+  H1,3 ↔ V5,1  @ (1,3)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,3 ↔ V5,3  @ (3,3)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,3 ↔ V5,5  @ (5,3)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,3) (1,0) (1,1) (1,2) (1,3) (1,4) (2,1) (2,3) (3,0) (3,1) (3,2) (3,3) (3,4) (4,1) (4,3) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.
+#####
+.#.#.
+#####
+.#.#.
+#####
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-A9E5418C
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,1 ↔ V4,2  @ (3,2)
+  H2,3 ↔ V5,2  @ (3,4)
+  H3,1 ↔ V4,4  @ (5,2)
+  H3,3 ↔ V5,4  @ (5,4)
+
+CELLS_TRUE (count=21):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,2) (2,4) (3,1) (3,2) (3,3) (3,4) (3,5) (4,2) (4,4) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+..#.#..
+.#####.
+..#.#..
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-28102C6E
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#.#.#.
+#######
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-9C896769
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,3) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H2V  |  GRID_ID: W7H5-3H2V-93C7E398
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#...#.
+#######
+.#...#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-A971367F
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,2  @ (2,1)
+  H2,2 ↔ V4,2  @ (2,3)
+  H2,4 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=21):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+.#.#.#.
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-1D5EBE7C
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=3:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (3,1)
+  H1,2 ↔ V4,2  @ (3,3)
+  H1,4 ↔ V5,2  @ (3,5)
+  H2,1 ↔ V3,4  @ (5,1)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,5 ↔ V5,4  @ (5,5)
+
+CELLS_TRUE (count=21):
+  (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#.#.#.
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-E187870B
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,0  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H2V  |  GRID_ID: W7H5-3H2V-9B79E58B
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,2)
+  H1,3 ↔ V5,0  @ (0,4)
+  H2,1 ↔ V4,2  @ (2,2)
+  H2,3 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,4  @ (4,2)
+  H3,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=21):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,2) (1,4) (2,1) (2,2) (2,3) (2,4) (2,5) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+..#.#..
+.#####.
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-95A5949B
+TOTAL_TRUE: 21   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,1  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=21):
+  (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 50
+Solved grids: 1
+Total unique solutions: 3
+Elapsed: 54.57s

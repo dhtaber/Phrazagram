@@ -1,0 +1,407 @@
+PHRASE: the devil is in the details
+CLEAN_LETTERS: THEDEVILISINTHEDETAILS  (len=22)
+GRID-SELECT SEED: 5
+LETTER SHUFFLE: (not handled here)
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-5DD7CAA3
+TOTAL_TRUE: 22   INTERSECTIONS: 4
+
+SLOTS (5 total):
+  [S1] H  R=2  C=1–5  LEN=5
+  [S2] H  R=4  C=0–6  LEN=7
+  [S3] V  C=1  R=0–3  LEN=4
+  [S4] V  C=3  R=0–5  LEN=6
+  [S5] V  C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S3,2  @ (2,1)
+  S1,2 ↔ S4,2  @ (2,3)
+  S1,4 ↔ S5,2  @ (2,5)
+  S2,3 ↔ S4,4  @ (4,3)
+
+CELLS_TRUE (count=22):
+  (0,1) (0,3) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,3)
+
+ASCII:
+ # # # 
+ # # # 
+ ##### 
+ # # # 
+#######
+   #   
+
+SOLUTION #1:
+  S1 H  R=2  C=1–5  LEN=5   WORD=HELEN
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=HEHE
+  S4 V  C=3  R=0–5  LEN=6   WORD=TILLIS
+  S5 V  C=5  R=0–3  LEN=4   WORD=TINT
+
+SOLUTION #2:
+  S1 H  R=2  C=1–5  LEN=5   WORD=LITHE
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=HILL
+  S4 V  C=3  R=0–5  LEN=6   WORD=TITTIE
+  S5 V  C=5  R=0–3  LEN=4   WORD=SEEN
+
+SOLUTION #3:
+  S1 H  R=2  C=1–5  LEN=5   WORD=LITHE
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=NILE
+  S4 V  C=3  R=0–5  LEN=6   WORD=TITTIE
+  S5 V  C=5  R=0–3  LEN=4   WORD=SHEL
+
+SOLUTION #4:
+  S1 H  R=2  C=1–5  LEN=5   WORD=DINTS
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISEE
+  S3 V  C=1  R=0–3  LEN=4   WORD=HIDE
+  S4 V  C=3  R=0–5  LEN=6   WORD=LENTIL
+  S5 V  C=5  R=0–3  LEN=4   WORD=HIST
+
+SOLUTION #5:
+  S1 H  R=2  C=1–5  LEN=5   WORD=LITHE
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISEE
+  S3 V  C=1  R=0–3  LEN=4   WORD=NILL
+  S4 V  C=3  R=0–5  LEN=6   WORD=TITTIE
+  S5 V  C=5  R=0–3  LEN=4   WORD=SHED
+
+SOLUTION #6:
+  S1 H  R=2  C=1–5  LEN=5   WORD=DELHI
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISEE
+  S3 V  C=1  R=0–3  LEN=4   WORD=TIDE
+  S4 V  C=3  R=0–5  LEN=6   WORD=TILLIS
+  S5 V  C=5  R=0–3  LEN=4   WORD=THIN
+
+SOLUTION #7:
+  S1 H  R=2  C=1–5  LEN=5   WORD=LITHE
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISES
+  S3 V  C=1  R=0–3  LEN=4   WORD=HELD
+  S4 V  C=3  R=0–5  LEN=6   WORD=TITTIE
+  S5 V  C=5  R=0–3  LEN=4   WORD=LIEN
+
+SOLUTION #8:
+  S1 H  R=2  C=1–5  LEN=5   WORD=LITHE
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISES
+  S3 V  C=1  R=0–3  LEN=4   WORD=HELL
+  S4 V  C=3  R=0–5  LEN=6   WORD=TITTIE
+  S5 V  C=5  R=0–3  LEN=4   WORD=DIEN
+
+SOLUTION #9:
+  S1 H  R=2  C=1–5  LEN=5   WORD=LITHE
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISES
+  S3 V  C=1  R=0–3  LEN=4   WORD=HILL
+  S4 V  C=3  R=0–5  LEN=6   WORD=TITTIE
+  S5 V  C=5  R=0–3  LEN=4   WORD=EDEN
+
+SOLUTION #10:
+  S1 H  R=2  C=1–5  LEN=5   WORD=LITHE
+  S2 H  R=4  C=0–6  LEN=7   WORD=ADVISES
+  S3 V  C=1  R=0–3  LEN=4   WORD=HILL
+  S4 V  C=3  R=0–5  LEN=6   WORD=TITTIE
+  S5 V  C=5  R=0–3  LEN=4   WORD=NEED
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-442DA296
+TOTAL_TRUE: 22   INTERSECTIONS: 6
+
+SLOTS (5 total):
+  [S1] H  R=2  C=0–6  LEN=7
+  [S2] H  R=4  C=0–6  LEN=7
+  [S3] V  C=1  R=1–5  LEN=5
+  [S4] V  C=3  R=2–5  LEN=4
+  [S5] V  C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,1 ↔ S3,1  @ (2,1)
+  S1,3 ↔ S4,0  @ (2,3)
+  S1,5 ↔ S5,1  @ (2,5)
+  S2,1 ↔ S3,3  @ (4,1)
+  S2,3 ↔ S4,2  @ (4,3)
+  S2,5 ↔ S5,3  @ (4,5)
+
+CELLS_TRUE (count=22):
+  (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,3) (5,5)
+
+ASCII:
+       
+ #   # 
+#######
+ # # # 
+#######
+ # # # 
+
+SOLUTION #1:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DAILIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=HEISTED
+  S3 V  C=1  R=1–5  LEN=5   WORD=HAVEL
+  S4 V  C=3  R=2–5  LEN=4   WORD=LEST
+  S5 V  C=5  R=1–5  LEN=5   WORD=TENET
+
+SOLUTION #2:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DAILIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=HEISTED
+  S3 V  C=1  R=1–5  LEN=5   WORD=EATEN
+  S4 V  C=3  R=2–5  LEN=4   WORD=LIST
+  S5 V  C=5  R=1–5  LEN=5   WORD=LEVEL
+
+SOLUTION #3:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DAILIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=HEISTED
+  S3 V  C=1  R=1–5  LEN=5   WORD=HALEN
+  S4 V  C=3  R=2–5  LEN=4   WORD=LIST
+  S5 V  C=5  R=1–5  LEN=5   WORD=EEVEE
+
+SOLUTION #4:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DAILIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=HEISTED
+  S3 V  C=1  R=1–5  LEN=5   WORD=HAVEL
+  S4 V  C=3  R=2–5  LEN=4   WORD=LIST
+  S5 V  C=5  R=1–5  LEN=5   WORD=TENET
+
+SOLUTION #5:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DAILIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=HEISTED
+  S3 V  C=1  R=1–5  LEN=5   WORD=LATEN
+  S4 V  C=3  R=2–5  LEN=4   WORD=LIST
+  S5 V  C=5  R=1–5  LEN=5   WORD=EEVEE
+
+SOLUTION #6:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DEITIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=INHALED
+  S3 V  C=1  R=1–5  LEN=5   WORD=TEENS
+  S4 V  C=3  R=2–5  LEN=4   WORD=THAI
+  S5 V  C=5  R=1–5  LEN=5   WORD=LEVEL
+
+SOLUTION #7:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DEITIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=INHALED
+  S3 V  C=1  R=1–5  LEN=5   WORD=SEINE
+  S4 V  C=3  R=2–5  LEN=4   WORD=THAT
+  S5 V  C=5  R=1–5  LEN=5   WORD=LEVEL
+
+SOLUTION #8:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DEITIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=INHALED
+  S3 V  C=1  R=1–5  LEN=5   WORD=TEENS
+  S4 V  C=3  R=2–5  LEN=4   WORD=THAT
+  S5 V  C=5  R=1–5  LEN=5   WORD=LEVEL
+
+SOLUTION #9:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DEITIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=STILLED
+  S3 V  C=1  R=1–5  LEN=5   WORD=TENTH
+  S4 V  C=3  R=2–5  LEN=4   WORD=TALI
+  S5 V  C=5  R=1–5  LEN=5   WORD=EEVEE
+
+SOLUTION #10:
+  S1 H  R=2  C=0–6  LEN=7   WORD=DEITIES
+  S2 H  R=4  C=0–6  LEN=7   WORD=STILLED
+  S3 V  C=1  R=1–5  LEN=5   WORD=HEATH
+  S4 V  C=3  R=2–5  LEN=4   WORD=TILE
+  S5 V  C=5  R=1–5  LEN=5   WORD=TENET
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-07CC5268
+TOTAL_TRUE: 22   INTERSECTIONS: 3
+
+SLOTS (5 total):
+  [S1] H  R=1  C=1–5  LEN=5
+  [S2] H  R=5  C=0–6  LEN=7
+  [S3] V  C=1  R=0–3  LEN=4
+  [S4] V  C=3  R=0–4  LEN=5
+  [S5] V  C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S3,1  @ (1,1)
+  S1,2 ↔ S4,1  @ (1,3)
+  S1,4 ↔ S5,1  @ (1,5)
+
+CELLS_TRUE (count=22):
+  (0,1) (0,3) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,3) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+ # # # 
+ ##### 
+ # # # 
+ # # # 
+   #   
+#######
+
+SOLUTION #1:
+  S1 H  R=1  C=1–5  LEN=5   WORD=LITHE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=ELIE
+  S4 V  C=3  R=0–4  LEN=5   WORD=STILL
+  S5 V  C=5  R=0–3  LEN=4   WORD=TENT
+
+SOLUTION #2:
+  S1 H  R=1  C=1–5  LEN=5   WORD=THINE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=ETSI
+  S4 V  C=3  R=0–4  LEN=5   WORD=TITLE
+  S5 V  C=5  R=0–3  LEN=4   WORD=HEIL
+
+SOLUTION #3:
+  S1 H  R=1  C=1–5  LEN=5   WORD=TITHE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=ETSI
+  S4 V  C=3  R=0–4  LEN=5   WORD=ETHEL
+  S5 V  C=5  R=0–3  LEN=4   WORD=LENT
+
+SOLUTION #4:
+  S1 H  R=1  C=1–5  LEN=5   WORD=TITHE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=ETSI
+  S4 V  C=3  R=0–4  LEN=5   WORD=ETHEL
+  S5 V  C=5  R=0–3  LEN=4   WORD=NEIL
+
+SOLUTION #5:
+  S1 H  R=1  C=1–5  LEN=5   WORD=THINE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=ETSI
+  S4 V  C=3  R=0–4  LEN=5   WORD=TITHE
+  S5 V  C=5  R=0–3  LEN=4   WORD=TELL
+
+SOLUTION #6:
+  S1 H  R=1  C=1–5  LEN=5   WORD=ELLEN
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=HEHE
+  S4 V  C=3  R=0–4  LEN=5   WORD=SLITS
+  S5 V  C=5  R=0–3  LEN=4   WORD=INIT
+
+SOLUTION #7:
+  S1 H  R=1  C=1–5  LEN=5   WORD=ELITE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=HEHE
+  S4 V  C=3  R=0–4  LEN=5   WORD=SILLS
+  S5 V  C=5  R=0–3  LEN=4   WORD=TENT
+
+SOLUTION #8:
+  S1 H  R=1  C=1–5  LEN=5   WORD=ELLIE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=HEHE
+  S4 V  C=3  R=0–4  LEN=5   WORD=SLITS
+  S5 V  C=5  R=0–3  LEN=4   WORD=TENT
+
+SOLUTION #9:
+  S1 H  R=1  C=1–5  LEN=5   WORD=ELITE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=HEIL
+  S4 V  C=3  R=0–4  LEN=5   WORD=TITHE
+  S5 V  C=5  R=0–3  LEN=4   WORD=NEST
+
+SOLUTION #10:
+  S1 H  R=1  C=1–5  LEN=5   WORD=ELITE
+  S2 H  R=5  C=0–6  LEN=7   WORD=ADVISED
+  S3 V  C=1  R=0–3  LEN=4   WORD=HEIL
+  S4 V  C=3  R=0–4  LEN=5   WORD=TITHE
+  S5 V  C=5  R=0–3  LEN=4   WORD=NETS
+
+----------------------------------------------------------------
+
+=== GRID W6×H6  |  FAMILY 3H2V  |  GRID_ID: W6H6-3H2V-A767C227
+TOTAL_TRUE: 22   INTERSECTIONS: 4
+
+SLOTS (5 total):
+  [S1] H  R=1  C=1–4  LEN=4
+  [S2] H  R=3  C=0–5  LEN=6
+  [S3] H  R=5  C=0–5  LEN=6
+  [S4] V  C=1  R=0–4  LEN=5
+  [S5] V  C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S4,1  @ (1,1)
+  S1,3 ↔ S5,1  @ (1,4)
+  S2,1 ↔ S4,3  @ (3,1)
+  S2,4 ↔ S5,3  @ (3,4)
+
+CELLS_TRUE (count=22):
+  (0,1) (0,4) (1,1) (1,2) (1,3) (1,4) (2,1) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII:
+ #  # 
+ #### 
+ #  # 
+######
+ #  # 
+######
+
+SOLUTION #1:
+  S1 H  R=1  C=1–4  LEN=4   WORD=ADDS
+  S2 H  R=3  C=0–5  LEN=6   WORD=EVITES
+  S3 H  R=5  C=0–5  LEN=6   WORD=LILITH
+  S4 V  C=1  R=0–4  LEN=5   WORD=NAIVE
+  S5 V  C=4  R=0–4  LEN=5   WORD=ESTEE
+
+SOLUTION #2:
+  S1 H  R=1  C=1–4  LEN=4   WORD=ADDS
+  S2 H  R=3  C=0–5  LEN=6   WORD=STEVEN
+  S3 H  R=5  C=0–5  LEN=6   WORD=LILITH
+  S4 V  C=1  R=0–4  LEN=5   WORD=HAITI
+  S5 V  C=4  R=0–4  LEN=5   WORD=ESTEE
+
+SOLUTION #3:
+  S1 H  R=1  C=1–4  LEN=4   WORD=ADHD
+  S2 H  R=3  C=0–5  LEN=6   WORD=ELEVEN
+  S3 H  R=5  C=0–5  LEN=6   WORD=TITTIE
+  S4 V  C=1  R=0–4  LEN=5   WORD=HAILS
+  S5 V  C=4  R=0–4  LEN=5   WORD=IDLES
+
+SOLUTION #4:
+  S1 H  R=1  C=1–4  LEN=4   WORD=ADHD
+  S2 H  R=3  C=0–5  LEN=6   WORD=INLETS
+  S3 H  R=5  C=0–5  LEN=6   WORD=LEVIES
+  S4 V  C=1  R=0–4  LEN=5   WORD=TAINT
+  S5 V  C=4  R=0–4  LEN=5   WORD=EDITH
+
+SOLUTION #5:
+  S1 H  R=1  C=1–4  LEN=4   WORD=ADHD
+  S2 H  R=3  C=0–5  LEN=6   WORD=LEVITT
+  S3 H  R=5  C=0–5  LEN=6   WORD=EILISH
+  S4 V  C=1  R=0–4  LEN=5   WORD=EATEN
+  S5 V  C=4  R=0–4  LEN=5   WORD=EDITS
+
+SOLUTION #6:
+  S1 H  R=1  C=1–4  LEN=4   WORD=AIDE
+  S2 H  R=3  C=0–5  LEN=6   WORD=DENIES
+  S3 H  R=5  C=0–5  LEN=6   WORD=LILITH
+  S4 V  C=1  R=0–4  LEN=5   WORD=HATES
+  S5 V  C=4  R=0–4  LEN=5   WORD=EEVEE
+
+SOLUTION #7:
+  S1 H  R=1  C=1–4  LEN=4   WORD=AIDE
+  S2 H  R=3  C=0–5  LEN=6   WORD=DENIES
+  S3 H  R=5  C=0–5  LEN=6   WORD=LILITH
+  S4 V  C=1  R=0–4  LEN=5   WORD=TATES
+  S5 V  C=4  R=0–4  LEN=5   WORD=EEVEE
+
+SOLUTION #8:
+  S1 H  R=1  C=1–4  LEN=4   WORD=AIDE
+  S2 H  R=3  C=0–5  LEN=6   WORD=DENIES
+  S3 H  R=5  C=0–5  LEN=6   WORD=TITTIE
+  S4 V  C=1  R=0–4  LEN=5   WORD=HALES
+  S5 V  C=4  R=0–4  LEN=5   WORD=LEVEL
+
+SOLUTION #9:
+  S1 H  R=1  C=1–4  LEN=4   WORD=AIDE
+  S2 H  R=3  C=0–5  LEN=6   WORD=DENIES
+  S3 H  R=5  C=0–5  LEN=6   WORD=TITTIE
+  S4 V  C=1  R=0–4  LEN=5   WORD=SAHEL
+  S5 V  C=4  R=0–4  LEN=5   WORD=LEVEL
+
+SOLUTION #10:
+  S1 H  R=1  C=1–4  LEN=4   WORD=AIDE
+  S2 H  R=3  C=0–5  LEN=6   WORD=DENISE
+  S3 H  R=5  C=0–5  LEN=6   WORD=LEVITT
+  S4 V  C=1  R=0–4  LEN=5   WORD=HALES
+  S5 V  C=4  R=0–4  LEN=5   WORD=HEIST
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 4
+Elapsed: 1.33s

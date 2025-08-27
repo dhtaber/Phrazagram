@@ -1,0 +1,863 @@
+PHRASE: the devil is in the details
+CLEAN_LETTERS: THEDEVILISINTHEDETAILS  (len=22)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 3H3V  |  GRID_ID: W5H6-3H3V-DF4ADDA8
+TOTAL_TRUE: 22   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,0)
+  H1,2 ↔ V5,0  @ (0,2)
+  H1,4 ↔ V6,0  @ (0,4)
+  H2,0 ↔ V4,2  @ (2,0)
+  H2,2 ↔ V5,2  @ (2,2)
+  H2,4 ↔ V6,2  @ (2,4)
+  H3,0 ↔ V4,4  @ (4,0)
+  H3,2 ↔ V5,4  @ (4,2)
+  H3,4 ↔ V6,4  @ (4,4)
+
+CELLS_TRUE (count=22):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#####
+#.#.#
+#####
+..#..
+
+SOLUTION #1:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=HIDES
+  H row=2 col=0 word=LITHE
+  H row=4 col=0 word=SNIDE
+  V row=0 col=0 word=HILTS
+  V row=0 col=2 word=DETAIL
+  V row=0 col=4 word=STEVE
+
+SOLUTION #2:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=HIDES
+  H row=2 col=0 word=LITHE
+  H row=4 col=0 word=SLIDE
+  V row=0 col=0 word=HILTS
+  V row=0 col=2 word=DETAIN
+  V row=0 col=4 word=STEVE
+
+SOLUTION #3:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DIETS
+  H row=2 col=0 word=LIVIA
+  H row=4 col=0 word=SHEET
+  V row=0 col=0 word=DELTS
+  V row=0 col=2 word=ENVIED
+  V row=0 col=4 word=SHALT
+
+SOLUTION #4:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=HEELS
+  H row=2 col=0 word=LIVIA
+  H row=4 col=0 word=SHEET
+  V row=0 col=0 word=HILTS
+  V row=0 col=2 word=ENVIED
+  V row=0 col=4 word=STADT
+
+SOLUTION #5:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=HILLS
+  H row=2 col=0 word=NIVEA
+  H row=4 col=0 word=SHEET
+  V row=0 col=0 word=HINTS
+  V row=0 col=2 word=LEVIED
+  V row=0 col=4 word=STADT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-78278949
+TOTAL_TRUE: 22   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=0–5  LEN=6
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,1)
+  H1,2 ↔ V5,1  @ (1,3)
+  H1,4 ↔ V6,0  @ (1,5)
+  H2,0 ↔ V4,2  @ (3,1)
+  H2,2 ↔ V5,3  @ (3,3)
+  H2,4 ↔ V6,2  @ (3,5)
+  H3,0 ↔ V4,4  @ (5,1)
+  H3,2 ↔ V5,5  @ (5,3)
+  H3,4 ↔ V6,4  @ (5,5)
+
+CELLS_TRUE (count=22):
+  (0,3) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=HAITI
+  H row=3 col=1 word=NEILL
+  H row=5 col=1 word=SHEET
+  V row=1 col=1 word=HINTS
+  V row=0 col=3 word=DIVIDE
+  V row=1 col=5 word=ISLET
+
+SOLUTION #2:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=DIALS
+  H row=3 col=1 word=EVITE
+  H row=5 col=1 word=SHEEN
+  V row=1 col=1 word=DIETS
+  V row=0 col=3 word=HALIDE
+  V row=1 col=5 word=STEIN
+
+SOLUTION #3:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=DIALS
+  H row=3 col=1 word=EVITE
+  H row=5 col=1 word=STEIN
+  V row=1 col=1 word=DIETS
+  V row=0 col=3 word=HALIDE
+  V row=1 col=5 word=SHEEN
+
+SOLUTION #4:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=DEATH
+  H row=3 col=1 word=ELVIN
+  H row=5 col=1 word=SIDES
+  V row=1 col=1 word=DIETS
+  V row=0 col=3 word=HALVED
+  V row=1 col=5 word=HINTS
+
+SOLUTION #5:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=DEATH
+  H row=3 col=1 word=NEVIL
+  H row=5 col=1 word=SIDES
+  V row=1 col=1 word=DINTS
+  V row=0 col=3 word=HALVED
+  V row=1 col=5 word=HILTS
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 3H3V  |  GRID_ID: W5H6-3H3V-0C0FED8F
+TOTAL_TRUE: 22   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [H] R=5  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,0)
+  H1,2 ↔ V5,1  @ (1,2)
+  H1,4 ↔ V6,0  @ (1,4)
+  H2,0 ↔ V4,2  @ (3,0)
+  H2,2 ↔ V5,3  @ (3,2)
+  H2,4 ↔ V6,2  @ (3,4)
+  H3,0 ↔ V4,4  @ (5,0)
+  H3,2 ↔ V5,5  @ (5,2)
+  H3,4 ↔ V6,4  @ (5,4)
+
+CELLS_TRUE (count=22):
+  (0,2) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#####
+#.#.#
+#####
+#.#.#
+#####
+
+SOLUTION #1:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=HAITI
+  H row=3 col=0 word=NEILL
+  H row=5 col=0 word=SHEET
+  V row=1 col=0 word=HINTS
+  V row=0 col=2 word=DIVIDE
+  V row=1 col=4 word=ISLET
+
+SOLUTION #2:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DIALS
+  H row=3 col=0 word=EVITE
+  H row=5 col=0 word=SHEEN
+  V row=1 col=0 word=DIETS
+  V row=0 col=2 word=HALIDE
+  V row=1 col=4 word=STEIN
+
+SOLUTION #3:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DIALS
+  H row=3 col=0 word=EVITE
+  H row=5 col=0 word=STEIN
+  V row=1 col=0 word=DIETS
+  V row=0 col=2 word=HALIDE
+  V row=1 col=4 word=SHEEN
+
+SOLUTION #4:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DEATH
+  H row=3 col=0 word=ELVIN
+  H row=5 col=0 word=SIDES
+  V row=1 col=0 word=DIETS
+  V row=0 col=2 word=HALVED
+  V row=1 col=4 word=HINTS
+
+SOLUTION #5:
+
+PHRASE: the devil is in the details
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DEATH
+  H row=3 col=0 word=NEVIL
+  H row=5 col=0 word=SIDES
+  V row=1 col=0 word=DINTS
+  V row=0 col=2 word=HALVED
+  V row=1 col=4 word=HILTS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-9A3D37D1
+TOTAL_TRUE: 22   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–5  LEN=6
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,2 ↔ V5,0  @ (0,3)
+  H1,4 ↔ V6,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,2 ↔ V5,2  @ (2,3)
+  H2,4 ↔ V6,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,2 ↔ V5,4  @ (4,3)
+  H3,4 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=22):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+...#...
+
+SOLUTION #1:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=HIDES
+  H row=2 col=1 word=LITHE
+  H row=4 col=1 word=SNIDE
+  V row=0 col=1 word=HILTS
+  V row=0 col=3 word=DETAIL
+  V row=0 col=5 word=STEVE
+
+SOLUTION #2:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=HIDES
+  H row=2 col=1 word=LITHE
+  H row=4 col=1 word=SLIDE
+  V row=0 col=1 word=HILTS
+  V row=0 col=3 word=DETAIN
+  V row=0 col=5 word=STEVE
+
+SOLUTION #3:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DIETS
+  H row=2 col=1 word=LIVIA
+  H row=4 col=1 word=SHEET
+  V row=0 col=1 word=DELTS
+  V row=0 col=3 word=ENVIED
+  V row=0 col=5 word=SHALT
+
+SOLUTION #4:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=HEELS
+  H row=2 col=1 word=LIVIA
+  H row=4 col=1 word=SHEET
+  V row=0 col=1 word=HILTS
+  V row=0 col=3 word=ENVIED
+  V row=0 col=5 word=STADT
+
+SOLUTION #5:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=HILLS
+  H row=2 col=1 word=NIVEA
+  H row=4 col=1 word=SHEET
+  V row=0 col=1 word=HINTS
+  V row=0 col=3 word=LEVIED
+  V row=0 col=5 word=STADT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-B4183D73
+TOTAL_TRUE: 22   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=2–5  LEN=4
+  [V] C=2  R=2–5  LEN=4
+  [V] C=4  R=2–5  LEN=4
+  [V] C=6  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (2,0)
+  H1,2 ↔ V4,0  @ (2,2)
+  H1,4 ↔ V5,0  @ (2,4)
+  H1,6 ↔ V6,0  @ (2,6)
+  H2,0 ↔ V3,2  @ (4,0)
+  H2,2 ↔ V4,2  @ (4,2)
+  H2,4 ↔ V5,2  @ (4,4)
+  H2,6 ↔ V6,2  @ (4,6)
+
+CELLS_TRUE (count=22):
+  (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.......
+#######
+#.#.#.#
+#######
+#.#.#.#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-9E2F5073
+TOTAL_TRUE: 22   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=0–3  LEN=4
+  [V] C=4  R=0–3  LEN=4
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H1,6 ↔ V6,0  @ (0,6)
+  H2,0 ↔ V3,2  @ (2,0)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H2,6 ↔ V6,2  @ (2,6)
+
+CELLS_TRUE (count=22):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.#.#.#
+#######
+#.#.#.#
+.......
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H4V  |  GRID_ID: W7H5-2H4V-D6682BB8
+TOTAL_TRUE: 22   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=1–4  LEN=4
+  [V] C=4  R=1–4  LEN=4
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H1,6 ↔ V6,0  @ (1,6)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+  H2,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=22):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+#.#.#.#
+#.#.#.#
+#######
+
+SOLUTION #1:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ATHEIST
+  H row=4 col=0 word=SHELTIE
+  V row=1 col=0 word=ADDS
+  V row=1 col=2 word=HIVE
+  V row=1 col=4 word=INIT
+  V row=1 col=6 word=TELE
+
+SOLUTION #2:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ELITIST
+  H row=4 col=0 word=SHEATHE
+  V row=1 col=0 word=EVES
+  V row=1 col=2 word=IDLE
+  V row=1 col=4 word=INIT
+  V row=1 col=6 word=TIDE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-F217405B
+TOTAL_TRUE: 22   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=2–5  LEN=4
+  [V] C=2  R=1–4  LEN=4
+  [V] C=4  R=1–4  LEN=4
+  [V] C=6  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (2,0)
+  H1,2 ↔ V4,1  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H1,6 ↔ V6,0  @ (2,6)
+  H2,0 ↔ V3,2  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+  H2,6 ↔ V6,2  @ (4,6)
+
+CELLS_TRUE (count=22):
+  (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+..#.#..
+#######
+#.#.#.#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DAILIES
+  H row=4 col=0 word=ENTITLE
+  V row=2 col=0 word=DIET
+  V row=1 col=2 word=HIST
+  V row=1 col=4 word=VIET
+  V row=2 col=6 word=SHED
+
+SOLUTION #2:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DAILIES
+  H row=4 col=0 word=SHELTIE
+  V row=2 col=0 word=DESI
+  V row=1 col=2 word=DIVE
+  V row=1 col=4 word=HINT
+  V row=2 col=6 word=STET
+
+SOLUTION #3:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DAILIES
+  H row=4 col=0 word=SHELTIE
+  V row=2 col=0 word=DISH
+  V row=1 col=2 word=DINE
+  V row=1 col=4 word=VIET
+  V row=2 col=6 word=STET
+
+SOLUTION #4:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DAILIES
+  H row=4 col=0 word=SHELTIE
+  V row=2 col=0 word=DIST
+  V row=1 col=2 word=HIVE
+  V row=1 col=4 word=TINT
+  V row=2 col=6 word=SEED
+
+SOLUTION #5:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DAILIES
+  H row=4 col=0 word=SHELTIE
+  V row=2 col=0 word=DIST
+  V row=1 col=2 word=NITE
+  V row=1 col=4 word=VIET
+  V row=2 col=6 word=SHED
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-EDED8B06
+TOTAL_TRUE: 22   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=2  R=2–5  LEN=4
+  [V] C=4  R=2–5  LEN=4
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,0  @ (2,2)
+  H1,4 ↔ V5,0  @ (2,4)
+  H1,6 ↔ V6,1  @ (2,6)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,2  @ (4,2)
+  H2,4 ↔ V5,2  @ (4,4)
+  H2,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=22):
+  (1,0) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#.....#
+#######
+#.#.#.#
+#######
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=INHALED
+  H row=4 col=0 word=SETTLES
+  V row=1 col=0 word=HITS
+  V row=2 col=2 word=HDTV
+  V row=2 col=4 word=LILI
+  V row=1 col=6 word=IDES
+
+SOLUTION #2:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=SHEATHE
+  H row=4 col=0 word=STILLED
+  V row=1 col=0 word=ISIS
+  V row=2 col=2 word=EDIE
+  V row=2 col=4 word=TILT
+  V row=1 col=6 word=VEND
+
+SOLUTION #3:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=SHEATHE
+  H row=4 col=0 word=STILLED
+  V row=1 col=0 word=ISIS
+  V row=2 col=2 word=EDIT
+  V row=2 col=4 word=TILE
+  V row=1 col=6 word=VEND
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H4V  |  GRID_ID: W7H6-2H4V-E1EA68A7
+TOTAL_TRUE: 22   INTERSECTIONS: 8   DUP_SQUARES: 8
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–3  LEN=4
+  [V] C=2  R=1–4  LEN=4
+  [V] C=4  R=1–4  LEN=4
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H1,6 ↔ V6,1  @ (1,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,2  @ (3,2)
+  H2,4 ↔ V5,2  @ (3,4)
+  H2,6 ↔ V6,3  @ (3,6)
+
+CELLS_TRUE (count=22):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#.#.#.#
+#######
+..#.#..
+.......
+
+SOLUTION #1:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=INHALED
+  H row=3 col=0 word=SETTLES
+  V row=0 col=0 word=HITS
+  V row=1 col=2 word=HDTV
+  V row=1 col=4 word=LILI
+  V row=0 col=6 word=IDES
+
+SOLUTION #2:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=SHEATHE
+  H row=3 col=0 word=STILLED
+  V row=0 col=0 word=ISIS
+  V row=1 col=2 word=EDIE
+  V row=1 col=4 word=TILT
+  V row=0 col=6 word=VEND
+
+SOLUTION #3:
+
+PHRASE: the devil is in the details
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=SHEATHE
+  H row=3 col=0 word=STILLED
+  V row=0 col=0 word=ISIS
+  V row=1 col=2 word=EDIT
+  V row=1 col=4 word=TILE
+  V row=0 col=6 word=VEND
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 10
+Solved grids: 8
+Total unique solutions: 33
+Elapsed: 25.41s

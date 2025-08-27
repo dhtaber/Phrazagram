@@ -1,0 +1,4773 @@
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+CLEAN_LETTERS: ITSLIKEDEJAVUALLOVERAGAIN  (len=25)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_4.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-141F2834
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,1  @ (1,1)
+  H1,2 ↔ V5,0  @ (1,3)
+  H1,4 ↔ V6,1  @ (1,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,5 ↔ V6,3  @ (3,5)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,2 ↔ V5,4  @ (5,3)
+  H3,4 ↔ V6,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-04B56BF7
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,2 ↔ V5,4  @ (4,3)
+  H3,4 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-EF142756
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,1)
+  H1,2 ↔ V5,0  @ (1,3)
+  H1,4 ↔ V6,0  @ (1,5)
+  H2,1 ↔ V4,2  @ (3,1)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,5 ↔ V6,2  @ (3,5)
+  H3,1 ↔ V4,4  @ (5,1)
+  H3,3 ↔ V5,4  @ (5,3)
+  H3,5 ↔ V6,4  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-9DF738F3
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,2 ↔ V5,2  @ (2,3)
+  H2,4 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H3V  |  GRID_ID: W7H5-3H3V-847D3524
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,2 ↔ V5,0  @ (0,3)
+  H1,4 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-54679A2D
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5, R=5:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (1,1)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,5 ↔ V6,0  @ (1,5)
+  H2,0 ↔ V4,2  @ (3,1)
+  H2,2 ↔ V5,2  @ (3,3)
+  H2,4 ↔ V6,2  @ (3,5)
+  H3,1 ↔ V4,4  @ (5,1)
+  H3,3 ↔ V5,4  @ (5,3)
+  H3,5 ↔ V6,4  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H3V  |  GRID_ID: W7H5-3H3V-3F0E885F
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,2 ↔ V5,2  @ (2,3)
+  H2,4 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H3V  |  GRID_ID: W7H5-3H3V-DD888351
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,2 ↔ V5,4  @ (4,3)
+  H3,4 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-AEF544A9
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,2 ↔ V5,0  @ (0,3)
+  H1,4 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,2 ↔ V5,4  @ (4,3)
+  H3,4 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-37B717AD
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,2 ↔ V5,0  @ (0,3)
+  H1,4 ↔ V6,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,2 ↔ V5,2  @ (2,3)
+  H2,4 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-B6E19123
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (1,1)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,5 ↔ V6,0  @ (1,5)
+  H2,1 ↔ V4,2  @ (3,1)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,5 ↔ V6,2  @ (3,5)
+  H3,0 ↔ V4,4  @ (5,1)
+  H3,2 ↔ V5,4  @ (5,3)
+  H3,4 ↔ V6,4  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-98DA28BA
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,2 ↔ V5,0  @ (0,3)
+  H1,4 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-ABD854E0
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,2 ↔ V5,2  @ (2,3)
+  H2,4 ↔ V6,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,2 ↔ V5,4  @ (4,3)
+  H3,4 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-AF6C954F
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,1  @ (1,1)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,5 ↔ V6,1  @ (1,5)
+  H2,0 ↔ V4,3  @ (3,1)
+  H2,2 ↔ V5,2  @ (3,3)
+  H2,4 ↔ V6,3  @ (3,5)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,2 ↔ V5,4  @ (5,3)
+  H3,4 ↔ V6,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-F699233A
+TOTAL_TRUE: 25   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5, R=5:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,1  @ (1,1)
+  H1,2 ↔ V5,0  @ (1,3)
+  H1,4 ↔ V6,1  @ (1,5)
+  H2,0 ↔ V4,3  @ (3,1)
+  H2,2 ↔ V5,2  @ (3,3)
+  H2,4 ↔ V6,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,3 ↔ V5,4  @ (5,3)
+  H3,5 ↔ V6,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-8B15AF5A
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=2–5  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V5,0  @ (0,3)
+  H2,0 ↔ V4,0  @ (2,0)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,6 ↔ V6,0  @ (2,6)
+  H3,0 ↔ V4,2  @ (4,0)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,6 ↔ V6,2  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,3) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+...#...
+#######
+#..#..#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=LEVEL
+  H row=2 col=0 word=ARIGATO
+  H row=4 col=0 word=JAVELIN
+  V row=2 col=0 word=ADJS
+  V row=0 col=3 word=VAGUE
+  V row=2 col=6 word=OINK
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=KANJI
+  H row=2 col=0 word=ALOEGEL
+  H row=4 col=0 word=AVIATED
+  V row=2 col=0 word=ARAL
+  V row=0 col=3 word=NUEVA
+  V row=2 col=6 word=LIDS
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=KANJI
+  H row=2 col=0 word=AVOIDER
+  H row=4 col=0 word=ILLEGAL
+  V row=2 col=0 word=ASIT
+  V row=0 col=3 word=NAIVE
+  V row=2 col=6 word=RULE
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=JINGO
+  H row=2 col=0 word=DEVALUE
+  H row=4 col=0 word=RATLIKE
+  V row=2 col=0 word=DARA
+  V row=0 col=3 word=NIALL
+  V row=2 col=6 word=EVES
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H3V  |  GRID_ID: W7H5-3H3V-6A4B8774
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V5,0  @ (0,3)
+  H2,0 ↔ V4,1  @ (2,0)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,6 ↔ V6,1  @ (2,6)
+  H3,0 ↔ V4,3  @ (4,0)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+#..#..#
+#######
+#..#..#
+#######
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=LEAVE
+  H row=2 col=0 word=DILATOR
+  H row=4 col=0 word=SEALING
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=AVAIL
+  V row=1 col=6 word=KRUG
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ALLOK
+  H row=2 col=0 word=DEVIATE
+  H row=4 col=0 word=SALIERI
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=LUIGI
+  V row=1 col=6 word=VENI
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=LIKEA
+  H row=2 col=0 word=DIVULGE
+  H row=4 col=0 word=STRIVEN
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=KAUAI
+  V row=1 col=6 word=LEON
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=TOKEN
+  H row=2 col=0 word=DIVULGE
+  H row=4 col=0 word=SALIERI
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=KAUAI
+  V row=1 col=6 word=LEVI
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=VAGAL
+  H row=2 col=0 word=DRIVEIN
+  H row=4 col=0 word=SELLOUT
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=GAVEL
+  V row=1 col=6 word=KNIT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-58D72373
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=0  R=1–4  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,0)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,6 ↔ V6,0  @ (1,6)
+  H2,0 ↔ V4,2  @ (3,0)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,6 ↔ V6,2  @ (3,6)
+  H3,2 ↔ V5,4  @ (5,3)
+
+CELLS_TRUE (count=25):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+#..#..#
+#######
+#..#..#
+.#####.
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AGAINST
+  H row=3 col=0 word=AVAILED
+  H row=5 col=1 word=VIEJO
+  V row=1 col=0 word=ARAL
+  V row=1 col=3 word=ILIKE
+  V row=1 col=6 word=TUDE
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DEVALUE
+  H row=3 col=0 word=RATLIKE
+  H row=5 col=1 word=JINGO
+  V row=1 col=0 word=DARA
+  V row=1 col=3 word=ALLIN
+  V row=1 col=6 word=EVES
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-D2E0192F
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V5,0  @ (0,3)
+  H2,0 ↔ V4,1  @ (2,0)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,6 ↔ V6,1  @ (2,6)
+  H3,0 ↔ V4,3  @ (4,0)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+#..#..#
+#######
+#..#..#
+#######
+.......
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=LEAVE
+  H row=2 col=0 word=DILATOR
+  H row=4 col=0 word=SEALING
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=AVAIL
+  V row=1 col=6 word=KRUG
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=ALLOK
+  H row=2 col=0 word=DEVIATE
+  H row=4 col=0 word=SALIERI
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=LUIGI
+  V row=1 col=6 word=VENI
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=LIKEA
+  H row=2 col=0 word=DIVULGE
+  H row=4 col=0 word=STRIVEN
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=KAUAI
+  V row=1 col=6 word=LEON
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=TOKEN
+  H row=2 col=0 word=DIVULGE
+  H row=4 col=0 word=SALIERI
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=KAUAI
+  V row=1 col=6 word=LEVI
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=VAGAL
+  H row=2 col=0 word=DRIVEIN
+  H row=4 col=0 word=SELLOUT
+  V row=1 col=0 word=ADJS
+  V row=0 col=3 word=GAVEL
+  V row=1 col=6 word=KNIT
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H3V  |  GRID_ID: W7H5-3H3V-33BE3101
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,0)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,6 ↔ V6,0  @ (0,6)
+  H2,0 ↔ V4,2  @ (2,0)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,6 ↔ V6,2  @ (2,6)
+  H3,2 ↔ V5,4  @ (4,3)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#..#..#
+#######
+#..#..#
+.#####.
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=AGAINST
+  H row=2 col=0 word=AVAILED
+  H row=4 col=1 word=VIEJO
+  V row=0 col=0 word=ARAL
+  V row=0 col=3 word=ILIKE
+  V row=0 col=6 word=TUDE
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=DEVALUE
+  H row=2 col=0 word=RATLIKE
+  H row=4 col=1 word=JINGO
+  V row=0 col=0 word=DARA
+  V row=0 col=3 word=ALLIN
+  V row=0 col=6 word=EVES
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-4E8F5A62
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,0)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,6 ↔ V6,0  @ (0,6)
+  H2,0 ↔ V4,2  @ (2,0)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,6 ↔ V6,2  @ (2,6)
+  H3,2 ↔ V5,4  @ (4,3)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#..#..#
+#######
+#..#..#
+.#####.
+.......
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AGAINST
+  H row=2 col=0 word=AVAILED
+  H row=4 col=1 word=VIEJO
+  V row=0 col=0 word=ARAL
+  V row=0 col=3 word=ILIKE
+  V row=0 col=6 word=TUDE
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DEVALUE
+  H row=2 col=0 word=RATLIKE
+  H row=4 col=1 word=JINGO
+  V row=0 col=0 word=DARA
+  V row=0 col=3 word=ALLIN
+  V row=0 col=6 word=EVES
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-C4B8603E
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=0  R=0–3  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,1  @ (1,0)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,6 ↔ V6,1  @ (1,6)
+  H2,0 ↔ V4,3  @ (3,0)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,6 ↔ V6,3  @ (3,6)
+  H3,2 ↔ V5,4  @ (5,3)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,3) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#..#..#
+#######
+...#...
+.#####.
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DELILLO
+  H row=3 col=0 word=SKIAREA
+  H row=5 col=1 word=NUEVA
+  V row=0 col=0 word=ADJS
+  V row=1 col=3 word=IGAVE
+  V row=0 col=6 word=IOTA
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=DILATOR
+  H row=3 col=0 word=SEVILLE
+  H row=5 col=1 word=KENAI
+  V row=0 col=0 word=ADJS
+  V row=1 col=3 word=AVIAN
+  V row=0 col=6 word=URGE
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=NAUTILI
+  H row=3 col=0 word=SEVILLE
+  H row=5 col=1 word=DRAKE
+  V row=0 col=0 word=ANOS
+  V row=1 col=3 word=TAIGA
+  V row=0 col=6 word=JIVE
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=NIGERIA
+  H row=3 col=0 word=SEVILLE
+  H row=5 col=1 word=KUALA
+  V row=0 col=0 word=ANOS
+  V row=1 col=3 word=EVITA
+  V row=0 col=6 word=JADE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-01229506
+TOTAL_TRUE: 25   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=2–5  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V5,0  @ (1,3)
+  H2,0 ↔ V4,1  @ (3,0)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,6 ↔ V6,1  @ (3,6)
+  H3,0 ↔ V4,3  @ (5,0)
+  H3,3 ↔ V5,4  @ (5,3)
+  H3,6 ↔ V6,3  @ (5,6)
+
+CELLS_TRUE (count=25):
+  (1,1) (1,2) (1,3) (1,4) (1,5) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#####.
+#..#..#
+#######
+#..#..#
+#######
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=LEAVE
+  H row=3 col=0 word=DILATOR
+  H row=5 col=0 word=SEALING
+  V row=2 col=0 word=ADJS
+  V row=1 col=3 word=AVAIL
+  V row=2 col=6 word=KRUG
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ALLOK
+  H row=3 col=0 word=DEVIATE
+  H row=5 col=0 word=SALIERI
+  V row=2 col=0 word=ADJS
+  V row=1 col=3 word=LUIGI
+  V row=2 col=6 word=VENI
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=LIKEA
+  H row=3 col=0 word=DIVULGE
+  H row=5 col=0 word=STRIVEN
+  V row=2 col=0 word=ADJS
+  V row=1 col=3 word=KAUAI
+  V row=2 col=6 word=LEON
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=TOKEN
+  H row=3 col=0 word=DIVULGE
+  H row=5 col=0 word=SALIERI
+  V row=2 col=0 word=ADJS
+  V row=1 col=3 word=KAUAI
+  V row=2 col=6 word=LEVI
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=VAGAL
+  H row=3 col=0 word=DRIVEIN
+  H row=5 col=0 word=SELLOUT
+  V row=2 col=0 word=ADJS
+  V row=1 col=3 word=GAVEL
+  V row=2 col=6 word=KNIT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-4F6DF5CF
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,0)
+  H1,6 ↔ V5,0  @ (1,6)
+  H2,0 ↔ V4,2  @ (3,0)
+  H2,6 ↔ V5,2  @ (3,6)
+  H3,0 ↔ V4,4  @ (5,0)
+  H3,6 ↔ V5,4  @ (5,6)
+
+CELLS_TRUE (count=25):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+#.....#
+#######
+#.....#
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-C9430F15
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,1 ↔ V4,3  @ (3,2)
+  H2,3 ↔ V5,3  @ (3,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,2) (2,4) (3,1) (3,2) (3,3) (3,4) (3,5) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+..#.#..
+.#####.
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-4B634A82
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,2 ↔ V4,2  @ (3,2)
+  H2,4 ↔ V5,2  @ (3,4)
+  H3,2 ↔ V4,4  @ (5,2)
+  H3,4 ↔ V5,4  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+..#.#..
+#######
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-E785025D
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#.#.#.
+#######
+.#.#.#.
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-217EEF97
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,5 ↔ V5,3  @ (3,5)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,4 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+.#...#.
+#######
+.#...#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-5A5048FD
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,1  @ (1,1)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,5 ↔ V5,3  @ (3,5)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,4 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#...#.
+#######
+.#...#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-0311CEF8
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#...#.
+#######
+.#...#.
+.#...#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-0212B625
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#.#.#.
+.#.#.#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-E54AB125
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,2  @ (2,1)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,5 ↔ V5,2  @ (2,5)
+  H2,1 ↔ V3,5  @ (5,1)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#.#.#.
+#######
+.#.#.#.
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-691FB9DB
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,2  @ (2,1)
+  H1,3 ↔ V4,2  @ (2,3)
+  H1,5 ↔ V5,2  @ (2,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,3) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#.#.#.
+#######
+.#.#.#.
+#######
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AVIATED
+  H row=4 col=0 word=VALERIE
+  V row=0 col=1 word=JOVIAL
+  V row=0 col=3 word=USAGE
+  V row=0 col=5 word=KAELIN
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H2V  |  GRID_ID: W7H5-3H2V-200A58F0
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,4  @ (4,2)
+  H3,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+#######
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-221192A5
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,2)
+  H1,3 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+..#.#..
+#######
+..#.#..
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-EF9D15ED
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,4 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,1) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+#######
+.#...#.
+.#...#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-8BC7B093
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,6 ↔ V5,1  @ (1,6)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,3) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#..#..#
+#######
+#..#..#
+#..#..#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADVISEE
+  H row=4 col=0 word=NIKOLAI
+  V row=0 col=0 word=LAGUNA
+  V row=0 col=3 word=VIEJO
+  V row=0 col=6 word=RETAIL
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H2V  |  GRID_ID: W7H5-3H2V-CA3255ED
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+#######
+.#...#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-273C82EC
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,1 ↔ V4,2  @ (2,2)
+  H2,3 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,1) (2,2) (2,3) (2,4) (2,5) (3,2) (3,4) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+.#####.
+..#.#..
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-10AE2C4B
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,3) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+#######
+.#.#.#.
+.#.#.#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-FC6A2FA8
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H3,1 ↔ V4,5  @ (5,2)
+  H3,3 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#######
+..#.#..
+#######
+..#.#..
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-03A5FE88
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,1  @ (1,1)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,5 ↔ V5,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#####.
+.#...#.
+#######
+.#...#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-CDF23482
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,5 ↔ V5,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,5) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#...#.
+.#...#.
+#######
+.#...#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-33B6956D
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+#######
+.#...#.
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-5EC61E0D
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,1 ↔ V4,2  @ (2,2)
+  H2,3 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,4  @ (4,2)
+  H3,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,1) (2,2) (2,3) (2,4) (2,5) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+.#####.
+..#.#..
+#######
+..#.#..
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-C749DF0E
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,2)
+  H1,3 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,2) (1,4) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+..#.#..
+..#.#..
+#######
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-1B29714D
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,2  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-061C0968
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,2  @ (2,1)
+  H2,3 ↔ V4,2  @ (2,3)
+  H2,5 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#.#.#.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ADULATE
+  H row=2 col=0 word=JAVELIN
+  V row=0 col=1 word=DIALOG
+  V row=0 col=3 word=LEEKS
+  V row=0 col=5 word=TRIVIA
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-9CFB24B5
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,5  @ (5,1)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#.#.#.
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ANTARES
+  H row=5 col=0 word=JELLIED
+  V row=0 col=1 word=INVOKE
+  V row=1 col=3 word=AVAIL
+  V row=0 col=5 word=LEAGUE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-FEBEC535
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#.#.#.
+#######
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-F5399833
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,3) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=GERITOL
+  H row=3 col=0 word=UNALIKE
+  V row=0 col=1 word=JEANIE
+  V row=0 col=3 word=VILLA
+  V row=0 col=5 word=VODKAS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-870F50A5
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,2  @ (2,1)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,5 ↔ V5,2  @ (2,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#.#.#.
+#######
+.#.#.#.
+#######
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-5BEB0E44
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,2)
+  H1,3 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,4  @ (4,2)
+  H3,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+..#.#..
+#######
+..#.#..
+#######
+..#.#..
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-9CDBAA7A
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,4 ↔ V5,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+.#####.
+.#...#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-E6C58686
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,6 ↔ V5,0  @ (0,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,6 ↔ V5,3  @ (3,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,3) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#..#..#
+#..#..#
+#######
+#..#..#
+#.....#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-C3F8E499
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V4,3  @ (3,1)
+  H2,4 ↔ V5,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,1) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+.#...#.
+.#####.
+.#...#.
+#######
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AALARGE
+  H row=3 col=1 word=OVULE
+  H row=5 col=0 word=INKIEST
+  V row=0 col=1 word=ADJOIN
+  V row=0 col=5 word=GAVELS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-2BC5041B
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H3,1 ↔ V4,5  @ (5,2)
+  H3,3 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+..#.#..
+#######
+..#.#..
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-A454E321
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,6 ↔ V5,1  @ (1,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,3 ↔ V4,2  @ (3,3)
+  H2,6 ↔ V5,3  @ (3,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6) (5,0) (5,3) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#..#..#
+#######
+#..#..#
+#..#..#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-E1A43A5D
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,4  @ (4,2)
+  H3,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+#######
+..#.#..
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-1EEC24A6
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,1 ↔ V4,3  @ (3,2)
+  H2,3 ↔ V5,3  @ (3,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,2) (2,4) (3,1) (3,2) (3,3) (3,4) (3,5) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#######
+..#.#..
+.#####.
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-27463C4A
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,6 ↔ V5,0  @ (0,6)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,3) (1,6) (2,0) (2,3) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#..#..#
+#..#..#
+#..#..#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DOLLING
+  H row=4 col=0 word=VALERIE
+  V row=0 col=0 word=DEJAVU
+  V row=0 col=3 word=LAVIE
+  V row=0 col=6 word=GASKET
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-CE9D49B0
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,1 ↔ V4,5  @ (5,2)
+  H3,3 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,2) (4,4) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+#######
+..#.#..
+..#.#..
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-726EA872
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,0)
+  H1,3 ↔ V4,2  @ (2,3)
+  H1,6 ↔ V5,2  @ (2,6)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,3) (0,6) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#..#..#
+#..#..#
+#######
+#..#..#
+#######
+#.....#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-4A440A5F
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,6 ↔ V5,1  @ (1,6)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,6 ↔ V5,3  @ (3,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,3) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#..#..#
+#######
+#..#..#
+#######
+#..#..#
+#.....#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-B8D643F3
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,1  @ (1,1)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V4,3  @ (3,1)
+  H2,4 ↔ V5,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#...#.
+.#####.
+.#...#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-65D759ED
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,6 ↔ V5,1  @ (1,6)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,3) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#..#..#
+#..#..#
+#######
+#..#..#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-063CDEB1
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,4 ↔ V5,2  @ (2,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,5) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+.#####.
+.#...#.
+.#...#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-7F63A926
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,0)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,6 ↔ V5,2  @ (2,6)
+  H2,0 ↔ V3,5  @ (5,0)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,6 ↔ V5,5  @ (5,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,3) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#..#..#
+#######
+#..#..#
+#..#..#
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-0599F97E
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+#######
+.#...#.
+.#####.
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-9C7E410C
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,0)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,6 ↔ V5,2  @ (2,6)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,3) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#..#..#
+#######
+#..#..#
+#######
+#..#..#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-04D3BA10
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,3  @ (3,1)
+  H1,3 ↔ V4,2  @ (3,3)
+  H1,5 ↔ V5,3  @ (3,5)
+  H2,1 ↔ V3,5  @ (5,1)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#.#.#.
+.#.#.#.
+#######
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-C7844D09
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,1 ↔ V4,4  @ (4,2)
+  H3,3 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,1) (4,2) (4,3) (4,4) (4,5) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+#######
+..#.#..
+.#####.
+..#.#..
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-798CA4F8
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–4  LEN=5
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,0)
+  H1,6 ↔ V5,0  @ (0,6)
+  H2,0 ↔ V4,2  @ (2,0)
+  H2,6 ↔ V5,2  @ (2,6)
+  H3,0 ↔ V4,4  @ (4,0)
+  H3,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.....#
+#######
+#.....#
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-86CAB1C7
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,6 ↔ V5,1  @ (1,6)
+  H2,0 ↔ V3,5  @ (5,0)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,6 ↔ V5,5  @ (5,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,3) (3,6) (4,0) (4,3) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#..#..#
+#..#..#
+#..#..#
+#######
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=EELLIKE
+  H row=5 col=0 word=RAISING
+  V row=0 col=0 word=DEVOUR
+  V row=1 col=3 word=LAVAS
+  V row=0 col=6 word=JETLAG
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-CD7E3157
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,6 ↔ V5,0  @ (0,6)
+  H2,0 ↔ V3,2  @ (2,0)
+  H2,3 ↔ V4,2  @ (2,3)
+  H2,6 ↔ V5,2  @ (2,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,3) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#..#..#
+#######
+#..#..#
+#..#..#
+#.....#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-99F6BA33
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=25):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#...#.
+#######
+.#...#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-A59F99DD
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,1  @ (1,2)
+  H1,3 ↔ V5,1  @ (1,4)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=25):
+  (0,2) (0,4) (1,1) (1,2) (1,3) (1,4) (1,5) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+.#####.
+..#.#..
+#######
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-54D81EF7
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,3  @ (3,0)
+  H1,3 ↔ V4,2  @ (3,3)
+  H1,6 ↔ V5,3  @ (3,6)
+  H2,0 ↔ V3,5  @ (5,0)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,6 ↔ V5,5  @ (5,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,3) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#..#..#
+#..#..#
+#######
+#..#..#
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-A15B479F
+TOTAL_TRUE: 25   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (1,1)
+  H1,5 ↔ V5,0  @ (1,5)
+  H2,1 ↔ V4,2  @ (3,1)
+  H2,5 ↔ V5,2  @ (3,5)
+  H3,1 ↔ V4,4  @ (5,1)
+  H3,5 ↔ V5,4  @ (5,5)
+
+CELLS_TRUE (count=25):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+.#...#.
+#######
+.#...#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-9CAB9679
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,3  @ (3,0)
+  H1,2 ↔ V3,3  @ (3,2)
+  H1,4 ↔ V4,3  @ (3,4)
+  H1,6 ↔ V5,3  @ (3,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,2) (4,4) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=JAVAN
+  V row=0 col=2 word=LILLIE
+  V row=0 col=4 word=TOURED
+  V row=0 col=6 word=VIKES
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=KUNAL
+  V row=0 col=2 word=JAILED
+  V row=0 col=4 word=OVERIT
+  V row=0 col=6 word=LIVES
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=JAVAS
+  V row=0 col=2 word=LILLIE
+  V row=0 col=4 word=OVERIT
+  V row=0 col=6 word=NUKED
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=AVIAN
+  V row=0 col=2 word=KILLED
+  V row=0 col=4 word=OVERIT
+  V row=0 col=6 word=JULES
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=ASTERIA
+  V row=0 col=0 word=NOVAK
+  V row=0 col=2 word=JILTED
+  V row=0 col=4 word=LAURIE
+  V row=0 col=6 word=VAGAL
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-880428BF
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,5  @ (5,0)
+  H1,2 ↔ V3,4  @ (5,2)
+  H1,4 ↔ V4,4  @ (5,4)
+  H1,6 ↔ V5,5  @ (5,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=5 col=0 word=AALARGE
+  V row=0 col=0 word=NIKITA
+  V row=1 col=2 word=ELSOL
+  V row=1 col=4 word=JIVER
+  V row=0 col=6 word=UVALDE
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=5 col=0 word=AALARGE
+  V row=0 col=0 word=NIKOLA
+  V row=1 col=2 word=DEVIL
+  V row=1 col=4 word=JIVER
+  V row=0 col=6 word=SALUTE
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=5 col=0 word=AIRLANE
+  V row=0 col=0 word=LALIGA
+  V row=1 col=2 word=ASKER
+  V row=1 col=4 word=JUDEA
+  V row=0 col=6 word=VOTIVE
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=5 col=0 word=AIRLANE
+  V row=0 col=0 word=LAKOTA
+  V row=1 col=2 word=GIVER
+  V row=1 col=4 word=JUDEA
+  V row=0 col=6 word=VALISE
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=5 col=0 word=AIRLANE
+  V row=0 col=0 word=ALASKA
+  V row=1 col=2 word=GIVER
+  V row=1 col=4 word=JULIA
+  V row=0 col=6 word=DEVOTE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-E280C204
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=1:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,0  @ (1,0)
+  H1,2 ↔ V3,1  @ (1,2)
+  H1,4 ↔ V4,1  @ (1,4)
+  H1,6 ↔ V5,0  @ (1,6)
+
+CELLS_TRUE (count=25):
+  (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-C5DD7EAA
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,2  @ (2,0)
+  H1,2 ↔ V3,1  @ (2,2)
+  H1,4 ↔ V4,1  @ (2,4)
+  H1,6 ↔ V5,2  @ (2,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AIRLANE
+  V row=0 col=0 word=ADAGIO
+  V row=1 col=2 word=KRAUT
+  V row=1 col=4 word=VALLI
+  V row=0 col=6 word=JEEVES
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DETRAIN
+  V row=0 col=0 word=GODIVA
+  V row=1 col=2 word=ATALL
+  V row=1 col=4 word=LAVES
+  V row=0 col=6 word=JUNKIE
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DETRAIN
+  V row=0 col=0 word=GODIVA
+  V row=1 col=2 word=ATALL
+  V row=1 col=4 word=VALES
+  V row=0 col=6 word=JUNKIE
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DETRAIN
+  V row=0 col=0 word=GODIVA
+  V row=1 col=2 word=ATALL
+  V row=1 col=4 word=SALVE
+  V row=0 col=6 word=JUNKIE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-DA989239
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,3  @ (4,0)
+  H1,2 ↔ V3,4  @ (4,2)
+  H1,4 ↔ V4,4  @ (4,4)
+  H1,6 ↔ V5,3  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,2) (0,4) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=1 col=0 word=KUNAL
+  V row=0 col=2 word=JOSTLE
+  V row=0 col=4 word=VIEIRA
+  V row=1 col=6 word=LIVED
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=1 col=0 word=DUVAL
+  V row=0 col=2 word=JOSTLE
+  V row=0 col=4 word=VIEIRA
+  V row=1 col=6 word=LIKEN
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=1 col=0 word=ILLAT
+  V row=0 col=2 word=NOVELS
+  V row=0 col=4 word=VIEIRA
+  V row=1 col=6 word=JUKED
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-0E0C1911
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=1:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,1  @ (1,0)
+  H1,2 ↔ V3,1  @ (1,2)
+  H1,4 ↔ V4,1  @ (1,4)
+  H1,6 ↔ V5,1  @ (1,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AIRLANE
+  V row=0 col=0 word=KAUAI
+  V row=0 col=2 word=GROVEL
+  V row=0 col=4 word=JAILED
+  V row=0 col=6 word=VESTA
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-6CDA5FC2
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=0:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,0  @ (0,0)
+  H1,2 ↔ V3,0  @ (0,2)
+  H1,4 ↔ V4,0  @ (0,4)
+  H1,6 ↔ V5,0  @ (0,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+..#.#..
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-3614492C
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,4  @ (4,0)
+  H1,2 ↔ V3,4  @ (4,2)
+  H1,4 ↔ V4,4  @ (4,4)
+  H1,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=LATKA
+  V row=0 col=2 word=DEVILS
+  V row=0 col=4 word=INJURE
+  V row=0 col=6 word=VOILE
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=LATKA
+  V row=0 col=2 word=DEVILS
+  V row=0 col=4 word=INJURE
+  V row=0 col=6 word=OLIVE
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=KILLA
+  V row=0 col=2 word=DEVILS
+  V row=0 col=4 word=INJURE
+  V row=0 col=6 word=OVATE
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=EVITA
+  V row=0 col=2 word=KINDLE
+  V row=0 col=4 word=VALORS
+  V row=0 col=6 word=JULIE
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JULIA
+  V row=0 col=2 word=KINDLE
+  V row=0 col=4 word=LIVERS
+  V row=0 col=6 word=OVATE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-2BA2F353
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,3  @ (3,0)
+  H1,2 ↔ V3,2  @ (3,2)
+  H1,4 ↔ V4,2  @ (3,4)
+  H1,6 ↔ V5,3  @ (3,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=1 col=2 word=ALLOK
+  V row=1 col=4 word=TIRES
+  V row=0 col=6 word=LIVEIN
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=1 col=2 word=LILLI
+  V row=1 col=4 word=SERVO
+  V row=0 col=6 word=TAKEIN
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=1 col=2 word=LILLI
+  V row=1 col=4 word=VERSO
+  V row=0 col=6 word=TAKEIN
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=1 col=2 word=KELLI
+  V row=1 col=4 word=TORAS
+  V row=0 col=6 word=LIVEIN
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=1 col=2 word=KELLI
+  V row=1 col=4 word=LIRAS
+  V row=0 col=6 word=VOTEIN
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-B9057C3B
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=1:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,1  @ (1,0)
+  H1,2 ↔ V3,0  @ (1,2)
+  H1,4 ↔ V4,0  @ (1,4)
+  H1,6 ↔ V5,1  @ (1,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=SALUKI
+  V row=1 col=2 word=LEDIN
+  V row=1 col=4 word=RIOJA
+  V row=0 col=6 word=VELVET
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=LAIDIN
+  V row=1 col=2 word=LUKES
+  V row=1 col=4 word=RIOJA
+  V row=0 col=6 word=VELVET
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=JAILED
+  V row=1 col=2 word=LAVIE
+  V row=1 col=4 word=ROUST
+  V row=0 col=6 word=KELVIN
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=JAILED
+  V row=1 col=2 word=LAVIE
+  V row=1 col=4 word=ROUTS
+  V row=0 col=6 word=KELVIN
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=JAVITS
+  V row=1 col=2 word=LAVIE
+  V row=1 col=4 word=ROUND
+  V row=0 col=6 word=KELLIE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-70274D6C
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,2  @ (3,0)
+  H1,2 ↔ V3,3  @ (3,2)
+  H1,4 ↔ V4,3  @ (3,4)
+  H1,6 ↔ V5,2  @ (3,6)
+
+CELLS_TRUE (count=25):
+  (0,2) (0,4) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=1 col=0 word=KUALA
+  V row=0 col=2 word=DEVLIN
+  V row=0 col=4 word=LITRES
+  V row=1 col=6 word=VIEJO
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=1 col=0 word=STALK
+  V row=0 col=2 word=DEVLIN
+  V row=0 col=4 word=LAURIE
+  V row=1 col=6 word=VIEJO
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AIRLANE
+  V row=1 col=0 word=KUALA
+  V row=0 col=2 word=GEARED
+  V row=0 col=4 word=VITALS
+  V row=1 col=6 word=VIEJO
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=DISJOIN
+  V row=1 col=0 word=LEDGE
+  V row=0 col=2 word=ALASKA
+  V row=0 col=4 word=VALOUR
+  V row=1 col=6 word=VENTI
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=EELLIKE
+  V row=1 col=0 word=AVEDA
+  V row=0 col=2 word=JAILOR
+  V row=0 col=4 word=TILING
+  V row=1 col=6 word=UVEAS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-3A19B0CE
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=0:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,0  @ (0,0)
+  H1,2 ↔ V3,0  @ (0,2)
+  H1,4 ↔ V4,0  @ (0,4)
+  H1,6 ↔ V5,0  @ (0,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.....#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-60D7A620
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,4  @ (4,0)
+  H1,2 ↔ V3,4  @ (4,2)
+  H1,4 ↔ V4,4  @ (4,4)
+  H1,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JOVIAL
+  V row=0 col=2 word=KUNAL
+  V row=0 col=4 word=TILER
+  V row=0 col=6 word=SIEVED
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JOVIAL
+  V row=0 col=2 word=KUNAL
+  V row=0 col=4 word=LEVER
+  V row=0 col=6 word=TIDIES
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JOVIAL
+  V row=0 col=2 word=KUNAL
+  V row=0 col=4 word=LITER
+  V row=0 col=6 word=SIEVED
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JOVIAL
+  V row=0 col=2 word=DUVAL
+  V row=0 col=4 word=ISNER
+  V row=0 col=6 word=KEITEL
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=DOULAS
+  V row=0 col=2 word=ANVIL
+  V row=0 col=4 word=JIVER
+  V row=0 col=6 word=KEITEL
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-2417F48C
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,2  @ (2,0)
+  H1,2 ↔ V3,2  @ (2,2)
+  H1,4 ↔ V4,2  @ (2,4)
+  H1,6 ↔ V5,2  @ (2,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+#.....#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AALARGE
+  V row=0 col=0 word=IVANOV
+  V row=0 col=2 word=ILLAT
+  V row=0 col=4 word=JURIS
+  V row=0 col=6 word=KEELED
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AALARGE
+  V row=0 col=0 word=IVANKA
+  V row=0 col=2 word=JELLO
+  V row=0 col=4 word=LURID
+  V row=0 col=6 word=STEVIE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-CA687975
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,3  @ (3,0)
+  H1,2 ↔ V3,3  @ (3,2)
+  H1,4 ↔ V4,3  @ (3,4)
+  H1,6 ↔ V5,3  @ (3,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+#.....#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=0 col=2 word=LILLI
+  V row=0 col=4 word=OVERS
+  V row=0 col=6 word=TAKEIN
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=0 col=2 word=KELLI
+  V row=0 col=4 word=NOIRS
+  V row=0 col=6 word=LIVEAT
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=0 col=2 word=KELLI
+  V row=0 col=4 word=LAIRS
+  V row=0 col=6 word=VOTEIN
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=0 col=2 word=KELLI
+  V row=0 col=4 word=LIARS
+  V row=0 col=6 word=VOTEIN
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=AALARGE
+  V row=0 col=0 word=DEJAVU
+  V row=0 col=2 word=KILLA
+  V row=0 col=4 word=LOIRE
+  V row=0 col=6 word=INVEST
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-58CFF61D
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=1:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,1  @ (1,0)
+  H1,2 ↔ V3,1  @ (1,2)
+  H1,4 ↔ V4,1  @ (1,4)
+  H1,6 ↔ V5,1  @ (1,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.....#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=JAVITS
+  V row=0 col=2 word=ALLOK
+  V row=0 col=4 word=IRULE
+  V row=0 col=6 word=VEINED
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=JAVITS
+  V row=0 col=2 word=ALLOK
+  V row=0 col=4 word=URINE
+  V row=0 col=6 word=LEVIED
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=JAVITS
+  V row=0 col=2 word=ALLOK
+  V row=0 col=4 word=URINE
+  V row=0 col=6 word=VEILED
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=JAILED
+  V row=0 col=2 word=OLIVA
+  V row=0 col=4 word=TRUNK
+  V row=0 col=6 word=LEVIES
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AALARGE
+  V row=0 col=0 word=JAILED
+  V row=0 col=2 word=KLUTE
+  V row=0 col=4 word=ORVIS
+  V row=0 col=6 word=VENIAL
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-811D2C06
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,4  @ (4,0)
+  H1,2 ↔ V3,3  @ (4,2)
+  H1,4 ↔ V4,3  @ (4,4)
+  H1,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JOVIAL
+  V row=1 col=2 word=DELLA
+  V row=1 col=4 word=UTERI
+  V row=0 col=6 word=KNIVES
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JOVIAL
+  V row=1 col=2 word=KELLI
+  V row=1 col=4 word=SUTRA
+  V row=0 col=6 word=VEINED
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=DINEAT
+  V row=1 col=2 word=KILLA
+  V row=1 col=4 word=VIVRE
+  V row=0 col=6 word=JOULES
+
+SOLUTION #4:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JULIAN
+  V row=1 col=2 word=KILLA
+  V row=1 col=4 word=VIVRE
+  V row=0 col=6 word=TOSEED
+
+SOLUTION #5:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=4 col=0 word=AALARGE
+  V row=0 col=0 word=JULIAN
+  V row=1 col=2 word=KILLA
+  V row=1 col=4 word=VOTRE
+  V row=0 col=6 word=SIEVED
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-9E58C095
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,1  @ (2,0)
+  H1,2 ↔ V3,2  @ (2,2)
+  H1,4 ↔ V4,2  @ (2,4)
+  H1,6 ↔ V5,1  @ (2,6)
+
+CELLS_TRUE (count=25):
+  (0,2) (0,4) (1,0) (1,2) (1,4) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AALARGE
+  V row=1 col=0 word=JAVAN
+  V row=0 col=2 word=SILOED
+  V row=0 col=4 word=VIRTUE
+  V row=1 col=6 word=KELLI
+
+SOLUTION #2:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AALARGE
+  V row=1 col=0 word=JAVAN
+  V row=0 col=2 word=DILUTE
+  V row=0 col=4 word=VIRILE
+  V row=1 col=6 word=KELSO
+
+SOLUTION #3:
+
+PHRASE: "IT'S LIKE DEJA VU ALL OVER AGAIN."
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AALARGE
+  V row=1 col=0 word=JAVAN
+  V row=0 col=2 word=KILTED
+  V row=0 col=4 word=VIRILE
+  V row=1 col=6 word=SEOUL
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-D3819680
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,4  @ (5,0)
+  H1,2 ↔ V3,5  @ (5,2)
+  H1,4 ↔ V4,5  @ (5,4)
+  H1,6 ↔ V5,4  @ (5,6)
+
+CELLS_TRUE (count=25):
+  (0,2) (0,4) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-72D41B80
+TOTAL_TRUE: 25   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,2  @ (2,0)
+  H1,2 ↔ V3,2  @ (2,2)
+  H1,4 ↔ V4,2  @ (2,4)
+  H1,6 ↔ V5,2  @ (2,6)
+
+CELLS_TRUE (count=25):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+..#.#..
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 99
+Solved grids: 31
+Total unique solutions: 100
+Elapsed: 609.17s

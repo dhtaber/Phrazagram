@@ -1,0 +1,5724 @@
+PHRASE: ROME WASN'T BUILT IN A DAY
+CLEAN_LETTERS: ROMEWASNTBUILTINADAY  (len=20)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_4.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-89820C8E
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=2–5  LEN=4
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,0  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,2  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (1,1) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#...#.
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=TIAMO
+  H row=4 col=0 word=TANLINE
+  V row=1 col=1 word=ATWAR
+  V row=2 col=3 word=ABLY
+  V row=1 col=5 word=SOUND
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=TIAMO
+  H row=4 col=0 word=TAILEND
+  V row=1 col=1 word=ATWAR
+  V row=2 col=3 word=ABLY
+  V row=1 col=5 word=NOUNS
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AWAIT
+  H row=4 col=0 word=DISOBEY
+  V row=1 col=1 word=MALIA
+  V row=2 col=3 word=ANON
+  V row=1 col=5 word=UTTER
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=TIBIA
+  H row=4 col=0 word=UNNAMED
+  V row=1 col=1 word=STONY
+  V row=2 col=3 word=BAAL
+  V row=1 col=5 word=WATER
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=RUBIO
+  H row=4 col=0 word=LINDSAY
+  V row=1 col=1 word=TRAIT
+  V row=2 col=3 word=BADE
+  V row=1 col=5 word=WOMAN
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=DUBYA
+  H row=4 col=0 word=LOWRENT
+  V row=1 col=1 word=IDIOM
+  V row=2 col=3 word=BART
+  V row=1 col=5 word=NAANS
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=LABIA
+  H row=4 col=0 word=ASTOUND
+  V row=1 col=1 word=ELMST
+  V row=2 col=3 word=BROW
+  V row=1 col=5 word=YANNI
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=LABIA
+  H row=4 col=0 word=MEANSIT
+  V row=1 col=1 word=OLDER
+  V row=2 col=3 word=BUNT
+  V row=1 col=5 word=WAYIN
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AUDIO
+  H row=4 col=0 word=WINEBAR
+  V row=1 col=1 word=MANIA
+  V row=2 col=3 word=DYES
+  V row=1 col=5 word=TOTAL
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AWMAN
+  H row=4 col=0 word=LAYINTO
+  V row=1 col=1 word=BADAT
+  V row=2 col=3 word=MRIS
+  V row=1 col=5 word=UNITE
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ENNUI
+  H row=4 col=0 word=RAILWAY
+  V row=1 col=1 word=BEMAD
+  V row=2 col=3 word=NOLA
+  V row=1 col=5 word=SITAT
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=INSTA
+  H row=4 col=0 word=WARTIME
+  V row=1 col=1 word=AIDAN
+  V row=2 col=3 word=SOTU
+  V row=1 col=5 word=BALMY
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=UNTIE
+  H row=4 col=0 word=BASTARD
+  V row=1 col=1 word=MULAN
+  V row=2 col=3 word=TITO
+  V row=1 col=5 word=WEARY
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=METRO
+  H row=4 col=0 word=NATALIA
+  V row=1 col=1 word=IMBAD
+  V row=2 col=3 word=TWAS
+  V row=1 col=5 word=YOUIN
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ATWAR
+  H row=4 col=0 word=NOMINAL
+  V row=1 col=1 word=BAYOU
+  V row=2 col=3 word=WIIS
+  V row=1 col=5 word=TREAD
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ALAMO
+  H row=4 col=0 word=RITEAID
+  V row=1 col=1 word=WASIN
+  V row=2 col=3 word=ABET
+  V row=1 col=5 word=YOUIN
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AWARD
+  H row=4 col=0 word=NOMINAL
+  V row=1 col=1 word=BAYOU
+  V row=2 col=3 word=ATIT
+  V row=1 col=5 word=IDEAS
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=DRANO
+  H row=4 col=0 word=BESTIAL
+  V row=1 col=1 word=ADIEU
+  V row=2 col=3 word=ATTY
+  V row=1 col=5 word=WOMAN
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=RUBIO
+  H row=4 col=0 word=TAILEND
+  V row=1 col=1 word=ARYAN
+  V row=2 col=3 word=BALM
+  V row=1 col=5 word=TOWNS
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=DUBYA
+  H row=4 col=0 word=NOSWEAT
+  V row=1 col=1 word=IDIOM
+  V row=2 col=3 word=BAWL
+  V row=1 col=5 word=RANAT
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=INDIA
+  H row=4 col=0 word=BALONEY
+  V row=1 col=1 word=AIMAT
+  V row=2 col=3 word=DUOS
+  V row=1 col=5 word=WATER
+
+----------------------------------------------------------------
+
+=== GRID W6×H6  |  FAMILY 3H2V  |  GRID_ID: W6H6-3H2V-E0B79B2B
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=6, R=2:LEN=4, R=5:LEN=4
+
+SLOTS (5 total):
+  [H] R=0  C=0–5  LEN=6
+  [H] R=2  C=1–4  LEN=4
+  [H] R=5  C=1–4  LEN=4
+  [V] C=1  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,4)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,3 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=20):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) (3,4) (4,1) (4,4) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+######
+.#..#.
+.####.
+.#..#.
+.#..#.
+.####.
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=MAINLY
+  H row=2 col=1 word=ABRA
+  H row=5 col=1 word=STUD
+  V row=0 col=1 word=AWAITS
+  V row=0 col=4 word=LOANED
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=MAINLY
+  H row=2 col=1 word=ABRA
+  H row=5 col=1 word=STUN
+  V row=0 col=1 word=AWAITS
+  V row=0 col=4 word=LEADON
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=IDIOTS
+  H row=2 col=1 word=ALBA
+  H row=5 col=1 word=ETNA
+  V row=0 col=1 word=DWAYNE
+  V row=0 col=4 word=TRAUMA
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=MALIBU
+  H row=2 col=1 word=ARTY
+  H row=5 col=1 word=SAND
+  V row=0 col=1 word=AWAITS
+  V row=0 col=4 word=BEYOND
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=RATION
+  H row=2 col=1 word=BIDE
+  H row=5 col=1 word=STAY
+  V row=0 col=1 word=ALBUMS
+  V row=0 col=4 word=ONEWAY
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=YAWNED
+  H row=2 col=1 word=BURT
+  H row=5 col=1 word=OMIT
+  V row=0 col=1 word=ALBINO
+  V row=0 col=4 word=EATSAT
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=MALIBU
+  H row=2 col=1 word=DOYA
+  H row=5 col=1 word=NETS
+  V row=0 col=1 word=ATDAWN
+  V row=0 col=4 word=BRAINS
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=MALIBU
+  H row=2 col=1 word=DYES
+  H row=5 col=1 word=NANO
+  V row=0 col=1 word=ATDAWN
+  V row=0 col=4 word=BISTRO
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-AC8C223F
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–3  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DIANE
+  H row=3 col=0 word=NBASTAR
+  V row=0 col=1 word=DOUBT
+  V row=0 col=3 word=AIMS
+  V row=0 col=5 word=ELWAY
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BRAWL
+  H row=3 col=0 word=TOASTED
+  V row=0 col=1 word=BAYOU
+  V row=0 col=3 word=AIMS
+  V row=0 col=5 word=LINEN
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ELBOW
+  H row=3 col=0 word=MAITAIS
+  V row=0 col=1 word=ENDAT
+  V row=0 col=3 word=BURT
+  V row=0 col=5 word=WAYIN
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ABDUL
+  H row=3 col=0 word=MINARET
+  V row=0 col=1 word=AWAIT
+  V row=0 col=3 word=DOYA
+  V row=0 col=5 word=LINES
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=SWEAT
+  H row=3 col=0 word=MINIBAR
+  V row=0 col=1 word=SLAIN
+  V row=0 col=3 word=ETUI
+  V row=0 col=5 word=TODAY
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=SWEAT
+  H row=3 col=0 word=MINIBAR
+  V row=0 col=1 word=SNAIL
+  V row=0 col=3 word=ETUI
+  V row=0 col=5 word=TODAY
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DAILY
+  H row=3 col=0 word=TURBINE
+  V row=0 col=1 word=DONUT
+  V row=0 col=3 word=IAMB
+  V row=0 col=5 word=YAWNS
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ABIDE
+  H row=3 col=0 word=LAYSOUT
+  V row=0 col=1 word=ATWAR
+  V row=0 col=3 word=IAMS
+  V row=0 col=5 word=ENNUI
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=NAILS
+  H row=3 col=0 word=TAUNTER
+  V row=0 col=1 word=NOWAY
+  V row=0 col=3 word=IMAN
+  V row=0 col=5 word=SIDEB
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ALIAS
+  H row=3 col=0 word=TAUNTER
+  V row=0 col=1 word=AMWAY
+  V row=0 col=3 word=INON
+  V row=0 col=5 word=SIDEB
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=MILAN
+  H row=3 col=0 word=TENDBAR
+  V row=0 col=1 word=MITES
+  V row=0 col=3 word=LAUD
+  V row=0 col=5 word=NOWAY
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BYLAW
+  H row=3 col=0 word=INMATES
+  V row=0 col=1 word=BUTNO
+  V row=0 col=3 word=LIRA
+  V row=0 col=5 word=WANED
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=RUNAT
+  H row=3 col=0 word=WINSLET
+  V row=0 col=1 word=RABID
+  V row=0 col=3 word=NAYS
+  V row=0 col=5 word=TOMEI
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=RANAT
+  H row=3 col=0 word=WINSLET
+  V row=0 col=1 word=RUBIO
+  V row=0 col=3 word=NAYS
+  V row=0 col=5 word=TIMED
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=MINER
+  H row=3 col=0 word=LAWSUIT
+  V row=0 col=1 word=MADAT
+  V row=0 col=3 word=NAYS
+  V row=0 col=5 word=ROBIN
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=INNER
+  H row=3 col=0 word=LAWSUIT
+  V row=0 col=1 word=IMBAD
+  V row=0 col=3 word=NAYS
+  V row=0 col=5 word=RATIO
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BURNT
+  H row=3 col=0 word=DOMAINS
+  V row=0 col=1 word=BELOW
+  V row=0 col=3 word=RAYA
+  V row=0 col=5 word=TAINT
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=STRUT
+  H row=3 col=0 word=MELANIN
+  V row=0 col=1 word=SOWED
+  V row=0 col=3 word=RAYA
+  V row=0 col=5 word=TIBIA
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=INSUM
+  H row=3 col=0 word=ONTRIAL
+  V row=0 col=1 word=IWANT
+  V row=0 col=3 word=SEAR
+  V row=0 col=5 word=MYBAD
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=INSUM
+  H row=3 col=0 word=RANAWAY
+  V row=0 col=1 word=ILIAD
+  V row=0 col=3 word=SOBA
+  V row=0 col=5 word=METAT
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BOWLS
+  H row=3 col=0 word=AIMEDAT
+  V row=0 col=1 word=BUYIN
+  V row=0 col=3 word=WANE
+  V row=0 col=5 word=SITAR
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=AMWAY
+  H row=3 col=0 word=TUNEDIN
+  V row=0 col=1 word=ABOUT
+  V row=0 col=3 word=WILE
+  V row=0 col=5 word=YARIS
+
+SOLUTION #23:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=SAYIT
+  H row=3 col=0 word=TALIBAN
+  V row=0 col=1 word=SEDAN
+  V row=0 col=3 word=YURI
+  V row=0 col=5 word=TWOAM
+
+SOLUTION #24:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=IWANT
+  H row=3 col=0 word=NOTABLY
+  V row=0 col=1 word=IDIOM
+  V row=0 col=3 word=AURA
+  V row=0 col=5 word=TESLA
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-24C6C267
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,2  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+.......
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=UNNAMED
+  H row=3 col=1 word=ORBIT
+  V row=0 col=1 word=INTOW
+  V row=1 col=3 word=ALBA
+  V row=0 col=5 word=YEATS
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=STUDENT
+  H row=3 col=1 word=AROMA
+  V row=0 col=1 word=ATBAY
+  V row=1 col=3 word=DION
+  V row=0 col=5 word=INLAW
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AIMEDAT
+  H row=3 col=1 word=RUNIN
+  V row=0 col=1 word=LIBRA
+  V row=1 col=3 word=EONS
+  V row=0 col=5 word=TAWNY
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BAILEYS
+  H row=3 col=1 word=IMOUT
+  V row=0 col=1 word=NADIA
+  V row=1 col=3 word=LRON
+  V row=0 col=5 word=WYATT
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=TABLEAU
+  H row=3 col=1 word=NORMS
+  V row=0 col=1 word=DANNY
+  V row=1 col=3 word=LIRA
+  V row=0 col=5 word=WAIST
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BAWLOUT
+  H row=3 col=1 word=ATRIA
+  V row=0 col=1 word=MAYAN
+  V row=1 col=3 word=LIRE
+  V row=0 col=5 word=SUDAN
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=SAUNTER
+  H row=3 col=1 word=AWAIT
+  V row=0 col=1 word=BANAL
+  V row=1 col=3 word=NOAM
+  V row=0 col=5 word=DEITY
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=TAUNTER
+  H row=3 col=1 word=ISAID
+  V row=0 col=1 word=LABIA
+  V row=1 col=3 word=NOAM
+  V row=0 col=5 word=WENDY
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=LAUNDRY
+  H row=3 col=1 word=AWAIT
+  V row=0 col=1 word=SABAN
+  V row=1 col=3 word=NOAM
+  V row=0 col=5 word=TRITE
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=TENSION
+  H row=3 col=1 word=TRAIL
+  V row=0 col=1 word=MEATY
+  V row=1 col=3 word=SAAB
+  V row=0 col=5 word=WOULD
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=LAYSOUT
+  H row=3 col=1 word=INAWE
+  V row=0 col=1 word=NADIA
+  V row=1 col=3 word=SIAM
+  V row=0 col=5 word=TUBER
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=EATSOUT
+  H row=3 col=1 word=DIANA
+  V row=0 col=1 word=BAWDY
+  V row=1 col=3 word=SIAM
+  V row=0 col=5 word=LUNAR
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=MARTINI
+  H row=3 col=1 word=TABLE
+  V row=0 col=1 word=SANTA
+  V row=1 col=3 word=TOBY
+  V row=0 col=5 word=UNWED
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=EASYWIN
+  H row=3 col=1 word=AORTA
+  V row=0 col=1 word=BADAT
+  V row=1 col=3 word=YURI
+  V row=0 col=5 word=MILAN
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=WOMANLY
+  H row=3 col=1 word=SUTRA
+  V row=0 col=1 word=BOAST
+  V row=1 col=3 word=ANTE
+  V row=0 col=5 word=ILIAD
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=TITANIA
+  H row=3 col=1 word=BORED
+  V row=0 col=1 word=NIMBY
+  V row=1 col=3 word=AURA
+  V row=0 col=5 word=WILDS
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=TITANIA
+  H row=3 col=1 word=BORED
+  V row=0 col=1 word=LIMBS
+  V row=1 col=3 word=AURA
+  V row=0 col=5 word=WINDY
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=TURBINE
+  H row=3 col=1 word=INLAW
+  V row=0 col=1 word=AUDIT
+  V row=1 col=3 word=BALM
+  V row=0 col=5 word=SNOWY
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=RAYBANS
+  H row=3 col=1 word=NOLIE
+  V row=0 col=1 word=TAINT
+  V row=1 col=3 word=BALM
+  V row=0 col=5 word=UNWED
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=LAYITON
+  H row=3 col=1 word=ARIAS
+  V row=0 col=1 word=BADAT
+  V row=1 col=3 word=IWIN
+  V row=0 col=5 word=MOUSE
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=LIMITER
+  H row=3 col=1 word=ABOUT
+  V row=0 col=1 word=AIDAN
+  V row=1 col=3 word=IWON
+  V row=0 col=5 word=YEATS
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=TRAILED
+  H row=3 col=1 word=ISOUT
+  V row=0 col=1 word=BRAIN
+  V row=1 col=3 word=IWON
+  V row=0 col=5 word=MEATY
+
+SOLUTION #23:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=TRAILED
+  H row=3 col=1 word=IMOUT
+  V row=0 col=1 word=BRAIN
+  V row=1 col=3 word=IWON
+  V row=0 col=5 word=YEATS
+
+SOLUTION #24:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=NOBLEST
+  H row=3 col=1 word=ATARI
+  V row=0 col=1 word=NOWAY
+  V row=1 col=3 word=LIAM
+  V row=0 col=5 word=USAID
+
+----------------------------------------------------------------
+
+=== GRID W6×H6  |  FAMILY 3H2V  |  GRID_ID: W6H6-3H2V-93420B19
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=4, R=3:LEN=6, R=5:LEN=4
+
+SLOTS (5 total):
+  [H] R=0  C=1–4  LEN=4
+  [H] R=3  C=0–5  LEN=6
+  [H] R=5  C=1–4  LEN=4
+  [V] C=1  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,4)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,4 ↔ V5,3  @ (3,4)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,3 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,2) (0,3) (0,4) (1,1) (1,4) (2,1) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,4) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.####.
+.#..#.
+.#..#.
+######
+.#..#.
+.####.
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=ABLY
+  H row=3 col=0 word=TINMAN
+  H row=5 col=1 word=SIDE
+  V row=0 col=1 word=AWAITS
+  V row=0 col=4 word=YOUARE
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=ABRA
+  H row=3 col=0 word=MADEIT
+  H row=5 col=1 word=SUIT
+  V row=0 col=1 word=ALWAYS
+  V row=0 col=4 word=ANOINT
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=AIMS
+  H row=3 col=0 word=BOUNTY
+  H row=5 col=1 word=DIET
+  V row=0 col=1 word=ARNOLD
+  V row=0 col=4 word=SWATAT
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=AIMS
+  H row=3 col=0 word=BARELY
+  H row=5 col=1 word=NOUN
+  V row=0 col=1 word=ATDAWN
+  V row=0 col=4 word=STALIN
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=AWED
+  H row=3 col=0 word=LIBYAN
+  H row=5 col=1 word=MOAN
+  V row=0 col=1 word=AUTISM
+  V row=0 col=4 word=DTRAIN
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BADE
+  H row=3 col=0 word=MARION
+  H row=5 col=1 word=SNIT
+  V row=0 col=1 word=BYLAWS
+  V row=0 col=4 word=EATOUT
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BART
+  H row=3 col=0 word=INAWAY
+  H row=5 col=1 word=EMUS
+  V row=0 col=1 word=BLONDE
+  V row=0 col=4 word=TITANS
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BIDS
+  H row=3 col=0 word=ANIMAL
+  H row=5 col=1 word=WANT
+  V row=0 col=1 word=BYENOW
+  V row=0 col=4 word=STUART
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BRIM
+  H row=3 col=0 word=NOTNEW
+  H row=5 col=1 word=SLAT
+  V row=0 col=1 word=BAYOUS
+  V row=0 col=4 word=MADEIT
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BRIM
+  H row=3 col=0 word=INAWAY
+  H row=5 col=1 word=EAST
+  V row=0 col=1 word=BLONDE
+  V row=0 col=4 word=MUTANT
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BRIM
+  H row=3 col=0 word=NOTNEW
+  H row=5 col=1 word=SALT
+  V row=0 col=1 word=BAYOUS
+  V row=0 col=4 word=MADEIT
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BRIM
+  H row=3 col=0 word=INAWAY
+  H row=5 col=1 word=SANE
+  V row=0 col=1 word=BLONDS
+  V row=0 col=4 word=MUTATE
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BRIM
+  H row=3 col=0 word=INAWAY
+  H row=5 col=1 word=SEAT
+  V row=0 col=1 word=BLONDS
+  V row=0 col=4 word=MUTANT
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BROW
+  H row=3 col=0 word=MAINLY
+  H row=5 col=1 word=NUTS
+  V row=0 col=1 word=BATAAN
+  V row=0 col=4 word=WIELDS
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BUNT
+  H row=3 col=0 word=TAIWAN
+  H row=5 col=1 word=RAMS
+  V row=0 col=1 word=BELAIR
+  V row=0 col=4 word=TODAYS
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BUNT
+  H row=3 col=0 word=ONEWAY
+  H row=5 col=1 word=SARI
+  V row=0 col=1 word=BLINDS
+  V row=0 col=4 word=TATAMI
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BURT
+  H row=3 col=0 word=INAWAY
+  H row=5 col=1 word=DIMS
+  V row=0 col=1 word=BANNED
+  V row=0 col=4 word=TOTALS
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BURT
+  H row=3 col=0 word=NOIDEA
+  H row=5 col=1 word=SWAY
+  V row=0 col=1 word=BATONS
+  V row=0 col=4 word=TIMELY
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DIMS
+  H row=3 col=0 word=OUTWIT
+  H row=5 col=1 word=ELAN
+  V row=0 col=1 word=DANUBE
+  V row=0 col=4 word=SYRIAN
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DIMS
+  H row=3 col=0 word=OUTLAY
+  H row=5 col=1 word=EWAN
+  V row=0 col=1 word=DANUBE
+  V row=0 col=4 word=STRAIN
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DIMS
+  H row=3 col=0 word=ANNUAL
+  H row=5 col=1 word=TOBY
+  V row=0 col=1 word=DARNIT
+  V row=0 col=4 word=SWEATY
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DRAT
+  H row=3 col=0 word=NAILIT
+  H row=5 col=1 word=EMUS
+  V row=0 col=1 word=DWYANE
+  V row=0 col=4 word=TOBIAS
+
+SOLUTION #23:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DUBS
+  H row=3 col=0 word=TATAMI
+  H row=5 col=1 word=ERIN
+  V row=0 col=1 word=DWYANE
+  V row=0 col=4 word=SLAMON
+
+SOLUTION #24:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 6
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DUBS
+  H row=3 col=0 word=TATAMI
+  H row=5 col=1 word=ERIN
+  V row=0 col=1 word=DWYANE
+  V row=0 col=4 word=SALMON
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-690F3420
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=MULANEY
+  H row=4 col=1 word=TWAIN
+  V row=0 col=1 word=AUDIT
+  V row=1 col=3 word=ABRA
+  V row=0 col=5 word=SETON
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=MATADOR
+  H row=4 col=1 word=STAIN
+  V row=0 col=1 word=WANES
+  V row=1 col=3 word=ALBA
+  V row=0 col=5 word=YOUIN
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=NOTABLY
+  H row=4 col=1 word=AUDIT
+  V row=0 col=1 word=MORIA
+  V row=1 col=3 word=AWED
+  V row=0 col=5 word=SLANT
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=NOTABLY
+  H row=4 col=1 word=INDIA
+  V row=0 col=1 word=SOAMI
+  V row=1 col=3 word=AWED
+  V row=0 col=5 word=ULTRA
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ROADWAY
+  H row=4 col=1 word=STEIN
+  V row=0 col=1 word=BONUS
+  V row=1 col=3 word=DAME
+  V row=0 col=5 word=LATIN
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ARMENIA
+  H row=4 col=1 word=LUSTY
+  V row=0 col=1 word=BROIL
+  V row=1 col=3 word=EATS
+  V row=0 col=5 word=WINDY
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TRIEDON
+  H row=4 col=1 word=SLIMY
+  V row=0 col=1 word=ARABS
+  V row=1 col=3 word=ETUI
+  V row=0 col=5 word=NOWAY
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=SIDEARM
+  H row=4 col=1 word=ANNOY
+  V row=0 col=1 word=TIBIA
+  V row=1 col=3 word=EWAN
+  V row=0 col=5 word=TRULY
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=NUMERAL
+  H row=4 col=1 word=TONYS
+  V row=0 col=1 word=AUDIT
+  V row=1 col=3 word=EWAN
+  V row=0 col=5 word=BAITS
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=MANILOW
+  H row=4 col=1 word=SATAN
+  V row=0 col=1 word=DARTS
+  V row=1 col=3 word=IBET
+  V row=0 col=5 word=YOUIN
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=LIAISON
+  H row=4 col=1 word=NUTTY
+  V row=0 col=1 word=AIDAN
+  V row=1 col=3 word=IBET
+  V row=0 col=5 word=WORMY
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=MARITAL
+  H row=4 col=1 word=AUTOS
+  V row=0 col=1 word=NADIA
+  V row=1 col=3 word=IBET
+  V row=0 col=5 word=YAWNS
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=MTSINAI
+  H row=4 col=1 word=ULTRA
+  V row=0 col=1 word=ATYOU
+  V row=1 col=3 word=IBET
+  V row=0 col=5 word=WANDA
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=LAYITON
+  H row=4 col=1 word=RABID
+  V row=0 col=1 word=TASER
+  V row=1 col=3 word=IAMB
+  V row=0 col=5 word=WOUND
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ORDINAL
+  H row=4 col=1 word=TUBAS
+  V row=0 col=1 word=TRYIT
+  V row=1 col=3 word=IAMB
+  V row=0 col=5 word=WANES
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ORDINAL
+  H row=4 col=1 word=TUBES
+  V row=0 col=1 word=TRAIT
+  V row=1 col=3 word=IAMB
+  V row=0 col=5 word=YAWNS
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AUDITOR
+  H row=4 col=1 word=NASTY
+  V row=0 col=1 word=LUMEN
+  V row=1 col=3 word=IBIS
+  V row=0 col=5 word=NOWAY
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=ORBITAL
+  H row=4 col=1 word=DUNES
+  V row=0 col=1 word=TRIAD
+  V row=1 col=3 word=IMAN
+  V row=0 col=5 word=YAWNS
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TRAILED
+  H row=4 col=1 word=OWNIT
+  V row=0 col=1 word=BRUNO
+  V row=1 col=3 word=IMAN
+  V row=0 col=5 word=YEAST
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=BAWLOUT
+  H row=4 col=1 word=ATEIN
+  V row=0 col=1 word=MANIA
+  V row=1 col=3 word=LYRE
+  V row=0 col=5 word=SUDAN
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TWINBED
+  H row=4 col=1 word=TRAYS
+  V row=0 col=1 word=AWAIT
+  V row=1 col=3 word=NOLA
+  V row=0 col=5 word=MENUS
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=MOURNED
+  H row=4 col=1 word=TWAIN
+  V row=0 col=1 word=BOAST
+  V row=1 col=3 word=RAYA
+  V row=0 col=5 word=LETIN
+
+SOLUTION #23:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=NITROUS
+  H row=4 col=1 word=TWAIN
+  V row=0 col=1 word=BIDET
+  V row=1 col=3 word=RAYA
+  V row=0 col=5 word=MULAN
+
+SOLUTION #24:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=MISREAD
+  H row=4 col=1 word=AWAIT
+  V row=0 col=1 word=LIBYA
+  V row=1 col=3 word=RONA
+  V row=0 col=5 word=TAUNT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-EBC7ED0E
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=2–5  LEN=4
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,0  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,4  @ (5,1)
+  H2,3 ↔ V4,3  @ (5,3)
+  H2,5 ↔ V5,4  @ (5,5)
+
+CELLS_TRUE (count=20):
+  (1,1) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#...#.
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AWAIT
+  H row=5 col=0 word=UNTAMED
+  V row=1 col=1 word=LAYIN
+  V row=2 col=3 word=ABRA
+  V row=1 col=5 word=STONE
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=TIARA
+  H row=5 col=0 word=UNTAMED
+  V row=1 col=1 word=ITSON
+  V row=2 col=3 word=ALBA
+  V row=1 col=5 word=WAYNE
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=LIBYA
+  H row=5 col=0 word=MADONNA
+  V row=1 col=1 word=ULTRA
+  V row=2 col=3 word=BETO
+  V row=1 col=5 word=WASIN
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ANITA
+  H row=5 col=0 word=DOUBLES
+  V row=1 col=1 word=RATIO
+  V row=2 col=3 word=IAMB
+  V row=1 col=5 word=WAYNE
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=TWINE
+  H row=5 col=0 word=RUNATAB
+  V row=1 col=1 word=ATYOU
+  V row=2 col=3 word=ISLA
+  V row=1 col=5 word=MEDIA
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=TRIBE
+  H row=5 col=0 word=YOUANDI
+  V row=1 col=1 word=ATTWO
+  V row=2 col=3 word=ISLA
+  V row=1 col=5 word=MEAND
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=LINDA
+  H row=5 col=0 word=WETSUIT
+  V row=1 col=1 word=BLARE
+  V row=2 col=3 word=NAYS
+  V row=1 col=5 word=NAOMI
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=RUSTY
+  H row=5 col=0 word=ONATEAM
+  V row=1 col=1 word=BRAWN
+  V row=2 col=3 word=SNIT
+  V row=1 col=5 word=LYDIA
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=RASTA
+  H row=5 col=0 word=ONEMIND
+  V row=1 col=1 word=BRYAN
+  V row=2 col=3 word=SWUM
+  V row=1 col=5 word=LATIN
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=IDSAY
+  H row=5 col=0 word=AILMENT
+  V row=1 col=1 word=AINTI
+  V row=2 col=3 word=SWUM
+  V row=1 col=5 word=BYRON
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=MATTY
+  H row=5 col=0 word=WEBINAR
+  V row=1 col=1 word=AMUSE
+  V row=2 col=3 word=TONI
+  V row=1 col=5 word=LYDIA
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=TWAIN
+  H row=5 col=0 word=BURSTED
+  V row=1 col=1 word=ATYOU
+  V row=2 col=3 word=ALMS
+  V row=1 col=5 word=INANE
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AWAIT
+  H row=5 col=0 word=INBOUND
+  V row=1 col=1 word=MAYAN
+  V row=2 col=3 word=ALTO
+  V row=1 col=5 word=STERN
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AWARE
+  H row=5 col=0 word=INBOUND
+  V row=1 col=1 word=MAYAN
+  V row=2 col=3 word=ALTO
+  V row=1 col=5 word=SETIN
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=OBAMA
+  H row=5 col=0 word=NASTIER
+  V row=1 col=1 word=DOULA
+  V row=2 col=3 word=ATIT
+  V row=1 col=5 word=WAYNE
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=INAWE
+  H row=5 col=0 word=ITSABOY
+  V row=1 col=1 word=LINDT
+  V row=2 col=3 word=AURA
+  V row=1 col=5 word=TEAMO
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=LABIA
+  H row=5 col=0 word=MONSTER
+  V row=1 col=1 word=ALITO
+  V row=2 col=3 word=BUDS
+  V row=1 col=5 word=WAYNE
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=RADII
+  H row=5 col=0 word=ANALYST
+  V row=1 col=1 word=BROWN
+  V row=2 col=3 word=DUEL
+  V row=1 col=5 word=MINTS
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AMINO
+  H row=5 col=0 word=STANLEY
+  V row=1 col=1 word=BADAT
+  V row=2 col=3 word=IWIN
+  V row=1 col=5 word=ROUTE
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=MALTA
+  H row=5 col=0 word=TENDONS
+  V row=1 col=1 word=IMBUE
+  V row=2 col=3 word=LARD
+  V row=1 col=5 word=WAYIN
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=MALTA
+  H row=5 col=0 word=DENSITY
+  V row=1 col=1 word=IMBUE
+  V row=2 col=3 word=LOWS
+  V row=1 col=5 word=RANAT
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AWMAN
+  H row=5 col=0 word=DESTINY
+  V row=1 col=1 word=TABLE
+  V row=2 col=3 word=MART
+  V row=1 col=5 word=UNION
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-2EC2F427
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–3  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+.#...#.
+.......
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DIANE
+  H row=3 col=0 word=NBASTAR
+  V row=0 col=1 word=DOUBT
+  V row=0 col=3 word=AIMS
+  V row=0 col=5 word=ELWAY
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BRAWL
+  H row=3 col=0 word=TOASTED
+  V row=0 col=1 word=BAYOU
+  V row=0 col=3 word=AIMS
+  V row=0 col=5 word=LINEN
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=ELBOW
+  H row=3 col=0 word=MAITAIS
+  V row=0 col=1 word=ENDAT
+  V row=0 col=3 word=BURT
+  V row=0 col=5 word=WAYIN
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=ABDUL
+  H row=3 col=0 word=MINARET
+  V row=0 col=1 word=AWAIT
+  V row=0 col=3 word=DOYA
+  V row=0 col=5 word=LINES
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=SWEAT
+  H row=3 col=0 word=MINIBAR
+  V row=0 col=1 word=SLAIN
+  V row=0 col=3 word=ETUI
+  V row=0 col=5 word=TODAY
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=SWEAT
+  H row=3 col=0 word=MINIBAR
+  V row=0 col=1 word=SNAIL
+  V row=0 col=3 word=ETUI
+  V row=0 col=5 word=TODAY
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=DAILY
+  H row=3 col=0 word=TURBINE
+  V row=0 col=1 word=DONUT
+  V row=0 col=3 word=IAMB
+  V row=0 col=5 word=YAWNS
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=ABIDE
+  H row=3 col=0 word=LAYSOUT
+  V row=0 col=1 word=ATWAR
+  V row=0 col=3 word=IAMS
+  V row=0 col=5 word=ENNUI
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=NAILS
+  H row=3 col=0 word=TAUNTER
+  V row=0 col=1 word=NOWAY
+  V row=0 col=3 word=IMAN
+  V row=0 col=5 word=SIDEB
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=ALIAS
+  H row=3 col=0 word=TAUNTER
+  V row=0 col=1 word=AMWAY
+  V row=0 col=3 word=INON
+  V row=0 col=5 word=SIDEB
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=MILAN
+  H row=3 col=0 word=TENDBAR
+  V row=0 col=1 word=MITES
+  V row=0 col=3 word=LAUD
+  V row=0 col=5 word=NOWAY
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BYLAW
+  H row=3 col=0 word=INMATES
+  V row=0 col=1 word=BUTNO
+  V row=0 col=3 word=LIRA
+  V row=0 col=5 word=WANED
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=RUNAT
+  H row=3 col=0 word=WINSLET
+  V row=0 col=1 word=RABID
+  V row=0 col=3 word=NAYS
+  V row=0 col=5 word=TOMEI
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=RANAT
+  H row=3 col=0 word=WINSLET
+  V row=0 col=1 word=RUBIO
+  V row=0 col=3 word=NAYS
+  V row=0 col=5 word=TIMED
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=MINER
+  H row=3 col=0 word=LAWSUIT
+  V row=0 col=1 word=MADAT
+  V row=0 col=3 word=NAYS
+  V row=0 col=5 word=ROBIN
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=INNER
+  H row=3 col=0 word=LAWSUIT
+  V row=0 col=1 word=IMBAD
+  V row=0 col=3 word=NAYS
+  V row=0 col=5 word=RATIO
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BURNT
+  H row=3 col=0 word=DOMAINS
+  V row=0 col=1 word=BELOW
+  V row=0 col=3 word=RAYA
+  V row=0 col=5 word=TAINT
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=STRUT
+  H row=3 col=0 word=MELANIN
+  V row=0 col=1 word=SOWED
+  V row=0 col=3 word=RAYA
+  V row=0 col=5 word=TIBIA
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=INSUM
+  H row=3 col=0 word=ONTRIAL
+  V row=0 col=1 word=IWANT
+  V row=0 col=3 word=SEAR
+  V row=0 col=5 word=MYBAD
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=INSUM
+  H row=3 col=0 word=RANAWAY
+  V row=0 col=1 word=ILIAD
+  V row=0 col=3 word=SOBA
+  V row=0 col=5 word=METAT
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BOWLS
+  H row=3 col=0 word=AIMEDAT
+  V row=0 col=1 word=BUYIN
+  V row=0 col=3 word=WANE
+  V row=0 col=5 word=SITAR
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=AMWAY
+  H row=3 col=0 word=TUNEDIN
+  V row=0 col=1 word=ABOUT
+  V row=0 col=3 word=WILE
+  V row=0 col=5 word=YARIS
+
+SOLUTION #23:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=SAYIT
+  H row=3 col=0 word=TALIBAN
+  V row=0 col=1 word=SEDAN
+  V row=0 col=3 word=YURI
+  V row=0 col=5 word=TWOAM
+
+SOLUTION #24:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=IWANT
+  H row=3 col=0 word=NOTABLY
+  V row=0 col=1 word=IDIOM
+  V row=0 col=3 word=AURA
+  V row=0 col=5 word=TESLA
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-7BA94DF8
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,2  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=UNNAMED
+  H row=3 col=1 word=ORBIT
+  V row=0 col=1 word=INTOW
+  V row=1 col=3 word=ALBA
+  V row=0 col=5 word=YEATS
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=STUDENT
+  H row=3 col=1 word=AROMA
+  V row=0 col=1 word=ATBAY
+  V row=1 col=3 word=DION
+  V row=0 col=5 word=INLAW
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AIMEDAT
+  H row=3 col=1 word=RUNIN
+  V row=0 col=1 word=LIBRA
+  V row=1 col=3 word=EONS
+  V row=0 col=5 word=TAWNY
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=BAILEYS
+  H row=3 col=1 word=IMOUT
+  V row=0 col=1 word=NADIA
+  V row=1 col=3 word=LRON
+  V row=0 col=5 word=WYATT
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TABLEAU
+  H row=3 col=1 word=NORMS
+  V row=0 col=1 word=DANNY
+  V row=1 col=3 word=LIRA
+  V row=0 col=5 word=WAIST
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=BAWLOUT
+  H row=3 col=1 word=ATRIA
+  V row=0 col=1 word=MAYAN
+  V row=1 col=3 word=LIRE
+  V row=0 col=5 word=SUDAN
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=SAUNTER
+  H row=3 col=1 word=AWAIT
+  V row=0 col=1 word=BANAL
+  V row=1 col=3 word=NOAM
+  V row=0 col=5 word=DEITY
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TAUNTER
+  H row=3 col=1 word=ISAID
+  V row=0 col=1 word=LABIA
+  V row=1 col=3 word=NOAM
+  V row=0 col=5 word=WENDY
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=LAUNDRY
+  H row=3 col=1 word=AWAIT
+  V row=0 col=1 word=SABAN
+  V row=1 col=3 word=NOAM
+  V row=0 col=5 word=TRITE
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TENSION
+  H row=3 col=1 word=TRAIL
+  V row=0 col=1 word=MEATY
+  V row=1 col=3 word=SAAB
+  V row=0 col=5 word=WOULD
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=LAYSOUT
+  H row=3 col=1 word=INAWE
+  V row=0 col=1 word=NADIA
+  V row=1 col=3 word=SIAM
+  V row=0 col=5 word=TUBER
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=EATSOUT
+  H row=3 col=1 word=DIANA
+  V row=0 col=1 word=BAWDY
+  V row=1 col=3 word=SIAM
+  V row=0 col=5 word=LUNAR
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=MARTINI
+  H row=3 col=1 word=TABLE
+  V row=0 col=1 word=SANTA
+  V row=1 col=3 word=TOBY
+  V row=0 col=5 word=UNWED
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=EASYWIN
+  H row=3 col=1 word=AORTA
+  V row=0 col=1 word=BADAT
+  V row=1 col=3 word=YURI
+  V row=0 col=5 word=MILAN
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=WOMANLY
+  H row=3 col=1 word=SUTRA
+  V row=0 col=1 word=BOAST
+  V row=1 col=3 word=ANTE
+  V row=0 col=5 word=ILIAD
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TITANIA
+  H row=3 col=1 word=BORED
+  V row=0 col=1 word=NIMBY
+  V row=1 col=3 word=AURA
+  V row=0 col=5 word=WILDS
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TITANIA
+  H row=3 col=1 word=BORED
+  V row=0 col=1 word=LIMBS
+  V row=1 col=3 word=AURA
+  V row=0 col=5 word=WINDY
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TURBINE
+  H row=3 col=1 word=INLAW
+  V row=0 col=1 word=AUDIT
+  V row=1 col=3 word=BALM
+  V row=0 col=5 word=SNOWY
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=RAYBANS
+  H row=3 col=1 word=NOLIE
+  V row=0 col=1 word=TAINT
+  V row=1 col=3 word=BALM
+  V row=0 col=5 word=UNWED
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=LAYITON
+  H row=3 col=1 word=ARIAS
+  V row=0 col=1 word=BADAT
+  V row=1 col=3 word=IWIN
+  V row=0 col=5 word=MOUSE
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=LIMITER
+  H row=3 col=1 word=ABOUT
+  V row=0 col=1 word=AIDAN
+  V row=1 col=3 word=IWON
+  V row=0 col=5 word=YEATS
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TRAILED
+  H row=3 col=1 word=ISOUT
+  V row=0 col=1 word=BRAIN
+  V row=1 col=3 word=IWON
+  V row=0 col=5 word=MEATY
+
+SOLUTION #23:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=TRAILED
+  H row=3 col=1 word=IMOUT
+  V row=0 col=1 word=BRAIN
+  V row=1 col=3 word=IWON
+  V row=0 col=5 word=YEATS
+
+SOLUTION #24:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=NOBLEST
+  H row=3 col=1 word=ATARI
+  V row=0 col=1 word=NOWAY
+  V row=1 col=3 word=LIAM
+  V row=0 col=5 word=USAID
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-1B90F381
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–5  LEN=6
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (2,1)
+  H1,3 ↔ V4,2  @ (2,3)
+  H1,5 ↔ V5,1  @ (2,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (0,3) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+...#...
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=INBOUND
+  H row=4 col=1 word=WYATT
+  V row=1 col=1 word=ANEW
+  V row=0 col=3 word=AMORAL
+  V row=1 col=5 word=SNIT
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=SAUNTER
+  H row=4 col=1 word=LIMIT
+  V row=1 col=1 word=BAAL
+  V row=0 col=3 word=DYNAMO
+  V row=1 col=5 word=NEWT
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=WARTIME
+  H row=4 col=1 word=LINDT
+  V row=1 col=1 word=BAAL
+  V row=0 col=3 word=NOTANY
+  V row=1 col=5 word=SMUT
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=SAUNTER
+  H row=4 col=1 word=LIMIT
+  V row=1 col=1 word=BAAL
+  V row=0 col=3 word=DYNAMO
+  V row=1 col=5 word=WENT
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=OATMEAL
+  H row=4 col=1 word=TUNAS
+  V row=1 col=1 word=BART
+  V row=0 col=3 word=INMIND
+  V row=1 col=5 word=WAYS
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=MAITAIS
+  H row=4 col=1 word=TUNED
+  V row=1 col=1 word=BART
+  V row=0 col=3 word=NOTANY
+  V row=1 col=5 word=WILD
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=LETDOWN
+  H row=4 col=1 word=UNITY
+  V row=1 col=1 word=BEAU
+  V row=0 col=3 word=MIDAIR
+  V row=1 col=5 word=SWAY
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=IRANIAN
+  H row=4 col=1 word=WYATT
+  V row=1 col=1 word=BROW
+  V row=0 col=3 word=SUNDAE
+  V row=1 col=5 word=MALT
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=IRELAND
+  H row=4 col=1 word=WYATT
+  V row=1 col=1 word=BROW
+  V row=0 col=3 word=SALMAN
+  V row=1 col=5 word=UNIT
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=TEARSAT
+  H row=4 col=1 word=YOUIN
+  V row=1 col=1 word=DEWY
+  V row=0 col=3 word=BARNUM
+  V row=1 col=5 word=LAIN
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=NOTABIT
+  H row=4 col=1 word=REALM
+  V row=1 col=1 word=DOUR
+  V row=0 col=3 word=INAWAY
+  V row=1 col=5 word=SIAM
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BRITNEY
+  H row=4 col=1 word=TIANA
+  V row=1 col=1 word=DRAT
+  V row=0 col=3 word=OUTLAW
+  V row=1 col=5 word=MESA
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BRITAIN
+  H row=4 col=1 word=TEAMS
+  V row=1 col=1 word=DRAT
+  V row=0 col=3 word=OUTLAY
+  V row=1 col=5 word=WINS
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=SNORTAT
+  H row=4 col=1 word=ALIBI
+  V row=1 col=1 word=ENYA
+  V row=0 col=3 word=DARWIN
+  V row=1 col=5 word=MAUI
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BRITAIN
+  H row=4 col=1 word=SANDY
+  V row=1 col=1 word=EROS
+  V row=0 col=3 word=MUTANT
+  V row=1 col=5 word=WILY
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=RAILWAY
+  H row=4 col=1 word=BEATS
+  V row=1 col=1 word=IAMB
+  V row=0 col=3 word=UNLOAD
+  V row=1 col=5 word=NATS
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=RAILWAY
+  H row=4 col=1 word=BEANS
+  V row=1 col=1 word=IAMB
+  V row=0 col=3 word=UNLOAD
+  V row=1 col=5 word=TATS
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=LAYINTO
+  H row=4 col=1 word=BEARD
+  V row=1 col=1 word=IAMB
+  V row=0 col=3 word=TAIWAN
+  V row=1 col=5 word=STUD
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=RAILWAY
+  H row=4 col=1 word=BEATS
+  V row=1 col=1 word=IAMB
+  V row=0 col=3 word=UNLOAD
+  V row=1 col=5 word=TANS
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=LATINOS
+  H row=4 col=1 word=BEARD
+  V row=1 col=1 word=IAMB
+  V row=0 col=3 word=TAIWAN
+  V row=1 col=5 word=YOUD
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=RANAWAY
+  H row=4 col=1 word=BOUND
+  V row=1 col=1 word=IAMB
+  V row=0 col=3 word=STATUE
+  V row=1 col=5 word=LAID
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=RAILWAY
+  H row=4 col=1 word=BUENO
+  V row=1 col=1 word=IAMB
+  V row=0 col=3 word=SALTED
+  V row=1 col=5 word=NATO
+
+SOLUTION #23:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BAILOUT
+  H row=4 col=1 word=STERN
+  V row=1 col=1 word=IAMS
+  V row=0 col=3 word=WALDEN
+  V row=1 col=5 word=YUAN
+
+SOLUTION #24:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DAYTONA
+  H row=4 col=1 word=SLANT
+  V row=1 col=1 word=IAMS
+  V row=0 col=3 word=WETBAR
+  V row=1 col=5 word=UNIT
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-491B9647
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–3  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,2  @ (2,1)
+  H2,3 ↔ V4,2  @ (2,3)
+  H2,5 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=AWAIT
+  H row=2 col=0 word=SEALION
+  V row=0 col=1 word=AMEND
+  V row=0 col=3 word=ABLY
+  V row=0 col=5 word=TROUT
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BRAYS
+  H row=2 col=0 word=TIMEOUT
+  V row=0 col=1 word=BLINI
+  V row=0 col=3 word=AWED
+  V row=0 col=5 word=SAUNA
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BUILD
+  H row=2 col=0 word=EATAWAY
+  V row=0 col=1 word=BOAST
+  V row=0 col=3 word=IMAN
+  V row=0 col=5 word=DRAIN
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BUILD
+  H row=2 col=0 word=EATAWAY
+  V row=0 col=1 word=BOATS
+  V row=0 col=3 word=IMAN
+  V row=0 col=5 word=DRAIN
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BONUS
+  H row=2 col=0 word=ADMITIT
+  V row=0 col=1 word=BADLY
+  V row=0 col=3 word=NAIR
+  V row=0 col=5 word=SWINE
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BLOWS
+  H row=2 col=0 word=ANIMATE
+  V row=0 col=1 word=BUNDT
+  V row=0 col=3 word=ONMY
+  V row=0 col=5 word=SITAR
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ABOUT
+  H row=2 col=0 word=AAMILNE
+  V row=0 col=1 word=AWARD
+  V row=0 col=3 word=OTIS
+  V row=0 col=5 word=TINNY
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=WORMY
+  H row=2 col=0 word=BLATANT
+  V row=0 col=1 word=WILDE
+  V row=0 col=3 word=RUTS
+  V row=0 col=5 word=YANNI
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=MITER
+  H row=2 col=0 word=INBOUND
+  V row=0 col=1 word=MANLY
+  V row=0 col=3 word=TWOS
+  V row=0 col=5 word=RANAT
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ATWAR
+  H row=2 col=0 word=NOMINAL
+  V row=0 col=1 word=ABOUT
+  V row=0 col=3 word=WIIS
+  V row=0 col=5 word=READY
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DOWNS
+  H row=2 col=0 word=TABLEAU
+  V row=0 col=1 word=DRAMA
+  V row=0 col=3 word=WILY
+  V row=0 col=5 word=STAIN
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DOWNS
+  H row=2 col=0 word=TABLEAU
+  V row=0 col=1 word=DIANA
+  V row=0 col=3 word=WILY
+  V row=0 col=5 word=SMART
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=AWAIT
+  H row=2 col=0 word=AMNESTY
+  V row=0 col=1 word=ADMIN
+  V row=0 col=3 word=ABEL
+  V row=0 col=5 word=TUTOR
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ARBYS
+  H row=2 col=0 word=WOULDNT
+  V row=0 col=1 word=ATONE
+  V row=0 col=3 word=BALM
+  V row=0 col=5 word=SINAI
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=DEBIT
+  H row=2 col=0 word=WALNUTS
+  V row=0 col=1 word=DRAMA
+  V row=0 col=3 word=BONY
+  V row=0 col=5 word=TITAN
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=TODAY
+  H row=2 col=0 word=WINEBAR
+  V row=0 col=1 word=TAINT
+  V row=0 col=3 word=DUES
+  V row=0 col=5 word=YMAIL
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=ADIEU
+  H row=2 col=0 word=NOTABLY
+  V row=0 col=1 word=AROMA
+  V row=0 col=3 word=ISAW
+  V row=0 col=5 word=UNLIT
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-0FC88550
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=20):
+  (0,0) (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#
+#####
+#.#.#
+#.#.#
+#####
+..#..
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABODE
+  H row=4 col=0 word=ARIAS
+  V row=0 col=0 word=MALIA
+  V row=0 col=2 word=YOUWIN
+  V row=0 col=4 word=TENTS
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABODE
+  H row=4 col=0 word=RUINS
+  V row=0 col=0 word=LAMAR
+  V row=0 col=2 word=NOWAIT
+  V row=0 col=4 word=YETIS
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABODE
+  H row=4 col=0 word=ALIAS
+  V row=0 col=0 word=MARIA
+  V row=0 col=2 word=YOUWIN
+  V row=0 col=4 word=TENTS
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABODE
+  H row=4 col=0 word=ANITA
+  V row=0 col=0 word=MARIA
+  V row=0 col=2 word=YOUWIN
+  V row=0 col=4 word=TESLA
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADMAN
+  H row=4 col=0 word=SITBY
+  V row=0 col=0 word=LAWNS
+  V row=0 col=2 word=OMERTA
+  V row=0 col=4 word=UNITY
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADORN
+  H row=4 col=0 word=NAILS
+  V row=0 col=0 word=MAYAN
+  V row=0 col=2 word=BOWTIE
+  V row=0 col=4 word=UNITS
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AEIOU
+  H row=4 col=0 word=SLANT
+  V row=0 col=0 word=BAITS
+  V row=0 col=2 word=MIDWAY
+  V row=0 col=4 word=RUNAT
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AINTI
+  H row=4 col=0 word=RUSTY
+  V row=0 col=0 word=LAMAR
+  V row=0 col=2 word=ONBASE
+  V row=0 col=4 word=WINDY
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMNOT
+  H row=4 col=0 word=DEALT
+  V row=0 col=0 word=RABID
+  V row=0 col=2 word=INAWAY
+  V row=0 col=4 word=STUNT
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMINO
+  H row=4 col=0 word=ATRIA
+  V row=0 col=0 word=BASTA
+  V row=0 col=2 word=WINERY
+  V row=0 col=4 word=DOULA
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMINO
+  H row=4 col=0 word=DRAWN
+  V row=0 col=0 word=SALAD
+  V row=0 col=2 word=BITEAT
+  V row=0 col=4 word=YOUIN
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMINO
+  H row=4 col=0 word=TARTS
+  V row=0 col=0 word=BADAT
+  V row=0 col=2 word=WINERY
+  V row=0 col=4 word=LOUIS
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMORE
+  H row=4 col=0 word=SAINT
+  V row=0 col=0 word=BAITS
+  V row=0 col=2 word=YOUWIN
+  V row=0 col=4 word=DEALT
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ANERA
+  H row=4 col=0 word=AUNTS
+  V row=0 col=0 word=MALIA
+  V row=0 col=2 word=BEYOND
+  V row=0 col=4 word=WAITS
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ARUBA
+  H row=4 col=0 word=SITON
+  V row=0 col=0 word=LANDS
+  V row=0 col=2 word=MUTATE
+  V row=0 col=4 word=WAYIN
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ARUBA
+  H row=4 col=0 word=NOTME
+  V row=0 col=0 word=LATIN
+  V row=0 col=2 word=AUDITS
+  V row=0 col=4 word=WAYNE
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATYOU
+  H row=4 col=0 word=TWAIN
+  V row=0 col=0 word=BADAT
+  V row=0 col=2 word=SYRIAN
+  V row=0 col=4 word=LUMEN
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATYOU
+  H row=4 col=0 word=LIMIT
+  V row=0 col=0 word=NADAL
+  V row=0 col=2 word=BYNAME
+  V row=0 col=4 word=WURST
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATEIN
+  H row=4 col=0 word=TWOAM
+  V row=0 col=0 word=BADAT
+  V row=0 col=2 word=RELYON
+  V row=0 col=4 word=INSUM
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATRIA
+  H row=4 col=0 word=SUITE
+  V row=0 col=0 word=BALMS
+  V row=0 col=2 word=ORDAIN
+  V row=0 col=4 word=WAYNE
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATRIA
+  H row=4 col=0 word=SUITE
+  V row=0 col=0 word=LAWNS
+  V row=0 col=2 word=ORDAIN
+  V row=0 col=4 word=MAYBE
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATRIA
+  H row=4 col=0 word=SUITE
+  V row=0 col=0 word=LAMBS
+  V row=0 col=2 word=ORDAIN
+  V row=0 col=4 word=WAYNE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-82D2A085
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–5  LEN=6
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (0,3) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+...#...
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=LEDTO
+  H row=4 col=0 word=MANTRAS
+  V row=1 col=1 word=ALBA
+  V row=0 col=3 word=NUDITY
+  V row=1 col=5 word=IOWA
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=SORTA
+  H row=4 col=0 word=UNLADEN
+  V row=1 col=1 word=ISBN
+  V row=0 col=3 word=AIRWAY
+  V row=1 col=5 word=MATE
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=SORTA
+  H row=4 col=0 word=UNLADEN
+  V row=1 col=1 word=ISBN
+  V row=0 col=3 word=AIRWAY
+  V row=1 col=5 word=TAME
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=SORTA
+  H row=4 col=0 word=UNTAMED
+  V row=1 col=1 word=ISBN
+  V row=0 col=3 word=AIRWAY
+  V row=1 col=5 word=LANE
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=SORTA
+  H row=4 col=0 word=UNNAMED
+  V row=1 col=1 word=ISBN
+  V row=0 col=3 word=AIRWAY
+  V row=1 col=5 word=LATE
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=SORTA
+  H row=4 col=0 word=UNNAMED
+  V row=1 col=1 word=ISBN
+  V row=0 col=3 word=AIRWAY
+  V row=1 col=5 word=TALE
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=OBAMA
+  H row=4 col=0 word=STINTED
+  V row=1 col=1 word=ROUT
+  V row=0 col=3 word=IWANNA
+  V row=1 col=5 word=YALE
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-6A10341B
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,1)
+  H1,2 ↔ V4,1  @ (2,3)
+  H1,4 ↔ V5,2  @ (2,5)
+  H2,1 ↔ V3,4  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=20):
+  (0,1) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=DEBIT
+  H row=4 col=0 word=WOMANLY
+  V row=0 col=1 word=SADTO
+  V row=1 col=3 word=ABRA
+  V row=0 col=5 word=UNTIL
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=EARLS
+  H row=4 col=0 word=NOTMANY
+  V row=0 col=1 word=DUETO
+  V row=1 col=3 word=BRIM
+  V row=0 col=5 word=WASIN
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=MOUND
+  H row=4 col=0 word=INSTYLE
+  V row=0 col=1 word=AWMAN
+  V row=1 col=3 word=BURT
+  V row=0 col=5 word=TIDAL
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=RAILS
+  H row=4 col=0 word=NOTMANY
+  V row=0 col=1 word=TURBO
+  V row=1 col=3 word=DIEM
+  V row=0 col=5 word=WASIN
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=SEOUL
+  H row=4 col=0 word=RANATAB
+  V row=0 col=1 word=INSTA
+  V row=1 col=3 word=DOYA
+  V row=0 col=5 word=WILMA
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=IMOUT
+  H row=4 col=0 word=SINATRA
+  V row=0 col=1 word=BLINI
+  V row=1 col=3 word=DOYA
+  V row=0 col=5 word=WATER
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=BUOYS
+  H row=4 col=0 word=REMNANT
+  V row=0 col=1 word=TABLE
+  V row=1 col=3 word=DOIN
+  V row=0 col=5 word=WASIN
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=BLOWN
+  H row=4 col=0 word=TSUNAMI
+  V row=0 col=1 word=ARBYS
+  V row=1 col=3 word=DOIN
+  V row=0 col=5 word=TENAM
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=BURMA
+  H row=4 col=0 word=WAITSON
+  V row=0 col=1 word=LIBYA
+  V row=1 col=3 word=DRAT
+  V row=0 col=5 word=NEATO
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=TOADY
+  H row=4 col=0 word=BLASTER
+  V row=0 col=1 word=UNTIL
+  V row=1 col=3 word=IAMS
+  V row=0 col=5 word=WAYNE
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=RASTA
+  H row=4 col=0 word=UNTAMED
+  V row=0 col=1 word=BYRON
+  V row=1 col=3 word=ISLA
+  V row=0 col=5 word=INAWE
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=AARON
+  H row=4 col=0 word=WETSUIT
+  V row=0 col=1 word=BLADE
+  V row=1 col=3 word=MRIS
+  V row=0 col=5 word=YANNI
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=WAYIN
+  H row=4 col=0 word=BLATANT
+  V row=0 col=1 word=DOWEL
+  V row=1 col=3 word=MYST
+  V row=0 col=5 word=RUNIN
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=DROWN
+  H row=4 col=0 word=STIMULI
+  V row=0 col=1 word=BADAT
+  V row=1 col=3 word=NOAM
+  V row=0 col=5 word=YENTL
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=MEANT
+  H row=4 col=0 word=DAYTONA
+  V row=0 col=1 word=RUMBA
+  V row=1 col=3 word=WALT
+  V row=0 col=5 word=SITIN
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=MOANS
+  H row=4 col=0 word=UTTERLY
+  V row=0 col=1 word=ADMIT
+  V row=1 col=3 word=WANE
+  V row=0 col=5 word=BASIL
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=TRIAD
+  H row=4 col=0 word=NOTEASY
+  V row=0 col=1 word=BUTNO
+  V row=1 col=3 word=WILE
+  V row=0 col=5 word=MIDAS
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=INLAY
+  H row=4 col=0 word=REBOUND
+  V row=0 col=1 word=SMITE
+  V row=1 col=3 word=ALTO
+  V row=0 col=5 word=WAYIN
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=DRAWN
+  H row=4 col=0 word=NOTEASY
+  V row=0 col=1 word=AUDIO
+  V row=1 col=3 word=BALE
+  V row=0 col=5 word=MINTS
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=DRAWN
+  H row=4 col=0 word=TEAMUSA
+  V row=0 col=1 word=INDIE
+  V row=1 col=3 word=BALM
+  V row=0 col=5 word=TONYS
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=ALOUD
+  H row=4 col=0 word=ARMYANT
+  V row=0 col=1 word=STAIR
+  V row=1 col=3 word=BONY
+  V row=0 col=5 word=WIDEN
+
+SOLUTION #22:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=IMOUT
+  H row=4 col=0 word=LANYARD
+  V row=0 col=1 word=ISITA
+  V row=1 col=3 word=BONY
+  V row=0 col=5 word=WATER
+
+SOLUTION #23:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=MORAY
+  H row=4 col=0 word=STUNTED
+  V row=0 col=1 word=LIMIT
+  V row=1 col=3 word=BRAN
+  V row=0 col=5 word=WAYNE
+
+SOLUTION #24:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=USAID
+  H row=4 col=0 word=WOMANLY
+  V row=0 col=1 word=BRUNO
+  V row=1 col=3 word=EATA
+  V row=0 col=5 word=TIDAL
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-2EFA45D6
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,2  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=20):
+  (0,2) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,0) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#.#.#
+#####
+#.#.#
+#####
+#.#.#
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ADMAN
+  H row=4 col=0 word=SLANT
+  V row=1 col=0 word=RAISE
+  V row=0 col=2 word=WOMBAT
+  V row=1 col=4 word=UNITY
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AIOLI
+  H row=4 col=0 word=DANTE
+  V row=1 col=0 word=BAWDY
+  V row=0 col=2 word=AMOUNT
+  V row=1 col=4 word=RISEN
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AIOLI
+  H row=4 col=0 word=DANTE
+  V row=1 col=0 word=BAWDY
+  V row=0 col=2 word=AMOUNT
+  V row=1 col=4 word=SIREN
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ANERA
+  H row=4 col=0 word=DONUT
+  V row=1 col=0 word=BAWDY
+  V row=0 col=2 word=TIEINS
+  V row=1 col=4 word=MALTA
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ANION
+  H row=4 col=0 word=BRETT
+  V row=1 col=0 word=SAMBA
+  V row=0 col=2 word=WAILED
+  V row=1 col=4 word=UNITY
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ARUBA
+  H row=4 col=0 word=TONYS
+  V row=1 col=0 word=DANTE
+  V row=0 col=2 word=ALUMNI
+  V row=1 col=4 word=WAIST
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ATTWO
+  H row=4 col=0 word=ENNUI
+  V row=1 col=0 word=BASED
+  V row=0 col=2 word=LITANY
+  V row=1 col=4 word=MORIA
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ATTWO
+  H row=4 col=0 word=LIARS
+  V row=1 col=0 word=DAILY
+  V row=0 col=2 word=BATMAN
+  V row=1 col=4 word=NOUSE
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ATTWO
+  H row=4 col=0 word=SIDEA
+  V row=1 col=0 word=BALSA
+  V row=0 col=2 word=UNTIDY
+  V row=1 col=4 word=ROMAN
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ATTWO
+  H row=4 col=0 word=IDEAS
+  V row=1 col=0 word=MANIA
+  V row=0 col=2 word=BUTLER
+  V row=1 col=4 word=NOISY
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ATYOU
+  H row=4 col=0 word=IWANT
+  V row=1 col=0 word=RABID
+  V row=0 col=2 word=LAYMAN
+  V row=1 col=4 word=SUITE
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ATYOU
+  H row=4 col=0 word=INAWE
+  V row=1 col=0 word=RADII
+  V row=0 col=2 word=LAYMAN
+  V row=1 col=4 word=TUBES
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ATRIA
+  H row=4 col=0 word=MOANS
+  V row=1 col=0 word=BALMY
+  V row=0 col=2 word=UNREAD
+  V row=1 col=4 word=WAIST
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AWMAN
+  H row=4 col=0 word=ISNOT
+  V row=1 col=0 word=RABID
+  V row=0 col=2 word=LAMENT
+  V row=1 col=4 word=UNITY
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AWMAN
+  H row=4 col=0 word=LINDT
+  V row=1 col=0 word=TABLE
+  V row=0 col=2 word=ROMANS
+  V row=1 col=4 word=UNITY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-BFB50AA7
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=0–5  LEN=6
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (2,1)
+  H1,3 ↔ V4,2  @ (2,3)
+  H1,5 ↔ V5,0  @ (2,5)
+  H2,0 ↔ V3,3  @ (5,1)
+  H2,2 ↔ V4,5  @ (5,3)
+  H2,4 ↔ V5,3  @ (5,5)
+
+CELLS_TRUE (count=20):
+  (0,3) (1,3) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+...#...
+#######
+.#.#.#.
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=MAITRED
+  H row=5 col=1 word=YANNI
+  V row=2 col=1 word=ABLY
+  V row=0 col=3 word=WATSON
+  V row=2 col=5 word=ETUI
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=LAYDOWN
+  H row=5 col=1 word=AUNTS
+  V row=2 col=1 word=ABRA
+  V row=0 col=3 word=MEDIAN
+  V row=2 col=5 word=WITS
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=EATAWAY
+  H row=5 col=1 word=SNORT
+  V row=2 col=1 word=AIMS
+  V row=0 col=3 word=DIABLO
+  V row=2 col=5 word=AUNT
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=MARTIAN
+  H row=5 col=1 word=SETBY
+  V row=2 col=1 word=ALAS
+  V row=0 col=3 word=OUTWIT
+  V row=2 col=5 word=ANDY
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=DAYTIME
+  H row=5 col=1 word=AUNTS
+  V row=2 col=1 word=ALBA
+  V row=0 col=3 word=INTOWN
+  V row=2 col=5 word=MARS
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=TABLOID
+  H row=5 col=1 word=WAYIN
+  V row=2 col=1 word=ANEW
+  V row=0 col=3 word=SULTRY
+  V row=2 col=5 word=IMAN
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=MAYORAL
+  H row=5 col=1 word=ENDIT
+  V row=2 col=1 word=ASWE
+  V row=0 col=3 word=ABOUND
+  V row=2 col=5 word=ATIT
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BEASTLY
+  H row=5 col=1 word=MOURN
+  V row=2 col=1 word=EDAM
+  V row=0 col=3 word=INSITU
+  V row=2 col=5 word=LAWN
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=WETBARS
+  H row=5 col=1 word=TANYA
+  V row=2 col=1 word=EMIT
+  V row=0 col=3 word=DUBLIN
+  V row=2 col=5 word=RONA
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=WEIRDLY
+  H row=5 col=1 word=SANTA
+  V row=2 col=1 word=EONS
+  V row=0 col=3 word=TURBAN
+  V row=2 col=5 word=LIMA
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=LIEDOWN
+  H row=5 col=1 word=BATTY
+  V row=2 col=1 word=IAMB
+  V row=0 col=3 word=NUDIST
+  V row=2 col=5 word=WARY
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=WILDEST
+  H row=5 col=1 word=BUNNY
+  V row=2 col=1 word=IAMB
+  V row=0 col=3 word=ORDAIN
+  V row=2 col=5 word=STAY
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ALBINOS
+  H row=5 col=1 word=DIRTY
+  V row=2 col=1 word=LAUD
+  V row=0 col=3 word=WAITER
+  V row=2 col=5 word=ONMY
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=WALMART
+  H row=5 col=1 word=TYSON
+  V row=2 col=1 word=ABET
+  V row=0 col=3 word=ADMINS
+  V row=2 col=5 word=RUIN
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-C7F97D01
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=2  C=0–4  LEN=5
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–3  LEN=4
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,2  @ (2,0)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+
+CELLS_TRUE (count=20):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,4) (5,0) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#####
+#.#.#
+#...#
+#...#
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AWAIT
+  H row=2 col=0 word=TILED
+  V row=0 col=0 word=ANTMAN
+  V row=0 col=2 word=ABLY
+  V row=0 col=4 word=TUDORS
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AWARD
+  H row=2 col=0 word=MULAN
+  V row=0 col=0 word=ATMOST
+  V row=0 col=2 word=ABLY
+  V row=0 col=4 word=DINEIN
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BEARD
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=BUTTIN
+  V row=0 col=2 word=ALAS
+  V row=0 col=4 word=DYNAMO
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BOARD
+  H row=2 col=0 word=STEAM
+  V row=0 col=0 word=BUSILY
+  V row=0 col=2 word=ANEW
+  V row=0 col=4 word=DAMNIT
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ALBUM
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=ATTIRE
+  V row=0 col=2 word=BDAY
+  V row=0 col=4 word=MANSON
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AMBER
+  H row=2 col=0 word=STAIN
+  V row=0 col=0 word=AUSTIN
+  V row=0 col=2 word=BDAY
+  V row=0 col=4 word=RANLOW
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ARBYS
+  H row=2 col=0 word=DENIM
+  V row=0 col=0 word=ATDAWN
+  V row=0 col=2 word=BUNT
+  V row=0 col=4 word=SOMALI
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ATEIN
+  H row=2 col=0 word=ROALD
+  V row=0 col=0 word=ABRAMS
+  V row=0 col=2 word=EWAN
+  V row=0 col=4 word=NUDITY
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=IDIOT
+  H row=2 col=0 word=LEMUR
+  V row=0 col=0 word=INLAWS
+  V row=0 col=2 word=IAMB
+  V row=0 col=4 word=TYRANT
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AMINO
+  H row=2 col=0 word=UNLIT
+  V row=0 col=0 word=ABUSER
+  V row=0 col=2 word=IDLY
+  V row=0 col=4 word=OTTAWA
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BAILS
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=BETTOR
+  V row=0 col=2 word=IMAN
+  V row=0 col=4 word=SUNDAY
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BAILS
+  H row=2 col=0 word=TIARA
+  V row=0 col=0 word=BUTTON
+  V row=0 col=2 word=IMAN
+  V row=0 col=4 word=SWAYED
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BOILS
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=BATTER
+  V row=0 col=2 word=IMAN
+  V row=0 col=4 word=SUNDAY
+
+SOLUTION #14:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=OBITS
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=OUTLAY
+  V row=0 col=2 word=IMAN
+  V row=0 col=4 word=SANDER
+
+SOLUTION #15:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DIMLY
+  H row=2 col=0 word=RANTS
+  V row=0 col=0 word=DARWIN
+  V row=0 col=2 word=MONA
+  V row=0 col=4 word=YESBUT
+
+SOLUTION #16:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BANDS
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=BUTLER
+  V row=0 col=2 word=NOAM
+  V row=0 col=4 word=SANITY
+
+SOLUTION #17:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BANDS
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=BETRAY
+  V row=0 col=2 word=NOAM
+  V row=0 col=4 word=SUNLIT
+
+SOLUTION #18:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BLOWN
+  H row=2 col=0 word=TIRED
+  V row=0 col=0 word=BATMAN
+  V row=0 col=2 word=OARS
+  V row=0 col=4 word=NUDITY
+
+SOLUTION #19:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ABOUT
+  H row=2 col=0 word=MILNE
+  V row=0 col=0 word=ARMADA
+  V row=0 col=2 word=OILS
+  V row=0 col=4 word=TWENTY
+
+SOLUTION #20:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BUOYS
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=BITTEN
+  V row=0 col=2 word=OMAR
+  V row=0 col=4 word=SANDAL
+
+SOLUTION #21:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BARDS
+  H row=2 col=0 word=TWAIN
+  V row=0 col=0 word=BOTANY
+  V row=0 col=2 word=REAM
+  V row=0 col=4 word=SUNLIT
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-A505415B
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=5  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,4  @ (5,0)
+  H2,2 ↔ V4,5  @ (5,2)
+  H2,4 ↔ V5,4  @ (5,4)
+
+CELLS_TRUE (count=20):
+  (0,2) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#####
+#.#.#
+#.#.#
+#.#.#
+#####
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAMS
+  H row=5 col=0 word=TORII
+  V row=1 col=0 word=ATBAT
+  V row=0 col=2 word=LAWYER
+  V row=1 col=4 word=SUNNI
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAMS
+  H row=5 col=0 word=UNTIE
+  V row=1 col=0 word=ATYOU
+  V row=0 col=2 word=LABRAT
+  V row=1 col=4 word=SWINE
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ADAMS
+  H row=5 col=0 word=ANNIE
+  V row=1 col=0 word=ARUBA
+  V row=0 col=2 word=WAITON
+  V row=1 col=4 word=STYLE
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMNOT
+  H row=5 col=0 word=BETSY
+  V row=1 col=0 word=ADLIB
+  V row=0 col=2 word=INARUT
+  V row=1 col=4 word=TAWNY
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMNOT
+  H row=5 col=0 word=DUEBY
+  V row=1 col=0 word=AWARD
+  V row=0 col=2 word=INLINE
+  V row=1 col=4 word=TASTY
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMNOT
+  H row=5 col=0 word=STUDY
+  V row=1 col=0 word=ARABS
+  V row=0 col=2 word=INLIEU
+  V row=1 col=4 word=TAWNY
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ANION
+  H row=5 col=0 word=TASTY
+  V row=1 col=0 word=ADMIT
+  V row=0 col=2 word=AIRBUS
+  V row=1 col=4 word=NEWLY
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATTWO
+  H row=5 col=0 word=LAYIN
+  V row=1 col=0 word=ABDUL
+  V row=0 col=2 word=STMARY
+  V row=1 col=4 word=ONEIN
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATEIN
+  H row=5 col=0 word=SNOWY
+  V row=1 col=0 word=AURAS
+  V row=0 col=2 word=LEADTO
+  V row=1 col=4 word=NIMBY
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATTYS
+  H row=5 col=0 word=DREWA
+  V row=1 col=0 word=ALOUD
+  V row=0 col=2 word=ATNINE
+  V row=1 col=4 word=SIMBA
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AURAS
+  H row=5 col=0 word=TINNY
+  V row=1 col=0 word=ATBAT
+  V row=0 col=2 word=DREWON
+  V row=1 col=4 word=SLIMY
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AWMAN
+  H row=5 col=0 word=EARLY
+  V row=1 col=0 word=ABUSE
+  V row=0 col=2 word=DMINOR
+  V row=1 col=4 word=NITTY
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AWMAN
+  H row=5 col=0 word=EARLY
+  V row=1 col=0 word=ASIDE
+  V row=0 col=2 word=BMINOR
+  V row=1 col=4 word=NUTTY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-4B13B18A
+TOTAL_TRUE: 20   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–5  LEN=6
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=20):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,3) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#.#.#.
+.#####.
+...#...
+...#...
+
+SOLUTION #1:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=WARTIME
+  H row=3 col=1 word=YANNI
+  V row=0 col=1 word=ABLY
+  V row=0 col=3 word=TAUNTS
+  V row=0 col=5 word=MODI
+
+SOLUTION #2:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=LAWSUIT
+  H row=3 col=1 word=ADMAN
+  V row=0 col=1 word=ABRA
+  V row=0 col=3 word=STYMIE
+  V row=0 col=5 word=INON
+
+SOLUTION #3:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=MAITAIS
+  H row=3 col=1 word=ANNUL
+  V row=0 col=1 word=ABRA
+  V row=0 col=3 word=TWENTY
+  V row=0 col=5 word=IDOL
+
+SOLUTION #4:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BANDANA
+  H row=3 col=1 word=SWOLE
+  V row=0 col=1 word=AIMS
+  V row=0 col=3 word=DRYOUT
+  V row=0 col=5 word=NITE
+
+SOLUTION #5:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BAYONET
+  H row=3 col=1 word=SWAMI
+  V row=0 col=1 word=ALAS
+  V row=0 col=3 word=ORDAIN
+  V row=0 col=5 word=ETUI
+
+SOLUTION #6:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=WARMEST
+  H row=3 col=1 word=AUDIT
+  V row=0 col=1 word=ALBA
+  V row=0 col=3 word=MONDAY
+  V row=0 col=5 word=SNIT
+
+SOLUTION #7:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=RAYMOND
+  H row=3 col=1 word=WAITS
+  V row=0 col=1 word=ANEW
+  V row=0 col=3 word=MALIBU
+  V row=0 col=5 word=NITS
+
+SOLUTION #8:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BETRAYS
+  H row=3 col=1 word=TWAIN
+  V row=0 col=1 word=EMIT
+  V row=0 col=3 word=ROLAND
+  V row=0 col=5 word=YUAN
+
+SOLUTION #9:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BETRAYS
+  H row=3 col=1 word=TWAIN
+  V row=0 col=1 word=EMIT
+  V row=0 col=3 word=RONALD
+  V row=0 col=5 word=YUAN
+
+SOLUTION #10:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=LIEDOWN
+  H row=3 col=1 word=BATTY
+  V row=0 col=1 word=IAMB
+  V row=0 col=3 word=DUSTIN
+  V row=0 col=5 word=WARY
+
+SOLUTION #11:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=SITDOWN
+  H row=3 col=1 word=BURNT
+  V row=0 col=1 word=IAMB
+  V row=0 col=3 word=DEARLY
+  V row=0 col=5 word=WAIT
+
+SOLUTION #12:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=TIEDOWN
+  H row=3 col=1 word=SALTY
+  V row=0 col=1 word=IAMS
+  V row=0 col=3 word=DUBLIN
+  V row=0 col=5 word=WARY
+
+SOLUTION #13:
+
+PHRASE: ROME WASN'T BUILT IN A DAY
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=DISTORT
+  H row=3 col=1 word=NEWLY
+  V row=0 col=1 word=IMAN
+  V row=0 col=3 word=TAIWAN
+  V row=0 col=5 word=RUBY
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 50
+Solved grids: 19
+Total unique solutions: 365
+Elapsed: 419.27s

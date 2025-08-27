@@ -1,0 +1,4226 @@
+PHRASE: Breakfast at Tiffany's
+CLEAN_LETTERS: BREAKFASTATTIFFANYS  (len=19)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-B5B78908
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=3:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=3  C=0–4  LEN=5
+  [H] R=5  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (3,0)
+  H1,2 ↔ V4,2  @ (3,2)
+  H1,4 ↔ V5,2  @ (3,4)
+  H2,0 ↔ V3,4  @ (5,0)
+  H2,2 ↔ V4,4  @ (5,2)
+  H2,4 ↔ V5,4  @ (5,4)
+
+CELLS_TRUE (count=19):
+  (1,0) (1,2) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+#.#.#
+#.#.#
+#####
+#.#.#
+#####
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=BANFF
+  H row=5 col=0 word=TESTY
+  V row=1 col=0 word=RABAT
+  V row=1 col=2 word=SINKS
+  V row=1 col=4 word=TAFFY
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=NAFTA
+  H row=5 col=0 word=SAYST
+  V row=1 col=0 word=BANES
+  V row=1 col=2 word=FIFTY
+  V row=1 col=4 word=KRAFT
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-93CF4E60
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#.#.#
+#.#.#
+#####
+.....
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AKBAR
+  H row=4 col=0 word=SAFES
+  V row=0 col=0 word=ATTYS
+  V row=0 col=2 word=BANFF
+  V row=0 col=4 word=RIFTS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BARFS
+  H row=4 col=0 word=TASTY
+  V row=0 col=0 word=BEFIT
+  V row=0 col=2 word=RAFTS
+  V row=0 col=4 word=SNAKY
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-B4C2CA40
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,2  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,2  @ (3,4)
+
+CELLS_TRUE (count=19):
+  (0,2) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4) (5,0) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#####
+#.#.#
+#####
+#.#.#
+#...#
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BARES
+  H row=3 col=0 word=NIFTY
+  V row=1 col=0 word=BANFF
+  V row=0 col=2 word=KRAFT
+  V row=1 col=4 word=SAYST
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BARFS
+  H row=3 col=0 word=FANTA
+  V row=1 col=0 word=BEFIT
+  V row=0 col=2 word=FRANK
+  V row=1 col=4 word=STAYS
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BARTS
+  H row=3 col=0 word=TANYA
+  V row=1 col=0 word=BITES
+  V row=0 col=2 word=FRANK
+  V row=1 col=4 word=STAFF
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BATIK
+  H row=3 col=0 word=NAFTA
+  V row=1 col=0 word=BYNES
+  V row=0 col=2 word=STAFF
+  V row=1 col=4 word=KRAFT
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BEAST
+  H row=3 col=0 word=SNIFF
+  V row=1 col=0 word=BASTA
+  V row=0 col=2 word=TARIK
+  V row=1 col=4 word=TAFFY
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BEAST
+  H row=3 col=0 word=STAFF
+  V row=1 col=0 word=BASIN
+  V row=0 col=2 word=KARAT
+  V row=1 col=4 word=TAFFY
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BEAST
+  H row=3 col=0 word=STIFF
+  V row=1 col=0 word=BASTA
+  V row=0 col=2 word=KARIN
+  V row=1 col=4 word=TAFFY
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-0094F124
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#.#.#
+#####
+#.#.#
+.....
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BAKES
+  H row=3 col=0 word=FIFTY
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=KRAFT
+  V row=0 col=4 word=STAYS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BAKES
+  H row=3 col=0 word=STAFF
+  V row=0 col=0 word=BITSY
+  V row=0 col=2 word=KARAN
+  V row=0 col=4 word=STAFF
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-61F3882E
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,2  @ (2,1)
+  H2,2 ↔ V4,2  @ (2,3)
+  H2,4 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#.#.#.
+.......
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BANKS
+  H row=2 col=1 word=RETIA
+  V row=0 col=1 word=BARFS
+  V row=0 col=3 word=NATTY
+  V row=0 col=5 word=STAFF
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BARFS
+  H row=2 col=1 word=TANYA
+  V row=0 col=1 word=BATIK
+  V row=0 col=3 word=RENTS
+  V row=0 col=5 word=STAFF
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BARKS
+  H row=2 col=1 word=NAFTA
+  V row=0 col=1 word=BANFF
+  V row=0 col=3 word=REFIT
+  V row=0 col=5 word=STAYS
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BEFIT
+  H row=2 col=1 word=NARKS
+  V row=0 col=1 word=BANFF
+  V row=0 col=3 word=FARTS
+  V row=0 col=5 word=TASTY
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-E00AEE6E
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#
+#####
+#.#.#
+#.#.#
+#####
+.....
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AFTRA
+  H row=4 col=0 word=SATAY
+  V row=0 col=0 word=BAKES
+  V row=0 col=2 word=STINT
+  V row=0 col=4 word=TAFFY
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AKATA
+  H row=4 col=0 word=FASTS
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=FAIRS
+  V row=0 col=4 word=YATES
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AKATA
+  H row=4 col=0 word=FASTS
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=FARIS
+  V row=0 col=4 word=YATES
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AKATA
+  H row=4 col=0 word=FASTS
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=FATES
+  V row=0 col=4 word=YARIS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AKATA
+  H row=4 col=0 word=NASTY
+  V row=0 col=0 word=BASIN
+  V row=0 col=2 word=FARES
+  V row=0 col=4 word=TAFFY
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ANITA
+  H row=4 col=0 word=SATAY
+  V row=0 col=0 word=BAKES
+  V row=0 col=2 word=FIRST
+  V row=0 col=4 word=TAFFY
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ANITA
+  H row=4 col=0 word=SAYST
+  V row=0 col=0 word=FAKES
+  V row=0 col=2 word=FIFTY
+  V row=0 col=4 word=RABAT
+
+----------------------------------------------------------------
+
+=== GRID W5×H5  |  FAMILY 2H3V  |  GRID_ID: W5H5-2H3V-803AA586
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#.#.#
+#####
+#.#.#
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=BAKES
+  H row=3 col=0 word=FIFTY
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=KRAFT
+  V row=0 col=4 word=STAYS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=0 word=BAKES
+  H row=3 col=0 word=STAFF
+  V row=0 col=0 word=BITSY
+  V row=0 col=2 word=KARAN
+  V row=0 col=4 word=STAFF
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-CA00AFB6
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (2,1)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,5 ↔ V5,0  @ (2,5)
+  H2,0 ↔ V3,3  @ (5,1)
+  H2,2 ↔ V4,4  @ (5,3)
+  H2,4 ↔ V5,3  @ (5,5)
+
+CELLS_TRUE (count=19):
+  (1,3) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+...#...
+#######
+.#.#.#.
+.#.#.#.
+.#####.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-2B99A483
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=3:LEN=7, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (3,1)
+  H1,3 ↔ V4,2  @ (3,3)
+  H1,5 ↔ V5,1  @ (3,5)
+  H2,0 ↔ V3,3  @ (5,1)
+  H2,2 ↔ V4,4  @ (5,3)
+  H2,4 ↔ V5,3  @ (5,5)
+
+CELLS_TRUE (count=19):
+  (1,3) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+...#...
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=FAINTER
+  H row=5 col=1 word=SAABS
+  V row=2 col=1 word=FATS
+  V row=1 col=3 word=FANTA
+  V row=2 col=5 word=KEYS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=FRANKIE
+  H row=5 col=1 word=STAYS
+  V row=2 col=1 word=ARBS
+  V row=1 col=3 word=FANTA
+  V row=2 col=5 word=FITS
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=FRANKIE
+  H row=5 col=1 word=STAYS
+  V row=2 col=1 word=ARTS
+  V row=1 col=3 word=FANTA
+  V row=2 col=5 word=FIBS
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=FRANKIE
+  H row=5 col=1 word=STAYS
+  V row=2 col=1 word=BRAS
+  V row=1 col=3 word=FANTA
+  V row=2 col=5 word=FITS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=KAFFIRS
+  H row=5 col=1 word=STATE
+  V row=2 col=1 word=BAAS
+  V row=1 col=3 word=NAFTA
+  V row=2 col=5 word=FRYE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-FCBF6467
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+.#.#.#.
+.#####.
+.......
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=AKBAR
+  H row=4 col=1 word=SAFES
+  V row=0 col=1 word=ATTYS
+  V row=0 col=3 word=BANFF
+  V row=0 col=5 word=RIFTS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BARFS
+  H row=4 col=1 word=TASTY
+  V row=0 col=1 word=BEFIT
+  V row=0 col=3 word=RAFTS
+  V row=0 col=5 word=SNAKY
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-3405D9A7
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,0) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+#####
+#.#.#
+#.#.#
+#####
+#.#.#
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BAKES
+  H row=4 col=0 word=FIFTY
+  V row=1 col=0 word=BANFF
+  V row=1 col=2 word=KRAFT
+  V row=1 col=4 word=STAYS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BAKES
+  H row=4 col=0 word=STAFF
+  V row=1 col=0 word=BITSY
+  V row=1 col=2 word=KARAN
+  V row=1 col=4 word=STAFF
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-C20A678B
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,3) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+...#...
+.......
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=FANTASY
+  H row=3 col=1 word=KEFIR
+  V row=0 col=1 word=BATK
+  V row=0 col=3 word=STAFF
+  V row=0 col=5 word=TSAR
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=KATANAS
+  H row=3 col=1 word=SAFER
+  V row=0 col=1 word=BATS
+  V row=0 col=3 word=TAFFY
+  V row=0 col=5 word=FAIR
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-DEBC2DFE
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+...#...
+.......
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BATTS
+  H row=3 col=0 word=KAFFIRS
+  V row=0 col=1 word=BANA
+  V row=0 col=3 word=TAFFY
+  V row=0 col=5 word=STER
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=ETTAS
+  H row=3 col=0 word=KAFFIRS
+  V row=0 col=1 word=ETNA
+  V row=0 col=3 word=TAFFY
+  V row=0 col=5 word=SABR
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BATTS
+  H row=3 col=0 word=STIFFEN
+  V row=0 col=1 word=BART
+  V row=0 col=3 word=TAFFY
+  V row=0 col=5 word=SAKE
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=BATTS
+  H row=3 col=0 word=STIFFEN
+  V row=0 col=1 word=BRAT
+  V row=0 col=3 word=TAFFY
+  V row=0 col=5 word=SAKE
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-48C87698
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#####.
+.#.#.#.
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=BARFS
+  H row=4 col=0 word=FANTASY
+  V row=1 col=1 word=BETA
+  V row=0 col=3 word=KRAFT
+  V row=1 col=5 word=SITS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=FARTS
+  H row=4 col=0 word=FANTASY
+  V row=1 col=1 word=FETA
+  V row=0 col=3 word=KRAFT
+  V row=1 col=5 word=SIBS
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=FIRST
+  H row=4 col=0 word=FANTASY
+  V row=1 col=1 word=FETA
+  V row=0 col=3 word=KRAFT
+  V row=1 col=5 word=TABS
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=FARTS
+  H row=4 col=0 word=FANTASY
+  V row=1 col=1 word=FIFA
+  V row=0 col=3 word=BRETT
+  V row=1 col=5 word=SAKS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=STAYS
+  H row=4 col=0 word=TAFFETA
+  V row=1 col=1 word=SARA
+  V row=0 col=3 word=BANFF
+  V row=1 col=5 word=SKIT
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=AKATA
+  H row=4 col=0 word=TAFFIES
+  V row=1 col=1 word=ARYA
+  V row=0 col=3 word=BANFF
+  V row=1 col=5 word=ASTE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-1977ECEA
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+.......
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ABATE
+  H row=4 col=0 word=KAFFIRS
+  V row=1 col=1 word=NAYA
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=TEAR
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ABATE
+  H row=4 col=0 word=KAFFIRS
+  V row=1 col=1 word=TANA
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=YEAR
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=TANYA
+  H row=4 col=0 word=STIFFER
+  V row=1 col=1 word=STAT
+  V row=0 col=3 word=BANFF
+  V row=1 col=5 word=TAKE
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AKATA
+  H row=4 col=0 word=TAFFIES
+  V row=1 col=1 word=BANA
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=RAYE
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ABATE
+  H row=4 col=0 word=TIFFANY
+  V row=1 col=1 word=KARI
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=SEAN
+
+----------------------------------------------------------------
+
+=== GRID W5×H5  |  FAMILY 2H3V  |  GRID_ID: W5H5-2H3V-669BFE6A
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#
+#####
+#.#.#
+#####
+#.#.#
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AKATA
+  H row=3 col=0 word=FARTS
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=FAIRE
+  V row=0 col=4 word=SAYST
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AKATA
+  H row=3 col=0 word=FESTA
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=FARSI
+  V row=0 col=4 word=SATAY
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=0 word=AKATA
+  H row=3 col=0 word=STAFF
+  V row=0 col=0 word=RAISE
+  V row=0 col=2 word=SABAN
+  V row=0 col=4 word=TAFFY
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H2V  |  GRID_ID: W7H5-3H2V-BF7780CF
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,2)
+  H1,3 ↔ V5,0  @ (0,4)
+  H2,1 ↔ V4,2  @ (2,2)
+  H2,3 ↔ V5,2  @ (2,4)
+  H3,1 ↔ V4,4  @ (4,2)
+  H3,3 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,2) (1,4) (2,1) (2,2) (2,3) (2,4) (2,5) (3,2) (3,4) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+..#.#..
+.#####.
+..#.#..
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BANFF
+  H row=2 col=1 word=FAIRE
+  H row=4 col=1 word=SAYST
+  V row=0 col=2 word=AKATA
+  V row=0 col=4 word=FARTS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BANFF
+  H row=2 col=1 word=FARSI
+  H row=4 col=1 word=SATAY
+  V row=0 col=2 word=AKATA
+  V row=0 col=4 word=FESTA
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=RAISE
+  H row=2 col=1 word=SABAN
+  H row=4 col=1 word=TAFFY
+  V row=0 col=2 word=AKATA
+  V row=0 col=4 word=STAFF
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-36B63F10
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (2,1)
+  H1,3 ↔ V4,2  @ (2,3)
+  H1,5 ↔ V5,0  @ (2,5)
+  H2,0 ↔ V3,2  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,2  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,3) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+...#...
+#######
+.#.#.#.
+.#####.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=KATRINA
+  H row=4 col=1 word=STAFF
+  V row=2 col=1 word=ASST
+  V row=0 col=3 word=YERBA
+  V row=2 col=5 word=NAFF
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=NITRATE
+  H row=4 col=1 word=FASTS
+  V row=2 col=1 word=IFFY
+  V row=0 col=3 word=BARFS
+  V row=2 col=5 word=TASK
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=TAFFETA
+  H row=4 col=1 word=ABYSS
+  V row=2 col=1 word=AFAR
+  V row=0 col=3 word=NIFTY
+  V row=2 col=5 word=TASK
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-929F7BD0
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,2  @ (2,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,3) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+.......
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BANFF
+  H row=4 col=1 word=TESTY
+  V row=0 col=1 word=RABAT
+  V row=0 col=3 word=SINKS
+  V row=0 col=5 word=TAFFY
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=NAFTA
+  H row=4 col=1 word=SAYST
+  V row=0 col=1 word=BANES
+  V row=0 col=3 word=FIFTY
+  V row=0 col=5 word=KRAFT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-6066E42E
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,2  @ (3,1)
+  H2,2 ↔ V4,2  @ (3,3)
+  H2,4 ↔ V5,2  @ (3,5)
+
+CELLS_TRUE (count=19):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-15371921
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,0)
+  H1,2 ↔ V4,1  @ (2,2)
+  H1,4 ↔ V5,2  @ (2,4)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,4) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#...#
+#.#.#
+#####
+#.#.#
+#####
+..#..
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ANITA
+  H row=4 col=0 word=TATES
+  V row=0 col=0 word=KRAFT
+  V row=1 col=2 word=FIFTY
+  V row=0 col=4 word=SAABS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ATRIA
+  H row=4 col=0 word=STAFF
+  V row=0 col=0 word=BEAKS
+  V row=1 col=2 word=ARYAN
+  V row=0 col=4 word=STAFF
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BANFF
+  H row=4 col=0 word=RATTY
+  V row=0 col=0 word=SABER
+  V row=1 col=2 word=KNITS
+  V row=0 col=4 word=TAFFY
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BANFF
+  H row=4 col=0 word=RESTS
+  V row=0 col=0 word=AKBAR
+  V row=1 col=2 word=ANTSY
+  V row=0 col=4 word=TIFFS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BANKS
+  H row=4 col=0 word=TAFFY
+  V row=0 col=0 word=RABAT
+  V row=1 col=2 word=SNIFF
+  V row=0 col=4 word=TESTY
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BEANS
+  H row=4 col=0 word=RAFTS
+  V row=0 col=0 word=AKBAR
+  V row=1 col=2 word=TAFFY
+  V row=0 col=4 word=FISTS
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BEANS
+  H row=4 col=0 word=RIFTS
+  V row=0 col=0 word=AKBAR
+  V row=1 col=2 word=TAFFY
+  V row=0 col=4 word=FASTS
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-0AD9A506
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=2  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,2  @ (2,0)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,2) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#####
+#.#.#
+#.#.#
+.....
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BANKS
+  H row=2 col=0 word=RETIA
+  V row=0 col=0 word=BARFS
+  V row=0 col=2 word=NATTY
+  V row=0 col=4 word=STAFF
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BARFS
+  H row=2 col=0 word=TANYA
+  V row=0 col=0 word=BATIK
+  V row=0 col=2 word=RENTS
+  V row=0 col=4 word=STAFF
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BARKS
+  H row=2 col=0 word=NAFTA
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=REFIT
+  V row=0 col=4 word=STAYS
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BEFIT
+  H row=2 col=0 word=NARKS
+  V row=0 col=0 word=BANFF
+  V row=0 col=2 word=FARTS
+  V row=0 col=4 word=TASTY
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 3H2V  |  GRID_ID: W5H6-3H2V-13E38273
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,0)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V4,2  @ (2,0)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,0 ↔ V4,4  @ (4,0)
+  H3,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#...#
+#####
+#...#
+#####
+.....
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ATTYS
+  H row=2 col=0 word=BANFF
+  H row=4 col=0 word=RIFTS
+  V row=0 col=0 word=AKBAR
+  V row=0 col=4 word=SAFES
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=BEFIT
+  H row=2 col=0 word=RAFTS
+  H row=4 col=0 word=SNAKY
+  V row=0 col=0 word=BARFS
+  V row=0 col=4 word=TASTY
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-60CDFD89
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,2  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4) (5,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#...#
+#####
+#.#.#
+#####
+#.#.#
+..#..
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AETNA
+  H row=3 col=0 word=TIFFS
+  V row=0 col=0 word=BASTA
+  V row=1 col=2 word=TAFFY
+  V row=0 col=4 word=KARST
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AFTRA
+  H row=3 col=0 word=FESTA
+  V row=0 col=0 word=BANFF
+  V row=1 col=2 word=TASTY
+  V row=0 col=4 word=SAKAI
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AKATA
+  H row=3 col=0 word=FATES
+  V row=0 col=0 word=BANFF
+  V row=1 col=2 word=ATTYS
+  V row=0 col=4 word=FARSI
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AKBAR
+  H row=3 col=0 word=TINAS
+  V row=0 col=0 word=FATTY
+  V row=1 col=2 word=BANFF
+  V row=0 col=4 word=TRESS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BASTA
+  H row=3 col=0 word=SKIRT
+  V row=0 col=0 word=ABASE
+  V row=1 col=2 word=SNIFF
+  V row=0 col=4 word=FATTY
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BASTA
+  H row=3 col=0 word=SNIFF
+  V row=0 col=0 word=ABASE
+  V row=1 col=2 word=SKIRT
+  V row=0 col=4 word=TAFFY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-7979DAF0
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V3,3  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,3) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+...#...
+.......
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AKATA
+  H row=3 col=0 word=FASTERS
+  V row=0 col=1 word=BANA
+  V row=0 col=3 word=FATTY
+  V row=0 col=5 word=FAIR
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AKATA
+  H row=3 col=0 word=FATTIES
+  V row=0 col=1 word=BANA
+  V row=0 col=3 word=FARTS
+  V row=0 col=5 word=FAYE
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AKATA
+  H row=3 col=0 word=FATTIES
+  V row=0 col=1 word=BANA
+  V row=0 col=3 word=RAFTS
+  V row=0 col=5 word=FAYE
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ASANA
+  H row=3 col=0 word=FATTIES
+  V row=0 col=1 word=BARA
+  V row=0 col=3 word=FATTY
+  V row=0 col=5 word=FAKE
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ABATE
+  H row=3 col=0 word=KAFFIRS
+  V row=0 col=1 word=NASA
+  V row=0 col=3 word=TAFFY
+  V row=0 col=5 word=TEAR
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ABASE
+  H row=3 col=0 word=KAFFIRS
+  V row=0 col=1 word=TANA
+  V row=0 col=3 word=TAFFY
+  V row=0 col=5 word=TEAR
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ASANA
+  H row=3 col=0 word=STAFFER
+  V row=0 col=1 word=BAIT
+  V row=0 col=3 word=TAFFY
+  V row=0 col=5 word=KATE
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-0B0FF65C
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (0,1)
+  H1,3 ↔ V4,0  @ (0,3)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,2  @ (2,1)
+  H2,2 ↔ V4,2  @ (2,3)
+  H2,4 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-BFFADD2A
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=5  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,1  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H2,0 ↔ V3,4  @ (5,0)
+  H2,2 ↔ V4,4  @ (5,2)
+  H2,4 ↔ V5,4  @ (5,4)
+
+CELLS_TRUE (count=19):
+  (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+#.#.#
+#####
+#.#.#
+#.#.#
+#####
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AFTRA
+  H row=5 col=0 word=SATAY
+  V row=1 col=0 word=BAKES
+  V row=1 col=2 word=STINT
+  V row=1 col=4 word=TAFFY
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AKATA
+  H row=5 col=0 word=FASTS
+  V row=1 col=0 word=BANFF
+  V row=1 col=2 word=FAIRS
+  V row=1 col=4 word=YATES
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AKATA
+  H row=5 col=0 word=FASTS
+  V row=1 col=0 word=BANFF
+  V row=1 col=2 word=FARIS
+  V row=1 col=4 word=YATES
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AKATA
+  H row=5 col=0 word=FASTS
+  V row=1 col=0 word=BANFF
+  V row=1 col=2 word=FATES
+  V row=1 col=4 word=YARIS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AKATA
+  H row=5 col=0 word=NASTY
+  V row=1 col=0 word=BASIN
+  V row=1 col=2 word=FARES
+  V row=1 col=4 word=TAFFY
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ANITA
+  H row=5 col=0 word=SATAY
+  V row=1 col=0 word=BAKES
+  V row=1 col=2 word=FIRST
+  V row=1 col=4 word=TAFFY
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ANITA
+  H row=5 col=0 word=SAYST
+  V row=1 col=0 word=FAKES
+  V row=1 col=2 word=FIFTY
+  V row=1 col=4 word=RABAT
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-B07C4B27
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V3,2  @ (2,1)
+  H2,3 ↔ V4,2  @ (2,3)
+  H2,5 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+...#...
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-AFF46C14
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,0  @ (2,5)
+  H2,1 ↔ V3,2  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,2  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,3) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+...#...
+.#####.
+.#.#.#.
+#######
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BANFF
+  H row=4 col=0 word=FIESTAS
+  V row=2 col=1 word=BAIT
+  V row=0 col=3 word=YANKS
+  V row=2 col=5 word=FRAT
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BANFF
+  H row=4 col=0 word=FIESTAS
+  V row=2 col=1 word=BAIT
+  V row=0 col=3 word=TANKS
+  V row=2 col=5 word=FRAY
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BRINK
+  H row=4 col=0 word=TAFFETA
+  V row=2 col=1 word=BAAS
+  V row=0 col=3 word=STIFF
+  V row=2 col=5 word=KATY
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BEARS
+  H row=4 col=0 word=TIFFANY
+  V row=2 col=1 word=BAIT
+  V row=0 col=3 word=STAFF
+  V row=2 col=5 word=SANK
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BEAST
+  H row=4 col=0 word=TIFFANY
+  V row=2 col=1 word=BRIK
+  V row=0 col=3 word=STAFF
+  V row=2 col=5 word=TANA
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-2A8D9718
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,1 ↔ V3,2  @ (3,1)
+  H2,3 ↔ V4,3  @ (3,3)
+  H2,5 ↔ V5,2  @ (3,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=SKIRT
+  H row=3 col=0 word=FATTENS
+  V row=1 col=1 word=SAAB
+  V row=0 col=3 word=FIFTY
+  V row=1 col=5 word=TANA
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=BATTY
+  H row=3 col=0 word=KAFFIRS
+  V row=1 col=1 word=BEAT
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=YARN
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=BRINK
+  H row=3 col=0 word=TAFFETA
+  V row=1 col=1 word=BAAS
+  V row=0 col=3 word=TIFFS
+  V row=1 col=5 word=KATY
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=BATTS
+  H row=3 col=0 word=TIFFANY
+  V row=1 col=1 word=BRIE
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=SANK
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=BATTS
+  H row=3 col=0 word=TIFFANY
+  V row=1 col=1 word=BRIK
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=SANE
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=BATES
+  H row=3 col=0 word=TIFFANY
+  V row=1 col=1 word=BRIT
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=SANK
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=1 col=1 word=BETAS
+  H row=3 col=0 word=TIFFANY
+  V row=1 col=1 word=BRIT
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=SANK
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-C91FAF8D
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=3:LEN=5, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (3,1)
+  H1,2 ↔ V4,2  @ (3,3)
+  H1,4 ↔ V5,1  @ (3,5)
+  H2,1 ↔ V3,3  @ (5,1)
+  H2,3 ↔ V4,4  @ (5,3)
+  H2,5 ↔ V5,3  @ (5,5)
+
+CELLS_TRUE (count=19):
+  (1,3) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+...#...
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=ABATE
+  H row=5 col=0 word=KAFFIRS
+  V row=2 col=1 word=NAYA
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=TEAR
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=ABATE
+  H row=5 col=0 word=KAFFIRS
+  V row=2 col=1 word=TANA
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=YEAR
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=TANYA
+  H row=5 col=0 word=STIFFER
+  V row=2 col=1 word=STAT
+  V row=1 col=3 word=BANFF
+  V row=2 col=5 word=TAKE
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=AKATA
+  H row=5 col=0 word=TAFFIES
+  V row=2 col=1 word=BANA
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=RAYE
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=1 word=ABATE
+  H row=5 col=0 word=TIFFANY
+  V row=2 col=1 word=KARI
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=SEAN
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-2F5880F9
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AFTRA
+  H row=4 col=1 word=FESTA
+  V row=1 col=1 word=BANFF
+  V row=0 col=3 word=ATTYS
+  V row=1 col=5 word=SAKAI
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=AKATA
+  H row=4 col=1 word=FASTS
+  V row=1 col=1 word=BANFF
+  V row=0 col=3 word=YEATS
+  V row=1 col=5 word=FARSI
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BRITA
+  H row=4 col=1 word=TAFFY
+  V row=1 col=1 word=ABETS
+  V row=0 col=3 word=SKIFF
+  V row=1 col=5 word=TANYA
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=ERIKA
+  H row=4 col=1 word=TAFFY
+  V row=1 col=1 word=BEATS
+  V row=0 col=3 word=STIFF
+  V row=1 col=5 word=TANYA
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=RAISE
+  H row=4 col=1 word=TAFFY
+  V row=1 col=1 word=BRATT
+  V row=0 col=3 word=STIFF
+  V row=1 col=5 word=KENYA
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-5239C94A
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,2  @ (2,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,3) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#.#.#.
+.#####.
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=BANFF
+  H row=4 col=1 word=TESTY
+  V row=0 col=1 word=RABAT
+  V row=0 col=3 word=SINKS
+  V row=0 col=5 word=TAFFY
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=NAFTA
+  H row=4 col=1 word=SAYST
+  V row=0 col=1 word=BANES
+  V row=0 col=3 word=FIFTY
+  V row=0 col=5 word=KRAFT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-D41E92BD
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (1,2)
+  H1,3 ↔ V5,0  @ (1,4)
+  H2,1 ↔ V4,2  @ (3,2)
+  H2,3 ↔ V5,2  @ (3,4)
+  H3,1 ↔ V4,4  @ (5,2)
+  H3,3 ↔ V5,4  @ (5,4)
+
+CELLS_TRUE (count=19):
+  (1,1) (1,2) (1,3) (1,4) (1,5) (2,2) (2,4) (3,1) (3,2) (3,3) (3,4) (3,5) (4,2) (4,4) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#####.
+..#.#..
+.#####.
+..#.#..
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BANFF
+  H row=3 col=1 word=FAIRE
+  H row=5 col=1 word=SAYST
+  V row=1 col=2 word=AKATA
+  V row=1 col=4 word=FARTS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BANFF
+  H row=3 col=1 word=FARSI
+  H row=5 col=1 word=SATAY
+  V row=1 col=2 word=AKATA
+  V row=1 col=4 word=FESTA
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=RAISE
+  H row=3 col=1 word=SABAN
+  H row=5 col=1 word=TAFFY
+  V row=1 col=2 word=AKATA
+  V row=1 col=4 word=STAFF
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-6E255690
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (2,1)
+  H1,3 ↔ V4,1  @ (2,3)
+  H1,5 ↔ V5,1  @ (2,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+...#...
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=FANTASY
+  H row=4 col=1 word=KEFIR
+  V row=1 col=1 word=BATK
+  V row=1 col=3 word=STAFF
+  V row=1 col=5 word=TSAR
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=KATANAS
+  H row=4 col=1 word=SAFER
+  V row=1 col=1 word=BATS
+  V row=1 col=3 word=TAFFY
+  V row=1 col=5 word=FAIR
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-1436B462
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,2  @ (2,1)
+  H2,2 ↔ V4,2  @ (2,3)
+  H2,4 ↔ V5,2  @ (2,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BANKS
+  H row=2 col=1 word=RETIA
+  V row=0 col=1 word=BARFS
+  V row=0 col=3 word=NATTY
+  V row=0 col=5 word=STAFF
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BARFS
+  H row=2 col=1 word=TANYA
+  V row=0 col=1 word=BATIK
+  V row=0 col=3 word=RENTS
+  V row=0 col=5 word=STAFF
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BARKS
+  H row=2 col=1 word=NAFTA
+  V row=0 col=1 word=BANFF
+  V row=0 col=3 word=REFIT
+  V row=0 col=5 word=STAYS
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BEFIT
+  H row=2 col=1 word=NARKS
+  V row=0 col=1 word=BANFF
+  V row=0 col=3 word=FARTS
+  V row=0 col=5 word=TASTY
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-7162EA94
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=AKBAR
+  H row=4 col=1 word=SAFES
+  V row=0 col=1 word=ATTYS
+  V row=0 col=3 word=BANFF
+  V row=0 col=5 word=RIFTS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BARFS
+  H row=4 col=1 word=TASTY
+  V row=0 col=1 word=BEFIT
+  V row=0 col=3 word=RAFTS
+  V row=0 col=5 word=SNAKY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-F9842A7E
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (1,1)
+  H1,3 ↔ V4,1  @ (1,3)
+  H1,5 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+#######
+.#.#.#.
+.#.#.#.
+.#####.
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-A276BDFF
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,2  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,1 ↔ V3,3  @ (4,1)
+  H2,3 ↔ V4,4  @ (4,3)
+  H2,5 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=ABATE
+  H row=4 col=0 word=KAFFIRS
+  V row=1 col=1 word=NAYA
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=TEAR
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=ABATE
+  H row=4 col=0 word=KAFFIRS
+  V row=1 col=1 word=TANA
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=YEAR
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=TANYA
+  H row=4 col=0 word=STIFFER
+  V row=1 col=1 word=STAT
+  V row=0 col=3 word=BANFF
+  V row=1 col=5 word=TAKE
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=AKATA
+  H row=4 col=0 word=TAFFIES
+  V row=1 col=1 word=BANA
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=RAYE
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=1 word=ABATE
+  H row=4 col=0 word=TIFFANY
+  V row=1 col=1 word=KARI
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=SEAN
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-F39642CD
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,0)
+  H1,2 ↔ V4,0  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,2)
+
+ASCII (monospace): '#' filled, '·' empty
+#...#
+#####
+#.#.#
+#.#.#
+#####
+..#..
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AETNA
+  H row=4 col=0 word=TIFFS
+  V row=0 col=0 word=RABAT
+  V row=1 col=2 word=TAFFY
+  V row=0 col=4 word=TASKS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AFTRA
+  H row=4 col=0 word=SAFES
+  V row=0 col=0 word=BAITS
+  V row=1 col=2 word=TAFFY
+  V row=0 col=4 word=TANKS
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AFTRA
+  H row=4 col=0 word=SATAY
+  V row=0 col=0 word=BAKES
+  V row=1 col=2 word=TINTS
+  V row=0 col=4 word=TAFFY
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AKBAR
+  H row=4 col=0 word=SIFTS
+  V row=0 col=0 word=FATES
+  V row=1 col=2 word=BANFF
+  V row=0 col=4 word=TRAYS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ASANA
+  H row=4 col=0 word=RATTY
+  V row=0 col=0 word=FAKIR
+  V row=1 col=2 word=ABETS
+  V row=0 col=4 word=TAFFY
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ASANA
+  H row=4 col=0 word=RATTY
+  V row=0 col=0 word=KAFIR
+  V row=1 col=2 word=ABETS
+  V row=0 col=4 word=TAFFY
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ATRIA
+  H row=4 col=0 word=SNAKY
+  V row=0 col=0 word=SAFES
+  V row=1 col=2 word=RABAT
+  V row=0 col=4 word=TAFFY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-41E4856A
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (2,1)
+  H1,2 ↔ V4,1  @ (2,3)
+  H1,4 ↔ V5,0  @ (2,5)
+  H2,1 ↔ V3,2  @ (4,1)
+  H2,3 ↔ V4,3  @ (4,3)
+  H2,5 ↔ V5,2  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (1,3) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+...#...
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=SKIRT
+  H row=4 col=0 word=FATTENS
+  V row=2 col=1 word=SAAB
+  V row=1 col=3 word=FIFTY
+  V row=2 col=5 word=TANA
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BATTY
+  H row=4 col=0 word=KAFFIRS
+  V row=2 col=1 word=BEAT
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=YARN
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BRINK
+  H row=4 col=0 word=TAFFETA
+  V row=2 col=1 word=BAAS
+  V row=1 col=3 word=TIFFS
+  V row=2 col=5 word=KATY
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BATTS
+  H row=4 col=0 word=TIFFANY
+  V row=2 col=1 word=BRIE
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=SANK
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BATTS
+  H row=4 col=0 word=TIFFANY
+  V row=2 col=1 word=BRIK
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=SANE
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BATES
+  H row=4 col=0 word=TIFFANY
+  V row=2 col=1 word=BRIT
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=SANK
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=1 word=BETAS
+  H row=4 col=0 word=TIFFANY
+  V row=2 col=1 word=BRIT
+  V row=1 col=3 word=STAFF
+  V row=2 col=5 word=SANK
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-08AD813E
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,0  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BAKES
+  H row=4 col=1 word=FIFTY
+  V row=1 col=1 word=BANFF
+  V row=1 col=3 word=KRAFT
+  V row=1 col=5 word=STAYS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BAKES
+  H row=4 col=1 word=STAFF
+  V row=1 col=1 word=BITSY
+  V row=1 col=3 word=KARAN
+  V row=1 col=5 word=STAFF
+
+----------------------------------------------------------------
+
+=== GRID W5×H5  |  FAMILY 2H3V  |  GRID_ID: W5H5-2H3V-0188F529
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,0)
+  H1,2 ↔ V4,2  @ (2,2)
+  H1,4 ↔ V5,2  @ (2,4)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,0) (0,2) (0,4) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#
+#.#.#
+#####
+#.#.#
+#####
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=0 word=BANFF
+  H row=4 col=0 word=TESTY
+  V row=0 col=0 word=RABAT
+  V row=0 col=2 word=SINKS
+  V row=0 col=4 word=TAFFY
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 5
+
+WORDS:
+  H row=2 col=0 word=NAFTA
+  H row=4 col=0 word=SAYST
+  V row=0 col=0 word=BANES
+  V row=0 col=2 word=FIFTY
+  V row=0 col=4 word=KRAFT
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-C1382EE8
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,2  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,2) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,0) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#.#.#
+#####
+#.#.#
+#####
+#...#
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AFTRA
+  H row=4 col=0 word=FESTA
+  V row=1 col=0 word=BANFF
+  V row=0 col=2 word=ATTYS
+  V row=1 col=4 word=SAKAI
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AKATA
+  H row=4 col=0 word=FASTS
+  V row=1 col=0 word=BANFF
+  V row=0 col=2 word=YEATS
+  V row=1 col=4 word=FARSI
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=BRITA
+  H row=4 col=0 word=TAFFY
+  V row=1 col=0 word=ABETS
+  V row=0 col=2 word=SKIFF
+  V row=1 col=4 word=TANYA
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=ERIKA
+  H row=4 col=0 word=TAFFY
+  V row=1 col=0 word=BEATS
+  V row=0 col=2 word=STIFF
+  V row=1 col=4 word=TANYA
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=RAISE
+  H row=4 col=0 word=TAFFY
+  V row=1 col=0 word=BRATT
+  V row=0 col=2 word=STIFF
+  V row=1 col=4 word=KENYA
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-27997504
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–4  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,4  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (0,2) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,0) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#####
+#.#.#
+#.#.#
+#####
+#...#
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BANFF
+  H row=4 col=0 word=KRAFT
+  V row=1 col=0 word=BASKS
+  V row=0 col=2 word=ANITA
+  V row=1 col=4 word=FETTY
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BANFF
+  H row=4 col=0 word=KRAFT
+  V row=1 col=0 word=BEAKS
+  V row=0 col=2 word=INSTA
+  V row=1 col=4 word=FATTY
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BANFF
+  H row=4 col=0 word=TREAT
+  V row=1 col=0 word=BATTS
+  V row=0 col=2 word=SNAKE
+  V row=1 col=4 word=FIFTY
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BANFF
+  H row=4 col=0 word=TREAT
+  V row=1 col=0 word=BATTY
+  V row=0 col=2 word=KNIFE
+  V row=1 col=4 word=FASTS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BARKS
+  H row=4 col=0 word=STAFF
+  V row=1 col=0 word=BITSY
+  V row=0 col=2 word=ARENA
+  V row=1 col=4 word=STAFF
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BEATS
+  H row=4 col=0 word=FARTS
+  V row=1 col=0 word=BANFF
+  V row=0 col=2 word=FAKIR
+  V row=1 col=4 word=SAYST
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BEATS
+  H row=4 col=0 word=FARTS
+  V row=1 col=0 word=BANFF
+  V row=0 col=2 word=KAFIR
+  V row=1 col=4 word=SAYST
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-D2A4824B
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,0)
+  H1,2 ↔ V4,1  @ (2,2)
+  H1,4 ↔ V5,1  @ (2,4)
+  H2,0 ↔ V3,3  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,3  @ (4,4)
+
+CELLS_TRUE (count=19):
+  (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (5,0) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+#.#.#
+#####
+#.#.#
+#####
+#.#.#
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AKATA
+  H row=4 col=0 word=FARTS
+  V row=1 col=0 word=BANFF
+  V row=1 col=2 word=FAIRE
+  V row=1 col=4 word=SAYST
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AKATA
+  H row=4 col=0 word=FESTA
+  V row=1 col=0 word=BANFF
+  V row=1 col=2 word=FARSI
+  V row=1 col=4 word=SATAY
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 5
+HEIGHT: 6
+
+WORDS:
+  H row=2 col=0 word=AKATA
+  H row=4 col=0 word=STAFF
+  V row=1 col=0 word=RAISE
+  V row=1 col=2 word=SABAN
+  V row=1 col=4 word=TAFFY
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 2H3V  |  GRID_ID: W7H5-2H3V-63C4934C
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,1)
+  H1,2 ↔ V4,0  @ (0,3)
+  H1,4 ↔ V5,0  @ (0,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+.#.#.#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BAKES
+  H row=3 col=1 word=FIFTY
+  V row=0 col=1 word=BANFF
+  V row=0 col=3 word=KRAFT
+  V row=0 col=5 word=STAYS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 5
+
+WORDS:
+  H row=0 col=1 word=BAKES
+  H row=3 col=1 word=STAFF
+  V row=0 col=1 word=BITSY
+  V row=0 col=3 word=KARAN
+  V row=0 col=5 word=STAFF
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-1A0BF8E6
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,0  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,4  @ (5,1)
+  H2,2 ↔ V4,4  @ (5,3)
+  H2,4 ↔ V5,4  @ (5,5)
+
+CELLS_TRUE (count=19):
+  (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#####.
+.#.#.#.
+.#.#.#.
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AKBAR
+  H row=5 col=1 word=SAFES
+  V row=1 col=1 word=ATTYS
+  V row=1 col=3 word=BANFF
+  V row=1 col=5 word=RIFTS
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BARFS
+  H row=5 col=1 word=TASTY
+  V row=1 col=1 word=BEFIT
+  V row=1 col=3 word=RAFTS
+  V row=1 col=5 word=SNAKY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-914F4F6E
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,0  @ (1,5)
+  H2,0 ↔ V3,2  @ (3,1)
+  H2,2 ↔ V4,3  @ (3,3)
+  H2,4 ↔ V5,2  @ (3,5)
+
+CELLS_TRUE (count=19):
+  (0,3) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+...#...
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BARES
+  H row=3 col=1 word=NIFTY
+  V row=1 col=1 word=BANFF
+  V row=0 col=3 word=KRAFT
+  V row=1 col=5 word=SAYST
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BARFS
+  H row=3 col=1 word=FANTA
+  V row=1 col=1 word=BEFIT
+  V row=0 col=3 word=FRANK
+  V row=1 col=5 word=STAYS
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BARTS
+  H row=3 col=1 word=TANYA
+  V row=1 col=1 word=BITES
+  V row=0 col=3 word=FRANK
+  V row=1 col=5 word=STAFF
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BATIK
+  H row=3 col=1 word=NAFTA
+  V row=1 col=1 word=BYNES
+  V row=0 col=3 word=STAFF
+  V row=1 col=5 word=KRAFT
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BEAST
+  H row=3 col=1 word=SNIFF
+  V row=1 col=1 word=BASTA
+  V row=0 col=3 word=TARIK
+  V row=1 col=5 word=TAFFY
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BEAST
+  H row=3 col=1 word=STAFF
+  V row=1 col=1 word=BASIN
+  V row=0 col=3 word=KARAT
+  V row=1 col=5 word=TAFFY
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=BEAST
+  H row=3 col=1 word=STIFF
+  V row=1 col=1 word=BASTA
+  V row=0 col=3 word=KARIN
+  V row=1 col=5 word=TAFFY
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-5B7A9369
+TOTAL_TRUE: 19   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,1  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,4  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=19):
+  (0,1) (0,3) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#.#.#.
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+.......
+
+SOLUTION #1:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AFTRA
+  H row=4 col=1 word=SATAY
+  V row=0 col=1 word=BAKES
+  V row=0 col=3 word=STINT
+  V row=0 col=5 word=TAFFY
+
+SOLUTION #2:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AKATA
+  H row=4 col=1 word=FASTS
+  V row=0 col=1 word=BANFF
+  V row=0 col=3 word=FAIRS
+  V row=0 col=5 word=YATES
+
+SOLUTION #3:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AKATA
+  H row=4 col=1 word=FASTS
+  V row=0 col=1 word=BANFF
+  V row=0 col=3 word=FARIS
+  V row=0 col=5 word=YATES
+
+SOLUTION #4:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AKATA
+  H row=4 col=1 word=FASTS
+  V row=0 col=1 word=BANFF
+  V row=0 col=3 word=FATES
+  V row=0 col=5 word=YARIS
+
+SOLUTION #5:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AKATA
+  H row=4 col=1 word=NASTY
+  V row=0 col=1 word=BASIN
+  V row=0 col=3 word=FARES
+  V row=0 col=5 word=TAFFY
+
+SOLUTION #6:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ANITA
+  H row=4 col=1 word=SATAY
+  V row=0 col=1 word=BAKES
+  V row=0 col=3 word=FIRST
+  V row=0 col=5 word=TAFFY
+
+SOLUTION #7:
+
+PHRASE: Breakfast at Tiffany's
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ANITA
+  H row=4 col=1 word=SAYST
+  V row=0 col=1 word=FAKES
+  V row=0 col=3 word=FIFTY
+  V row=0 col=5 word=RABAT
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 50
+Solved grids: 45
+Total unique solutions: 187
+Elapsed: 205.50s

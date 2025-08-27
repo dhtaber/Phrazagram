@@ -1,0 +1,143 @@
+PHRASE: you cant always get what you want
+CLEAN_LETTERS: YOUCANTALWAYSGETWHATYOUWANT  (len=27)
+GRID RANKING: duplicate squares (desc); tie-break seed=0
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-87EF4B9E
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=1  C=0–6  LEN=7
+  [S2] H  R=3  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=0  R=0–5  LEN=6
+  [S5] V  C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,0 ↔ S4,1  @ (1,0)
+  S1,6 ↔ S5,1  @ (1,6)
+  S2,0 ↔ S4,3  @ (3,0)
+  S2,6 ↔ S5,3  @ (3,6)
+  S3,0 ↔ S4,5  @ (5,0)
+  S3,6 ↔ S5,5  @ (5,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#     #
+#######
+#     #
+#######
+#     #
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-7E5E2DB9
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=1  C=0–6  LEN=7
+  [S2] H  R=3  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=1  R=0–5  LEN=6
+  [S5] V  C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,1 ↔ S4,1  @ (1,1)
+  S1,5 ↔ S5,1  @ (1,5)
+  S2,1 ↔ S4,3  @ (3,1)
+  S2,5 ↔ S5,3  @ (3,5)
+  S3,1 ↔ S4,5  @ (5,1)
+  S3,5 ↔ S5,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+ #   # 
+#######
+ #   # 
+#######
+ #   # 
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-51740462
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=2  C=0–6  LEN=7
+  [S3] H  R=4  C=0–6  LEN=7
+  [S4] V  C=1  R=0–5  LEN=6
+  [S5] V  C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,1 ↔ S4,0  @ (0,1)
+  S1,5 ↔ S5,0  @ (0,5)
+  S2,1 ↔ S4,2  @ (2,1)
+  S2,5 ↔ S5,2  @ (2,5)
+  S3,1 ↔ S4,4  @ (4,1)
+  S3,5 ↔ S5,4  @ (4,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII:
+#######
+ #   # 
+#######
+ #   # 
+#######
+ #   # 
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-05708AD3
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+
+SLOTS (5 total):
+  [S1] H  R=0  C=0–6  LEN=7
+  [S2] H  R=3  C=0–6  LEN=7
+  [S3] H  R=5  C=0–6  LEN=7
+  [S4] V  C=1  R=0–5  LEN=6
+  [S5] V  C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  S1,1 ↔ S4,0  @ (0,1)
+  S1,5 ↔ S5,0  @ (0,5)
+  S2,1 ↔ S4,3  @ (3,1)
+  S2,5 ↔ S5,3  @ (3,5)
+  S3,1 ↔ S4,5  @ (5,1)
+  S3,5 ↔ S5,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII:
+#######
+ #   # 
+ #   # 
+#######
+ #   # 
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 4
+Solved grids: 0
+Total unique solutions: 0
+Elapsed: 2.99s

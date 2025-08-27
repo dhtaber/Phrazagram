@@ -1,0 +1,1507 @@
+PHRASE: Tom Petty and the Heartbreakers
+CLEAN_LETTERS: TOMPETTYANDTHEHEARTBREAKERS  (len=27)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-7CD94637
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (1,0)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,6 ↔ V6,0  @ (1,6)
+  H2,0 ↔ V4,2  @ (3,0)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,6 ↔ V6,2  @ (3,6)
+  H3,0 ↔ V4,4  @ (5,0)
+  H3,3 ↔ V5,4  @ (5,3)
+  H3,6 ↔ V6,4  @ (5,6)
+
+CELLS_TRUE (count=27):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+#..#..#
+#######
+#..#..#
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H5  |  FAMILY 3H3V  |  GRID_ID: W7H5-3H3V-F986E615
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-6677FAF8
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=5
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,0 ↔ V4,4  @ (4,1)
+  H3,2 ↔ V5,4  @ (4,3)
+  H3,4 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-69E4FB05
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,1  @ (1,1)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,5 ↔ V6,1  @ (1,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,5 ↔ V6,3  @ (3,5)
+  H3,0 ↔ V4,5  @ (5,1)
+  H3,2 ↔ V5,4  @ (5,3)
+  H3,4 ↔ V6,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+#######
+.#.#.#.
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BARONET
+  H row=3 col=0 word=SEETHED
+  H row=5 col=1 word=HYATT
+  V row=0 col=1 word=MAKETH
+  V row=1 col=3 word=ORTEA
+  V row=0 col=5 word=REPEAT
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BATHMAT
+  H row=3 col=0 word=THANKED
+  H row=5 col=1 word=REYES
+  V row=0 col=1 word=RATHER
+  V row=1 col=3 word=HONEY
+  V row=0 col=5 word=TAPERS
+
+SOLUTION #3:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BATTERY
+  H row=3 col=0 word=REPENTS
+  H row=5 col=1 word=HEARD
+  V row=0 col=1 word=MAKETH
+  V row=1 col=3 word=THETA
+  V row=0 col=5 word=ORATED
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-30114D70
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,1  @ (1,1)
+  H1,2 ↔ V5,0  @ (1,3)
+  H1,4 ↔ V6,1  @ (1,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,5 ↔ V6,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,3 ↔ V5,4  @ (5,3)
+  H3,5 ↔ V6,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,1) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=ABNER
+  H row=3 col=0 word=ATTEMPT
+  H row=5 col=0 word=EARSHOT
+  V row=0 col=1 word=EARTHA
+  V row=1 col=3 word=NEEDS
+  V row=0 col=5 word=KRYPTO
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=THERE
+  H row=3 col=0 word=BATHMAT
+  H row=5 col=0 word=KEYNOTE
+  V row=0 col=1 word=ETRADE
+  V row=1 col=3 word=ETHAN
+  V row=0 col=5 word=REPAST
+
+SOLUTION #3:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AETNA
+  H row=3 col=0 word=BETROTH
+  H row=5 col=0 word=THREADY
+  V row=0 col=1 word=MAKETH
+  V row=1 col=3 word=TERSE
+  V row=0 col=5 word=PARTED
+
+SOLUTION #4:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=1 word=AETNA
+  H row=3 col=0 word=BETROTH
+  H row=5 col=0 word=THREADY
+  V row=0 col=1 word=MAKETH
+  V row=1 col=3 word=TERRE
+  V row=0 col=5 word=PASTED
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-505896EB
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+#######
+.#.#.#.
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-8B62F00B
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5, R=5:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,1  @ (1,1)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,5 ↔ V6,1  @ (1,5)
+  H2,0 ↔ V4,3  @ (3,1)
+  H2,2 ↔ V5,2  @ (3,3)
+  H2,4 ↔ V6,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,3 ↔ V5,4  @ (5,3)
+  H3,5 ↔ V6,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BARONET
+  H row=3 col=1 word=TRAMP
+  H row=5 col=0 word=TRASHED
+  V row=0 col=1 word=HATTER
+  V row=1 col=3 word=OKAYS
+  V row=0 col=5 word=TEEPEE
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BARONET
+  H row=3 col=1 word=THARP
+  H row=5 col=0 word=TRASHED
+  V row=0 col=1 word=MATTER
+  V row=1 col=3 word=OKAYS
+  V row=0 col=5 word=TEEPEE
+
+SOLUTION #3:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BATHMAT
+  H row=3 col=1 word=TENET
+  H row=5 col=0 word=PRAYERS
+  V row=0 col=1 word=DARTER
+  V row=1 col=3 word=HONKY
+  V row=0 col=5 word=HATTER
+
+SOLUTION #4:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BATTERY
+  H row=3 col=1 word=PEETA
+  H row=5 col=0 word=TRASHED
+  V row=0 col=1 word=HAMPER
+  V row=1 col=3 word=TREKS
+  V row=0 col=5 word=ORNATE
+
+SOLUTION #5:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=BAYONET
+  H row=3 col=1 word=PRATT
+  H row=5 col=0 word=TREADER
+  V row=0 col=1 word=HAMPER
+  V row=1 col=3 word=OSAKA
+  V row=0 col=5 word=TEETHE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-92EFF467
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (1,1)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,5 ↔ V6,0  @ (1,5)
+  H2,1 ↔ V4,2  @ (3,1)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,5 ↔ V6,2  @ (3,5)
+  H3,1 ↔ V4,4  @ (5,1)
+  H3,3 ↔ V5,4  @ (5,3)
+  H3,5 ↔ V6,4  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,3) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+#######
+.#.#.#.
+#######
+.#.#.#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-FA18B9B5
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,1)
+  H1,2 ↔ V5,0  @ (0,3)
+  H1,4 ↔ V6,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,5 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=27):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,1) (1,3) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+.#.#.#.
+#######
+.#.#.#.
+#######
+.#...#.
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=POETS
+  H row=2 col=0 word=BATHMAT
+  H row=4 col=0 word=HEARKEN
+  V row=0 col=1 word=PRAYED
+  V row=0 col=3 word=ETHER
+  V row=0 col=5 word=SEATER
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=POETS
+  H row=2 col=0 word=BATHMAT
+  H row=4 col=0 word=HEARKEN
+  V row=0 col=1 word=PRAYER
+  V row=0 col=3 word=ETHER
+  V row=0 col=5 word=SEATED
+
+SOLUTION #3:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=SKEET
+  H row=2 col=0 word=BATHMAT
+  H row=4 col=0 word=REENTER
+  V row=0 col=1 word=SOAPED
+  V row=0 col=3 word=ETHAN
+  V row=0 col=5 word=THAYER
+
+SOLUTION #4:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=HTTPS
+  H row=2 col=0 word=BATTERY
+  H row=4 col=0 word=HEADMAN
+  V row=0 col=1 word=HEARER
+  V row=0 col=3 word=TOTED
+  V row=0 col=5 word=STREAK
+
+SOLUTION #5:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=SKORT
+  H row=2 col=0 word=BATTERY
+  H row=4 col=0 word=HEADMAN
+  V row=0 col=1 word=SEATER
+  V row=0 col=3 word=OPTED
+  V row=0 col=5 word=THREAT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-FF35A9FC
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=5, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=3  R=0–4  LEN=5
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,5 ↔ V6,0  @ (0,5)
+  H2,0 ↔ V4,2  @ (2,1)
+  H2,2 ↔ V5,2  @ (2,3)
+  H2,4 ↔ V6,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,5 ↔ V6,4  @ (4,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,3) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-1A62A77E
+TOTAL_TRUE: 27   INTERSECTIONS: 9   DUP_SQUARES: 9
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–4  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,0)
+  H1,3 ↔ V5,0  @ (0,3)
+  H1,6 ↔ V6,0  @ (0,6)
+  H2,0 ↔ V4,2  @ (2,0)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,6 ↔ V6,2  @ (2,6)
+  H3,0 ↔ V4,4  @ (4,0)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,6 ↔ V6,4  @ (4,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#..#..#
+#######
+#..#..#
+#######
+.......
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-90559D22
+TOTAL_TRUE: 27   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=5
+
+SLOTS (6 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=1–5  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=3  R=1–5  LEN=5
+  [V] C=6  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,1  @ (1,0)
+  H1,3 ↔ V5,0  @ (1,3)
+  H1,6 ↔ V6,1  @ (1,6)
+  H2,0 ↔ V4,3  @ (3,0)
+  H2,3 ↔ V5,2  @ (3,3)
+  H2,6 ↔ V6,3  @ (3,6)
+  H3,2 ↔ V5,4  @ (5,3)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,3) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,3) (4,6) (5,1) (5,2) (5,3) (5,4) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#..#..#
+#######
+#..#..#
+.#####.
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABDOMEN
+  H row=3 col=0 word=THEATER
+  H row=5 col=1 word=TEETH
+  V row=0 col=0 word=PARTY
+  V row=1 col=3 word=ORATE
+  V row=0 col=6 word=SNARK
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABDOMEN
+  H row=3 col=0 word=THEATER
+  H row=5 col=1 word=THERE
+  V row=0 col=0 word=PATTY
+  V row=1 col=3 word=ORATE
+  V row=0 col=6 word=SNARK
+
+SOLUTION #3:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABDOMEN
+  H row=3 col=0 word=THEATER
+  H row=5 col=1 word=PRATT
+  V row=0 col=0 word=EARTH
+  V row=1 col=3 word=OSAKA
+  V row=0 col=6 word=ENTRY
+
+SOLUTION #4:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABETTED
+  H row=3 col=0 word=REPENTS
+  H row=5 col=1 word=KMART
+  V row=0 col=0 word=HARRY
+  V row=1 col=3 word=THETA
+  V row=0 col=6 word=ODESA
+
+SOLUTION #5:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=ABETTER
+  H row=3 col=0 word=AMHERST
+  H row=5 col=1 word=PAYED
+  V row=0 col=0 word=KARAT
+  V row=1 col=3 word=TEENY
+  V row=0 col=6 word=TROTH
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H3V  |  GRID_ID: W7H6-3H3V-F6EE7C6B
+TOTAL_TRUE: 27   INTERSECTIONS: 7   DUP_SQUARES: 7
+H-LENGTHS BY ROW: R=0:LEN=5, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (6 total):
+  [H] R=0  C=1–5  LEN=5
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=1–5  LEN=5
+  [V] C=3  R=0–4  LEN=5
+  [V] C=6  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V5,0  @ (0,3)
+  H2,0 ↔ V4,1  @ (2,0)
+  H2,3 ↔ V5,2  @ (2,3)
+  H2,6 ↔ V6,1  @ (2,6)
+  H3,0 ↔ V4,3  @ (4,0)
+  H3,3 ↔ V5,4  @ (4,3)
+  H3,6 ↔ V6,3  @ (4,6)
+
+CELLS_TRUE (count=27):
+  (0,1) (0,2) (0,3) (0,4) (0,5) (1,0) (1,3) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,3) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#####.
+#..#..#
+#######
+#..#..#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=KATHY
+  H row=2 col=0 word=ABDOMEN
+  H row=4 col=0 word=TAPSTER
+  V row=1 col=0 word=EARTH
+  V row=0 col=3 word=TROTS
+  V row=1 col=6 word=ENTRE
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=KHMER
+  H row=2 col=0 word=ABETTER
+  H row=4 col=0 word=DEPORTS
+  V row=1 col=0 word=TANDY
+  V row=0 col=3 word=MATEO
+  V row=1 col=6 word=TRASH
+
+SOLUTION #3:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=KHMER
+  H row=2 col=0 word=ABETTER
+  H row=4 col=0 word=DORSETT
+  V row=1 col=0 word=HANDY
+  V row=0 col=3 word=MATES
+  V row=1 col=6 word=PRATT
+
+SOLUTION #4:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=KHMER
+  H row=2 col=0 word=ABETTER
+  H row=4 col=0 word=DORSETT
+  V row=1 col=0 word=HAYDN
+  V row=0 col=3 word=MATES
+  V row=1 col=6 word=PRATT
+
+SOLUTION #5:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=1 word=SHARK
+  H row=2 col=0 word=ABETTER
+  H row=4 col=0 word=EMPATHY
+  V row=1 col=0 word=DATER
+  V row=0 col=3 word=AETNA
+  V row=1 col=6 word=TROYE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-87EF4B9E
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,1  @ (1,0)
+  H1,6 ↔ V5,1  @ (1,6)
+  H2,0 ↔ V4,3  @ (3,0)
+  H2,6 ↔ V5,3  @ (3,6)
+  H3,0 ↔ V4,5  @ (5,0)
+  H3,6 ↔ V5,5  @ (5,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,6) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,0) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,6) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.....#
+#######
+#.....#
+#######
+#.....#
+#######
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AMPHORA
+  H row=3 col=0 word=HYDRANT
+  H row=5 col=0 word=SKEETER
+  V row=0 col=0 word=BATHES
+  V row=0 col=6 word=TATTER
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-7E5E2DB9
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,1  @ (1,1)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,5 ↔ V5,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#...#.
+#######
+.#...#.
+#######
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=1 col=0 word=AEROBAT
+  H row=3 col=0 word=HEATHEN
+  H row=5 col=0 word=TEMPEST
+  V row=0 col=1 word=REDEYE
+  V row=0 col=5 word=TAKERS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-51740462
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,1 ↔ V4,4  @ (4,1)
+  H3,5 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,1) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+#######
+.#...#.
+#######
+.#...#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-05708AD3
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,3  @ (3,1)
+  H2,5 ↔ V5,3  @ (3,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,1) (2,5) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+.#...#.
+#######
+.#...#.
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-CB9370A9
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=1  R=0–5  LEN=6
+  [V] C=5  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (0,1)
+  H1,5 ↔ V5,0  @ (0,5)
+  H2,1 ↔ V4,2  @ (2,1)
+  H2,5 ↔ V5,2  @ (2,5)
+  H3,1 ↔ V4,5  @ (5,1)
+  H3,5 ↔ V5,5  @ (5,5)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,5) (4,1) (4,5) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+.#...#.
+#######
+.#...#.
+.#...#.
+#######
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AMHERST
+  H row=2 col=0 word=BREATHY
+  H row=5 col=0 word=KNOTTED
+  V row=0 col=1 word=MARTEN
+  V row=0 col=5 word=SPHERE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-EA932CF4
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+#######
+..#.#..
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-9369B015
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,2  @ (2,2)
+  H2,4 ↔ V5,2  @ (2,4)
+  H3,2 ↔ V4,4  @ (4,2)
+  H3,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,2) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+#######
+..#.#..
+#######
+..#.#..
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ABETTER
+  H row=2 col=0 word=KATHRYN
+  H row=4 col=0 word=PREDATE
+  V row=0 col=2 word=ESTEEM
+  V row=0 col=4 word=THROAT
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ABETTOR
+  H row=2 col=0 word=KATHRYN
+  H row=4 col=0 word=PREDATE
+  V row=0 col=2 word=ESTEEM
+  V row=0 col=4 word=THREAT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-5D82C1BC
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=2:LEN=7, R=4:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V4,0  @ (0,0)
+  H1,6 ↔ V5,0  @ (0,6)
+  H2,0 ↔ V4,2  @ (2,0)
+  H2,6 ↔ V5,2  @ (2,6)
+  H3,0 ↔ V4,4  @ (4,0)
+  H3,6 ↔ V5,4  @ (4,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,6) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,0) (3,6) (4,0) (4,1) (4,2) (4,3) (4,4) (4,5) (4,6) (5,0) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.....#
+#######
+#.....#
+#######
+#.....#
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ABETTED
+  H row=2 col=0 word=EMPATHY
+  H row=4 col=0 word=HONKERS
+  V row=0 col=0 word=ARETHA
+  V row=0 col=6 word=DRYEST
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-D8644AEC
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,1  @ (1,4)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=27):
+  (0,2) (0,4) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+..#.#..
+#######
+..#.#..
+#######
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 3H2V  |  GRID_ID: W7H6-3H2V-0FCB615F
+TOTAL_TRUE: 27   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=7, R=3:LEN=7, R=5:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [H] R=3  C=0–6  LEN=7
+  [H] R=5  C=0–6  LEN=7
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+  H3,2 ↔ V4,5  @ (5,2)
+  H3,4 ↔ V5,5  @ (5,4)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,2) (1,4) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+..#.#..
+..#.#..
+#######
+..#.#..
+#######
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-B8A5F33D
+TOTAL_TRUE: 27   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=3:LEN=7
+
+SLOTS (5 total):
+  [H] R=3  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,3  @ (3,0)
+  H1,2 ↔ V3,3  @ (3,2)
+  H1,4 ↔ V4,3  @ (3,4)
+  H1,6 ↔ V5,3  @ (3,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,2) (0,4) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,1) (3,2) (3,3) (3,4) (3,5) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#######
+#.#.#.#
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=ABETTED
+  V row=0 col=0 word=EMPATH
+  V row=0 col=2 word=HATERS
+  V row=0 col=4 word=KNOTTY
+  V row=0 col=6 word=READER
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=ABETTED
+  V row=0 col=0 word=ETHANS
+  V row=0 col=2 word=MAKETH
+  V row=0 col=4 word=POETRY
+  V row=0 col=6 word=TRADER
+
+SOLUTION #3:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=ABETTER
+  V row=0 col=0 word=ARRANT
+  V row=0 col=2 word=HAKEEM
+  V row=0 col=4 word=PETTED
+  V row=0 col=6 word=SHORTY
+
+SOLUTION #4:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=ABETTER
+  V row=0 col=0 word=ARRAYS
+  V row=0 col=2 word=MAKETH
+  V row=0 col=4 word=NETTED
+  V row=0 col=6 word=THORPE
+
+SOLUTION #5:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=3 col=0 word=ABETTER
+  V row=0 col=0 word=ARRAYS
+  V row=0 col=2 word=MAKETH
+  V row=0 col=4 word=PETTED
+  V row=0 col=6 word=THORNE
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 1H4V  |  GRID_ID: W7H6-1H4V-48D43A86
+TOTAL_TRUE: 27   INTERSECTIONS: 4   DUP_SQUARES: 4
+H-LENGTHS BY ROW: R=0:LEN=7
+
+SLOTS (5 total):
+  [H] R=0  C=0–6  LEN=7
+  [V] C=0  R=0–5  LEN=6
+  [V] C=2  R=0–5  LEN=6
+  [V] C=4  R=0–5  LEN=6
+  [V] C=6  R=0–5  LEN=6
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V2,0  @ (0,0)
+  H1,2 ↔ V3,0  @ (0,2)
+  H1,4 ↔ V4,0  @ (0,4)
+  H1,6 ↔ V5,0  @ (0,6)
+
+CELLS_TRUE (count=27):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (0,5) (0,6) (1,0) (1,2) (1,4) (1,6) (2,0) (2,2) (2,4) (2,6) (3,0) (3,2) (3,4) (3,6) (4,0) (4,2) (4,4) (4,6) (5,0) (5,2) (5,4) (5,6)
+
+ASCII (monospace): '#' filled, '·' empty
+#######
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+#.#.#.#
+
+SOLUTION #1:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=ABDOMEN
+  V row=0 col=0 word=ARTERY
+  V row=0 col=2 word=DEPTHS
+  V row=0 col=4 word=MAKETH
+  V row=0 col=6 word=NATTER
+
+SOLUTION #2:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AMHERST
+  V row=0 col=0 word=APATHY
+  V row=0 col=2 word=HATRED
+  V row=0 col=4 word=ROTTEN
+  V row=0 col=6 word=TREBEK
+
+SOLUTION #3:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AMHERST
+  V row=0 col=0 word=APATHY
+  V row=0 col=2 word=HATTER
+  V row=0 col=4 word=RODENT
+  V row=0 col=6 word=TREBEK
+
+SOLUTION #4:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AMHERST
+  V row=0 col=0 word=APATHY
+  V row=0 col=2 word=HORNET
+  V row=0 col=4 word=RATTED
+  V row=0 col=6 word=TREBEK
+
+SOLUTION #5:
+
+PHRASE: Tom Petty and the Heartbreakers
+
+WIDTH: 7
+HEIGHT: 6
+
+WORDS:
+  H row=0 col=0 word=AMHERST
+  V row=0 col=0 word=APATHY
+  V row=0 col=2 word=HOTTER
+  V row=0 col=4 word=RANTED
+  V row=0 col=6 word=TREBEK
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 25
+Solved grids: 13
+Total unique solutions: 43
+Elapsed: 332.84s

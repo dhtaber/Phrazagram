@@ -1,0 +1,518 @@
+PHRASE: war what is it good for
+CLEAN_LETTERS: WARWHATISITGOODFOR  (len=18)
+GRID RANKING: duplicate squares (desc); tie-break seed=0; total words mode=5&6
+Dictionary: C:\Alloquest_Photos\Word_Game\my-word-game\tools\latest_3.txt
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-2ECF3678
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=0–4  LEN=5
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (1,1)
+  H1,2 ↔ V4,0  @ (1,3)
+  H1,4 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,4  @ (4,1)
+  H2,2 ↔ V4,3  @ (4,3)
+  H2,4 ↔ V5,4  @ (4,5)
+
+CELLS_TRUE (count=18):
+  (0,1) (0,5) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,3) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+.#####.
+.#.#.#.
+.#.#.#.
+.#####.
+.......
+
+SOLUTION #1:
+  H  R=1  C=1–5  LEN=5   WORD=HAIFA
+  H  R=4  C=1–5  LEN=5   WORD=WORDS
+  V  C=1  R=0–4  LEN=5   WORD=THROW
+  V  C=3  R=1–4  LEN=4   WORD=IGOR
+  V  C=5  R=0–4  LEN=5   WORD=WAITS
+
+SOLUTION #2:
+  H  R=1  C=1–5  LEN=5   WORD=IDAHO
+  H  R=4  C=1–5  LEN=5   WORD=RITAS
+  V  C=1  R=0–4  LEN=5   WORD=RIGOR
+  V  C=3  R=1–4  LEN=4   WORD=ATWT
+  V  C=5  R=0–4  LEN=5   WORD=WOOFS
+
+SOLUTION #3:
+  H  R=1  C=1–5  LEN=5   WORD=RATIO
+  H  R=4  C=1–5  LEN=5   WORD=THAWS
+  V  C=1  R=0–4  LEN=5   WORD=GRIFT
+  V  C=3  R=1–4  LEN=4   WORD=TORA
+  V  C=5  R=0–4  LEN=5   WORD=WOODS
+
+SOLUTION #4:
+  H  R=1  C=1–5  LEN=5   WORD=RHODA
+  H  R=4  C=1–5  LEN=5   WORD=TOROS
+  V  C=1  R=0–4  LEN=5   WORD=GRIFT
+  V  C=3  R=1–4  LEN=4   WORD=OWAR
+  V  C=5  R=0–4  LEN=5   WORD=WAITS
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-DD6FF192
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=1–5  LEN=5
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–5  LEN=5
+  [V] C=3  R=2–5  LEN=4
+  [V] C=5  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,1  @ (2,1)
+  H1,2 ↔ V4,0  @ (2,3)
+  H1,4 ↔ V5,1  @ (2,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,2  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=18):
+  (1,1) (1,5) (2,1) (2,2) (2,3) (2,4) (2,5) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#...#.
+.#####.
+.#.#.#.
+.#####.
+.#.#.#.
+
+SOLUTION #1:
+  H  R=2  C=1–5  LEN=5   WORD=AARGH
+  H  R=4  C=1–5  LEN=5   WORD=DITTO
+  V  C=1  R=1–5  LEN=5   WORD=WARDS
+  V  C=3  R=2–5  LEN=4   WORD=ROTI
+  V  C=5  R=1–5  LEN=5   WORD=WHOOF
+
+SOLUTION #2:
+  H  R=2  C=1–5  LEN=5   WORD=ARTOO
+  H  R=4  C=1–5  LEN=5   WORD=TRIAD
+  V  C=1  R=1–5  LEN=5   WORD=FAITH
+  V  C=3  R=2–5  LEN=4   WORD=TWIG
+  V  C=5  R=1–5  LEN=5   WORD=WOODS
+
+SOLUTION #3:
+  H  R=2  C=1–5  LEN=5   WORD=ATARI
+  H  R=4  C=1–5  LEN=5   WORD=TORSO
+  V  C=1  R=1–5  LEN=5   WORD=FAITH
+  V  C=3  R=2–5  LEN=4   WORD=AGRO
+  V  C=5  R=1–5  LEN=5   WORD=WIDOW
+
+SOLUTION #4:
+  H  R=2  C=1–5  LEN=5   WORD=HAGIA
+  H  R=4  C=1–5  LEN=5   WORD=ODORS
+  V  C=1  R=1–5  LEN=5   WORD=THROW
+  V  C=3  R=2–5  LEN=4   WORD=GOOF
+  V  C=5  R=1–5  LEN=5   WORD=WAIST
+
+SOLUTION #5:
+  H  R=2  C=1–5  LEN=5   WORD=RATIO
+  H  R=4  C=1–5  LEN=5   WORD=TRIAD
+  V  C=1  R=1–5  LEN=5   WORD=FROTH
+  V  C=3  R=2–5  LEN=4   WORD=TWIG
+  V  C=5  R=1–5  LEN=5   WORD=WOODS
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-FAF5721F
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=5, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–4  LEN=5
+  [H] R=4  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=1–4  LEN=4
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (2,0)
+  H1,2 ↔ V4,1  @ (2,2)
+  H1,4 ↔ V5,2  @ (2,4)
+  H2,0 ↔ V3,4  @ (4,0)
+  H2,2 ↔ V4,3  @ (4,2)
+  H2,4 ↔ V5,4  @ (4,4)
+
+CELLS_TRUE (count=18):
+  (0,0) (0,4) (1,0) (1,2) (1,4) (2,0) (2,1) (2,2) (2,3) (2,4) (3,0) (3,2) (3,4) (4,0) (4,1) (4,2) (4,3) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#...#
+#.#.#
+#####
+#.#.#
+#####
+.....
+
+SOLUTION #1:
+  H  R=2  C=0–4  LEN=5   WORD=AWAIT
+  H  R=4  C=0–4  LEN=5   WORD=FOOTS
+  V  C=0  R=0–4  LEN=5   WORD=DWARF
+  V  C=2  R=1–4  LEN=4   WORD=IAGO
+  V  C=4  R=0–4  LEN=5   WORD=ROTHS
+
+SOLUTION #2:
+  H  R=2  C=0–4  LEN=5   WORD=AWAIT
+  H  R=4  C=0–4  LEN=5   WORD=FOTOS
+  V  C=0  R=0–4  LEN=5   WORD=DWARF
+  V  C=2  R=1–4  LEN=4   WORD=GAIT
+  V  C=4  R=0–4  LEN=5   WORD=ROTHS
+
+SOLUTION #3:
+  H  R=2  C=0–4  LEN=5   WORD=GORDO
+  H  R=4  C=0–4  LEN=5   WORD=TATAS
+  V  C=0  R=0–4  LEN=5   WORD=RIGHT
+  V  C=2  R=1–4  LEN=4   WORD=WRIT
+  V  C=4  R=0–4  LEN=5   WORD=WOOFS
+
+----------------------------------------------------------------
+
+=== GRID W6×H6  |  FAMILY 3H2V  |  GRID_ID: W6H6-3H2V-8D026A42
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=6, R=3:LEN=4, R=5:LEN=4
+
+SLOTS (5 total):
+  [H] R=1  C=0–5  LEN=6
+  [H] R=3  C=1–4  LEN=4
+  [H] R=5  C=1–4  LEN=4
+  [V] C=1  R=1–5  LEN=5
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V4,0  @ (1,1)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V4,2  @ (3,1)
+  H2,3 ↔ V5,2  @ (3,4)
+  H3,0 ↔ V4,4  @ (5,1)
+  H3,3 ↔ V5,4  @ (5,4)
+
+CELLS_TRUE (count=18):
+  (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (2,1) (2,4) (3,1) (3,2) (3,3) (3,4) (4,1) (4,4) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+......
+######
+.#..#.
+.####.
+.#..#.
+.####.
+
+SOLUTION #1:
+  H  R=1  C=0–5  LEN=6   WORD=GROWTH
+  H  R=3  C=1–4  LEN=4   WORD=IOWA
+  H  R=5  C=1–4  LEN=4   WORD=SOFT
+  V  C=1  R=1–5  LEN=5   WORD=RAIDS
+  V  C=4  R=1–5  LEN=5   WORD=TRAIT
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-03AC6978
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=3:LEN=5, R=5:LEN=5
+
+SLOTS (5 total):
+  [H] R=3  C=0–4  LEN=5
+  [H] R=5  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=2–5  LEN=4
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,2  @ (3,0)
+  H1,2 ↔ V4,1  @ (3,2)
+  H1,4 ↔ V5,2  @ (3,4)
+  H2,0 ↔ V3,4  @ (5,0)
+  H2,2 ↔ V4,3  @ (5,2)
+  H2,4 ↔ V5,4  @ (5,4)
+
+CELLS_TRUE (count=18):
+  (1,0) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,2) (4,4) (5,0) (5,1) (5,2) (5,3) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+.....
+#...#
+#.#.#
+#####
+#.#.#
+#####
+
+SOLUTION #1:
+  H  R=3  C=0–4  LEN=5   WORD=AWAIT
+  H  R=5  C=0–4  LEN=5   WORD=FOOTS
+  V  C=0  R=1–5  LEN=5   WORD=DWARF
+  V  C=2  R=2–5  LEN=4   WORD=IAGO
+  V  C=4  R=1–5  LEN=5   WORD=ROTHS
+
+SOLUTION #2:
+  H  R=3  C=0–4  LEN=5   WORD=AWAIT
+  H  R=5  C=0–4  LEN=5   WORD=FOTOS
+  V  C=0  R=1–5  LEN=5   WORD=DWARF
+  V  C=2  R=2–5  LEN=4   WORD=GAIT
+  V  C=4  R=1–5  LEN=5   WORD=ROTHS
+
+SOLUTION #3:
+  H  R=3  C=0–4  LEN=5   WORD=GORDO
+  H  R=5  C=0–4  LEN=5   WORD=TATAS
+  V  C=0  R=1–5  LEN=5   WORD=RIGHT
+  V  C=2  R=2–5  LEN=4   WORD=WRIT
+  V  C=4  R=1–5  LEN=5   WORD=WOOFS
+
+----------------------------------------------------------------
+
+=== GRID W5×H6  |  FAMILY 2H3V  |  GRID_ID: W5H6-2H3V-2FB12094
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=1–5  LEN=5
+  [V] C=2  R=0–3  LEN=4
+  [V] C=4  R=1–5  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (1,0)
+  H1,2 ↔ V4,1  @ (1,2)
+  H1,4 ↔ V5,0  @ (1,4)
+  H2,0 ↔ V3,2  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,2  @ (3,4)
+
+CELLS_TRUE (count=18):
+  (0,2) (1,0) (1,1) (1,2) (1,3) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,4) (5,0) (5,4)
+
+ASCII (monospace): '#' filled, '·' empty
+..#..
+#####
+#.#.#
+#####
+#...#
+#...#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-B7BFC29A
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=1:LEN=7, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=1  C=0–6  LEN=7
+  [H] R=3  C=1–5  LEN=5
+  [V] C=1  R=0–3  LEN=4
+  [V] C=3  R=1–4  LEN=4
+  [V] C=5  R=0–3  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (1,1)
+  H1,3 ↔ V4,0  @ (1,3)
+  H1,5 ↔ V5,1  @ (1,5)
+  H2,0 ↔ V3,3  @ (3,1)
+  H2,2 ↔ V4,2  @ (3,3)
+  H2,4 ↔ V5,3  @ (3,5)
+
+CELLS_TRUE (count=18):
+  (0,1) (0,5) (1,0) (1,1) (1,2) (1,3) (1,4) (1,5) (1,6) (2,1) (2,3) (2,5) (3,1) (3,2) (3,3) (3,4) (3,5) (4,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.#...#.
+#######
+.#.#.#.
+.#####.
+...#...
+.......
+
+SOLUTION #1:
+  H  R=1  C=0–6  LEN=7   WORD=TOSHIRO
+  H  R=3  C=1–5  LEN=5   WORD=DRAFT
+  V  C=1  R=0–3  LEN=4   WORD=WOOD
+  V  C=3  R=1–4  LEN=4   WORD=HAAG
+  V  C=5  R=0–3  LEN=4   WORD=WRIT
+
+SOLUTION #2:
+  H  R=1  C=0–6  LEN=7   WORD=WARTHOG
+  H  R=3  C=1–5  LEN=5   WORD=DRIFT
+  V  C=1  R=0–3  LEN=4   WORD=SAID
+  V  C=3  R=1–4  LEN=4   WORD=TAIO
+  V  C=5  R=0–3  LEN=4   WORD=WOOT
+
+SOLUTION #3:
+  H  R=1  C=0–6  LEN=7   WORD=WARTHOG
+  H  R=3  C=1–5  LEN=5   WORD=SORTA
+  V  C=1  R=0–3  LEN=4   WORD=FADS
+  V  C=3  R=1–4  LEN=4   WORD=TIRO
+  V  C=5  R=0–3  LEN=4   WORD=IOWA
+
+SOLUTION #4:
+  H  R=1  C=0–6  LEN=7   WORD=WARTHOG
+  H  R=3  C=1–5  LEN=5   WORD=SORTA
+  V  C=1  R=0–3  LEN=4   WORD=FADS
+  V  C=3  R=1–4  LEN=4   WORD=TORI
+  V  C=5  R=0–3  LEN=4   WORD=IOWA
+
+SOLUTION #5:
+  H  R=1  C=0–6  LEN=7   WORD=WARTHOG
+  H  R=3  C=1–5  LEN=5   WORD=SWIFT
+  V  C=1  R=0–3  LEN=4   WORD=DAIS
+  V  C=3  R=1–4  LEN=4   WORD=TAIO
+  V  C=5  R=0–3  LEN=4   WORD=OORT
+
+----------------------------------------------------------------
+
+=== GRID W5×H5  |  FAMILY 2H3V  |  GRID_ID: W5H5-2H3V-6FF8CEB8
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=0:LEN=5, R=3:LEN=5
+
+SLOTS (5 total):
+  [H] R=0  C=0–4  LEN=5
+  [H] R=3  C=0–4  LEN=5
+  [V] C=0  R=0–4  LEN=5
+  [V] C=2  R=0–3  LEN=4
+  [V] C=4  R=0–4  LEN=5
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,0 ↔ V3,0  @ (0,0)
+  H1,2 ↔ V4,0  @ (0,2)
+  H1,4 ↔ V5,0  @ (0,4)
+  H2,0 ↔ V3,3  @ (3,0)
+  H2,2 ↔ V4,3  @ (3,2)
+  H2,4 ↔ V5,3  @ (3,4)
+
+CELLS_TRUE (count=18):
+  (0,0) (0,1) (0,2) (0,3) (0,4) (1,0) (1,2) (1,4) (2,0) (2,2) (2,4) (3,0) (3,1) (3,2) (3,3) (3,4) (4,0) (4,4)
+
+ASCII (monospace): '#' filled, '·' empty
+#####
+#.#.#
+#.#.#
+#####
+#...#
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-7202CE85
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=1–4  LEN=4
+  [V] C=3  R=2–5  LEN=4
+  [V] C=5  R=1–4  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,1  @ (2,1)
+  H1,3 ↔ V4,0  @ (2,3)
+  H1,5 ↔ V5,1  @ (2,5)
+  H2,0 ↔ V3,3  @ (4,1)
+  H2,2 ↔ V4,2  @ (4,3)
+  H2,4 ↔ V5,3  @ (4,5)
+
+CELLS_TRUE (count=18):
+  (1,1) (1,5) (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,3)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.#...#.
+#######
+.#.#.#.
+.#####.
+...#...
+
+SOLUTION #1:
+  H  R=2  C=0–6  LEN=7   WORD=TOSHIRO
+  H  R=4  C=1–5  LEN=5   WORD=DRAFT
+  V  C=1  R=1–4  LEN=4   WORD=WOOD
+  V  C=3  R=2–5  LEN=4   WORD=HAAG
+  V  C=5  R=1–4  LEN=4   WORD=WRIT
+
+SOLUTION #2:
+  H  R=2  C=0–6  LEN=7   WORD=WARTHOG
+  H  R=4  C=1–5  LEN=5   WORD=DRIFT
+  V  C=1  R=1–4  LEN=4   WORD=SAID
+  V  C=3  R=2–5  LEN=4   WORD=TAIO
+  V  C=5  R=1–4  LEN=4   WORD=WOOT
+
+SOLUTION #3:
+  H  R=2  C=0–6  LEN=7   WORD=WARTHOG
+  H  R=4  C=1–5  LEN=5   WORD=SORTA
+  V  C=1  R=1–4  LEN=4   WORD=FADS
+  V  C=3  R=2–5  LEN=4   WORD=TIRO
+  V  C=5  R=1–4  LEN=4   WORD=IOWA
+
+SOLUTION #4:
+  H  R=2  C=0–6  LEN=7   WORD=WARTHOG
+  H  R=4  C=1–5  LEN=5   WORD=SORTA
+  V  C=1  R=1–4  LEN=4   WORD=FADS
+  V  C=3  R=2–5  LEN=4   WORD=TORI
+  V  C=5  R=1–4  LEN=4   WORD=IOWA
+
+SOLUTION #5:
+  H  R=2  C=0–6  LEN=7   WORD=WARTHOG
+  H  R=4  C=1–5  LEN=5   WORD=SWIFT
+  V  C=1  R=1–4  LEN=4   WORD=DAIS
+  V  C=3  R=2–5  LEN=4   WORD=TAIO
+  V  C=5  R=1–4  LEN=4   WORD=OORT
+
+----------------------------------------------------------------
+
+=== GRID W7×H6  |  FAMILY 2H3V  |  GRID_ID: W7H6-2H3V-C4814E7B
+TOTAL_TRUE: 18   INTERSECTIONS: 6   DUP_SQUARES: 6
+H-LENGTHS BY ROW: R=2:LEN=7, R=4:LEN=5
+
+SLOTS (5 total):
+  [H] R=2  C=0–6  LEN=7
+  [H] R=4  C=1–5  LEN=5
+  [V] C=1  R=2–5  LEN=4
+  [V] C=3  R=2–5  LEN=4
+  [V] C=5  R=2–5  LEN=4
+
+INTERSECTIONS (slot,pos ↔ slot,pos @ r,c):
+  H1,1 ↔ V3,0  @ (2,1)
+  H1,3 ↔ V4,0  @ (2,3)
+  H1,5 ↔ V5,0  @ (2,5)
+  H2,0 ↔ V3,2  @ (4,1)
+  H2,2 ↔ V4,2  @ (4,3)
+  H2,4 ↔ V5,2  @ (4,5)
+
+CELLS_TRUE (count=18):
+  (2,0) (2,1) (2,2) (2,3) (2,4) (2,5) (2,6) (3,1) (3,3) (3,5) (4,1) (4,2) (4,3) (4,4) (4,5) (5,1) (5,3) (5,5)
+
+ASCII (monospace): '#' filled, '·' empty
+.......
+.......
+#######
+.#.#.#.
+.#####.
+.#.#.#.
+
+-- No unique solutions found within limits --
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Attempted grids: 10
+Solved grids: 7
+Total unique solutions: 26
+Elapsed: 7.53s

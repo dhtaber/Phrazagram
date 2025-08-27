@@ -1,0 +1,233 @@
+{
+  "version": "1.0",
+  "config": {
+    "default_correct_tiles": 3,
+    "grid_max_width": 7,
+    "grid_max_height": 6
+  },
+  "puzzles": [
+    {
+      "phrase": "It's like déjà vu all over again.",
+      "theme_info": "\"It's déjà vu all over again\" is a famous, albeit redundant, quote, often attributed to Yogi Berra. It means experiencing something that feels incredibly familiar, like a past event, to the point of being repetitive or cyclical. The phrase emphasizes the feeling of déjà vu by adding \"all over again,\" which makes the expression humorous due to its tautological nature.",
+      "grid": {
+        "width": 7,
+        "height": 5
+      },
+      "words": [
+        {
+          "text": "LAGER",
+          "dir": "H",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "text": "ADULATE",
+          "dir": "H",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "text": "EVASION",
+          "dir": "H",
+          "row": 4,
+          "col": 0
+        },
+        {
+          "text": "JAKE",
+          "dir": "V",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "text": "GILLS",
+          "dir": "V",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "text": "VEIN",
+          "dir": "V",
+          "row": 1,
+          "col": 6
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          12,
+          11,
+          7,
+          14,
+          5,
+          13,
+          15,
+          21,
+          2,
+          9,
+          19,
+          4,
+          23,
+          3,
+          1,
+          17,
+          25,
+          10,
+          6,
+          20,
+          8,
+          22,
+          16,
+          18,
+          24
+        ],
+        "correct_positions": [
+          5,
+          20,
+          22
+        ],
+        "min_moves": 17
+      },
+      "id": 1
+    },
+    {
+      "phrase": "(I Can’t Get No) Satisfaction",
+      "theme_info": "STONES goes here about STONES and the quote.    Paragraph goes here about STONES  and the quote.    Paragraph goes here about STONES  and the quote.    Paragraph goes here about STONES  and the quote.    \n\nSTONES  a second paragraph starts here with a link include.",
+      "grid": {
+        "width": 7,
+        "height": 6
+      },
+      "words": [
+        {
+          "text": "CANTINA",
+          "dir": "H",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "text": "TOOTS",
+          "dir": "H",
+          "row": 4,
+          "col": 1
+        },
+        {
+          "text": "FAINTS",
+          "dir": "V",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "text": "TACO",
+          "dir": "V",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "text": "INGEST",
+          "dir": "V",
+          "row": 0,
+          "col": 5
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          20,
+          3,
+          18,
+          9,
+          1,
+          5,
+          7,
+          21,
+          10,
+          14,
+          13,
+          11,
+          16,
+          17,
+          22,
+          15,
+          8,
+          4,
+          2,
+          6,
+          12,
+          19
+        ],
+        "correct_positions": [
+          7,
+          9,
+          20
+        ],
+        "min_moves": 14
+      },
+      "id": 2
+    },
+    {
+      "phrase": "Every dog has his day",
+      "theme_info": "Wall, 34, played most of his career with the Washington Wizards after they made him the first pick in the 2010 draft out of Kentucky. The five-time All-Star point guard finishes his NBA career with averages of 18.7 points and 8.9 assists per game.\n\n\"Today, I'm stepping off of the court, but not away from the game,\" Wall said Tuesday in a social media post. \"Basketball will always be in my life, and new opportunities present themselves. I feel now is the time to walk confidently into my next chapter.\"",
+      "grid": {
+        "width": 5,
+        "height": 5
+      },
+      "words": [
+        {
+          "text": "DODGE",
+          "dir": "H",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "text": "SHAVE",
+          "dir": "H",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "text": "DASH",
+          "dir": "V",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "text": "DIARY",
+          "dir": "V",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "text": "EYES",
+          "dir": "V",
+          "row": 0,
+          "col": 4
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          12,
+          7,
+          15,
+          8,
+          5,
+          11,
+          10,
+          2,
+          9,
+          3,
+          16,
+          13,
+          6,
+          4,
+          1,
+          14,
+          17
+        ],
+        "correct_positions": [
+          5,
+          9,
+          17
+        ],
+        "min_moves": 13
+      },
+      "id": 3
+    }
+  ]
+}

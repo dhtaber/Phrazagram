@@ -1,0 +1,165 @@
+{
+  "version": "1.0",
+  "config": {
+    "default_correct_tiles": 3,
+    "grid_max_width": 7,
+    "grid_max_height": 6
+  },
+  "puzzles": [
+    {
+      "phrase": "It's like déjà vu all over again.",
+      "theme_info": "Paragraph goes here about Yogi and the quote.    Paragraph goes here about Yogi and the quote.    Paragraph goes here about Yogi and the quote.    Paragraph goes here about Yogi and the quote.    \n\na second paragraph starts here with a link include.",
+      "grid": {
+        "width": 7,
+        "height": 5
+      },
+      "words": [
+        {
+          "text": "LAGER",
+          "dir": "H",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "text": "ADULATE",
+          "dir": "H",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "text": "EVASION",
+          "dir": "H",
+          "row": 4,
+          "col": 0
+        },
+        {
+          "text": "JAKE",
+          "dir": "V",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "text": "GILLS",
+          "dir": "V",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "text": "VEIN",
+          "dir": "V",
+          "row": 1,
+          "col": 6
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          4,
+          11,
+          22,
+          7,
+          20,
+          6,
+          15,
+          8,
+          21,
+          2,
+          14,
+          9,
+          19,
+          12,
+          23,
+          3,
+          1,
+          17,
+          25,
+          10,
+          13,
+          5,
+          16,
+          18,
+          24
+        ],
+        "correct_positions": [
+          6,
+          8,
+          14
+        ],
+        "min_moves": 21
+      },
+      "id": 1
+    },
+    {
+      "phrase": "(I Can’t Get No) Satisfaction",
+      "theme_info": "STONES goes here about STONES and the quote.    Paragraph goes here about STONES  and the quote.    Paragraph goes here about STONES  and the quote.    Paragraph goes here about STONES  and the quote.    \n\nSTONES  a second paragraph starts here with a link include.",
+      "grid": {
+        "width": 7,
+        "height": 6
+      },
+      "words": [
+        {
+          "text": "CANTINA",
+          "dir": "H",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "text": "TOOTS",
+          "dir": "H",
+          "row": 4,
+          "col": 1
+        },
+        {
+          "text": "FAINTS",
+          "dir": "V",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "text": "TACO",
+          "dir": "V",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "text": "INGEST",
+          "dir": "V",
+          "row": 0,
+          "col": 5
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          8,
+          2,
+          18,
+          4,
+          5,
+          6,
+          7,
+          16,
+          10,
+          9,
+          11,
+          12,
+          14,
+          15,
+          1,
+          13,
+          17,
+          3,
+          19,
+          20,
+          21,
+          22
+        ],
+        "correct_positions": [
+          9,
+          13,
+          17
+        ],
+        "min_moves": 17
+      },
+      "id": 2
+    }
+  ]
+}

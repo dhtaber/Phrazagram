@@ -1,0 +1,283 @@
+/* page.css */
+:root {
+  --cell-size: clamp(40px, 10vw, 56px);
+  --incorrect-bg: #ECEFF3;
+  --green-bg: #208040;
+  --letter-color: #1C479F;
+  --lattice-color: #C9CED7;
+  --band-color: #F7D448;
+  --number-color: #333;
+}
+
+.word-game {
+  max-width: 100vw;
+  padding: 1rem;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Top Row */
+.top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.game-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.button-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.button-group button {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Level Selector */
+.level-selector {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.level-button {
+  padding: 0.5rem 1.5rem;
+  border: 2px solid #1240A0;
+  background: white;
+  color: #1240A0;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.level-button.active {
+  background: #1240A0;
+  color: white;
+}
+
+/* Top Ribbon */
+.top-ribbon {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-family: 'Courier New', monospace;
+}
+
+.ribbon-line {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.ribbon-char {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.ribbon-char.letter {
+  color: #1240A0;
+}
+
+.ribbon-char.letter.green {
+  background: #208040;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 2px;
+}
+
+.ribbon-char .char {
+  display: block;
+}
+
+.ribbon-char .number {
+  display: block;
+  font-size: 0.75em;
+  color: var(--number-color);
+  margin-top: 6px;
+}
+
+/* Move Counter */
+.move-counter {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.moves-primary {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.moves-secondary {
+  font-size: 0.875rem;
+  color: #666;
+  margin-top: 0.25rem;
+}
+
+/* Grid */
+.grid-container {
+  display: grid;
+  position: relative;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.grid-cell {
+  width: var(--cell-size);
+  height: var(--cell-size);
+  background: var(--incorrect-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+  touch-action: none;
+  transition: transform 0.2s;
+}
+
+.grid-cell.green {
+  background: var(--green-bg);
+  cursor: default;
+}
+
+.grid-cell.dragging {
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.grid-cell.dragging-origin {
+  opacity: 0.3;
+  border: 2px dashed #999;
+}
+
+.grid-cell.drop-target {
+  box-shadow: 0 0 0 3px rgba(18, 64, 160, 0.3);
+}
+
+.cell-letter {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--letter-color);
+  z-index: 3;
+}
+
+.grid-cell.green .cell-letter {
+  color: white;
+}
+
+.cell-number {
+  position: absolute;
+  top: 2px;
+  left: 4px;
+  font-size: 0.75rem;
+  color: var(--number-color);
+  z-index: 2;
+}
+
+/* Yellow Bands */
+.band {
+  position: absolute;
+  background: var(--band-color);
+  z-index: 1;
+}
+
+.band-h {
+  left: 2px;
+  right: 2px;
+  height: 40%;
+  top: 30%;
+}
+
+.band-v {
+  top: 2px;
+  bottom: 2px;
+  width: 40%;
+  left: 30%;
+}
+
+/* Lattice */
+.lattice-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Modals */
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.modal {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  max-width: 90%;
+  width: 400px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+.modal h2 {
+  margin: 0 0 1rem 0;
+}
+
+.modal-body {
+  margin-bottom: 1.5rem;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}
+
+.modal-actions button {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.modal-actions button.danger {
+  background: #dc3545;
+  color: white;
+  border-color: #dc3545;
+}
+
+/* Completion */
+.completion-message {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: #f0f8ff;
+  border-radius: 8px;
+}
+
+/* Responsive */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

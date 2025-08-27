@@ -1,0 +1,535 @@
+{
+  "version": "1.0",
+  "config": {
+    "default_correct_tiles": 3,
+    "grid_max_width": 7,
+    "grid_max_height": 6
+  },
+  "puzzles": [
+    {
+      "phrase": "IT'S LIKE DEJA VU ALL OVER AGAIN.",
+      "theme_info": "Despite being one of baseball's most famous \"Yogi-isms,\" the quote didn't appear in print attributed to Yogi Berra until 1984, and in a 1987 interview with the New York Times, Berra himself denied ever saying it, stating \"Nope, not true, I never said that\" (Quote Investigator)\nAccording to the Yogi Berra Museum, Yogi supposedly said this phrase after Mickey Mantle and Roger Maris hit back-to-back home runs during the 1961 season when both players were competing to break Babe Ruth's single-season home run record of 60 Yogi-isms  (Yogi Berra Museum & Learning Center)",
+      "clue_order": [
+        1,
+        2,
+        4,
+        5,
+        3,
+        6
+      ],
+      "grid": {
+        "width": 7,
+        "height": 5
+      },
+      "words": [
+        {
+          "text": "LAGER",
+          "dir": "H",
+          "row": 0,
+          "col": 1,
+          "clue": "A pale ale, often served cold."
+        },
+        {
+          "text": "ADULATE",
+          "dir": "H",
+          "row": 2,
+          "col": 0,
+          "clue": "To laud with a certain fervor."
+        },
+        {
+          "text": "EVASION",
+          "dir": "H",
+          "row": 4,
+          "col": 0,
+          "clue": "A slippery form of a question."
+        },
+        {
+          "text": "JAKE",
+          "dir": "V",
+          "row": 1,
+          "col": 0,
+          "clue": "A certain country boy."
+        },
+        {
+          "text": "GILLS",
+          "dir": "V",
+          "row": 0,
+          "col": 3,
+          "clue": "A pair of parts on a fish."
+        },
+        {
+          "text": "VEIN",
+          "dir": "V",
+          "row": 1,
+          "col": 6,
+          "clue": "A blue line, often on a map."
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          17,
+          7,
+          3,
+          25,
+          11,
+          24,
+          12,
+          1,
+          23,
+          9,
+          20,
+          4,
+          13,
+          2,
+          22,
+          5,
+          14,
+          16,
+          19,
+          10,
+          15,
+          8,
+          6,
+          18,
+          21
+        ],
+        "correct_positions": [
+          3,
+          13,
+          19
+        ],
+        "min_moves": 18
+      },
+      "id": 1
+    },
+    {
+      "phrase": "(I CAN’T GET NO) SATISFACTION",
+      "theme_info": "Keith Richards wrote the famous guitar riff in his sleep on May 6, 1965, woke up to record it on a tape player, then fell back asleep - when he played the tape back, it contained 30 seconds of the riff followed by 40 minutes of snoring. (Songfacts/American Songwriter)\nThe song's success was so enormous that it caused Gibson's entire stock of fuzzbox pedals to sell out by the end of 1965, as musicians rushed to recreate the distinctive distorted guitar sound that defined the track (Wikipedia)",
+      "clue_order": [
+        3,
+        5,
+        2,
+        4,
+        1
+      ],
+      "grid": {
+        "width": 7,
+        "height": 6
+      },
+      "words": [
+        {
+          "text": "CANTINA",
+          "dir": "H",
+          "row": 1,
+          "col": 0,
+          "clue": "An agave-forward watering hole."
+        },
+        {
+          "text": "TOOTS",
+          "dir": "H",
+          "row": 4,
+          "col": 1,
+          "clue": "Pet names with a Jazz Age ring."
+        },
+        {
+          "text": "FAINTS",
+          "dir": "V",
+          "row": 0,
+          "col": 1,
+          "clue": "Drops in a dead swoon."
+        },
+        {
+          "text": "TACO",
+          "dir": "V",
+          "row": 1,
+          "col": 3,
+          "clue": "A folded street staple."
+        },
+        {
+          "text": "INGEST",
+          "dir": "V",
+          "row": 0,
+          "col": 5,
+          "clue": "Introduce to the alimentary tract."
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          9,
+          14,
+          5,
+          8,
+          6,
+          19,
+          10,
+          22,
+          17,
+          15,
+          4,
+          20,
+          11,
+          13,
+          2,
+          1,
+          3,
+          18,
+          7,
+          12,
+          21,
+          16
+        ],
+        "correct_positions": [
+          3,
+          18,
+          21
+        ],
+        "min_moves": 14
+      },
+      "id": 2
+    },
+    {
+      "phrase": "EVERY DOG HAS HIS DAY",
+      "theme_info": "According to Dutch scholar Erasmus, the saying originated from the death of Greek playwright Euripides in 405 BC, who was killed by dogs set upon him by a rival, with the proverb first recorded by Plutarch in the first century AD as \"Even a dog gets his revenge\" (EnglishClub/Phrases.org.uk)\nThe phrase became popularized by William Shakespeare when he used it in Hamlet in the early 1600s, though earlier English versions appeared as \"A dogge hath a day\" in Richard Taverner's 1539 translation of Erasmus' Adages (The Stunt Dog Guy/No Sweat Shakespeare)",
+      "clue_order": [
+        1,
+        3,
+        4,
+        5,
+        2
+      ],
+      "grid": {
+        "width": 5,
+        "height": 5
+      },
+      "words": [
+        {
+          "text": "DODGE",
+          "dir": "H",
+          "row": 0,
+          "col": 0,
+          "clue": "To evade in a quick motion."
+        },
+        {
+          "text": "SHAVE",
+          "dir": "H",
+          "row": 2,
+          "col": 0,
+          "clue": "A close trim, or a narrow escape."
+        },
+        {
+          "text": "DASH",
+          "dir": "V",
+          "row": 0,
+          "col": 0,
+          "clue": "A sudden burst of speed."
+        },
+        {
+          "text": "DIARY",
+          "dir": "V",
+          "row": 0,
+          "col": 2,
+          "clue": "A record kept daily."
+        },
+        {
+          "text": "EYES",
+          "dir": "V",
+          "row": 0,
+          "col": 4,
+          "clue": "A pair of organs for sight."
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          16,
+          12,
+          3,
+          17,
+          15,
+          4,
+          6,
+          8,
+          11,
+          7,
+          10,
+          1,
+          5,
+          14,
+          13,
+          2,
+          9
+        ],
+        "correct_positions": [
+          3,
+          8,
+          14
+        ],
+        "min_moves": 12
+      },
+      "id": 3
+    },
+    {
+      "phrase": "THE VERY HUNGRY CATERPILLAR",
+      "theme_info": "The book originated from Eric Carle's use of a hole puncher on papers at his desk, which reminded him of a worm - his editor Ann Beneduce suggested changing it from \"A Week with Willi the Worm\" to a caterpillar, and Carle immediately shouted \"Butterfly!\" (Wikipedia/Penguin UK)\nThe book was originally printed in Japan due to high US publishing costs caused by the die-cut holes in the pages, and Eric Carle intentionally used \"cocoon\" instead of the scientifically correct \"chrysalis\" because his father used to tell him to \"come out of your cocoon\" as a child. (Wikipedia)",
+      "clue_order": [
+        1,
+        4,
+        3,
+        5,
+        2,
+        6
+      ],
+      "grid": {
+        "width": 7,
+        "height": 6
+      },
+      "words": [
+        {
+          "text": "ELANTRA",
+          "dir": "H",
+          "row": 1,
+          "col": 0,
+          "clue": "A compact parked between Accent and Sonata."
+        },
+        {
+          "text": "THECURE",
+          "dir": "H",
+          "row": 3,
+          "col": 0,
+          "clue": "An act whose “Disintegration” was anything but."
+        },
+        {
+          "text": "PERT",
+          "dir": "V",
+          "row": 0,
+          "col": 0,
+          "clue": "Arch, in a charming way."
+        },
+        {
+          "text": "HALEY",
+          "dir": "V",
+          "row": 0,
+          "col": 2,
+          "clue": "Successor to Sanford in Columbia."
+        },
+        {
+          "text": "ITGUY",
+          "dir": "V",
+          "row": 0,
+          "col": 4,
+          "clue": "An in-house troubleshooter, informally."
+        },
+        {
+          "text": "RAVE",
+          "dir": "V",
+          "row": 0,
+          "col": 6,
+          "clue": "An all-night warehouse party."
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          24,
+          1,
+          12,
+          4,
+          19,
+          13,
+          6,
+          16,
+          18,
+          8,
+          22,
+          11,
+          20,
+          15,
+          14,
+          10,
+          5,
+          3,
+          17,
+          7,
+          23,
+          21,
+          9,
+          2
+        ],
+        "correct_positions": [
+          4,
+          5,
+          21
+        ],
+        "min_moves": 13
+      },
+      "id": 4
+    },
+    {
+      "phrase": "ROME WASN'T BUILT IN A DAY",
+      "theme_info": "This proverb originates from medieval France around 1190, first appearing as \"Rome ne fu[t] pas faite toute en un jour\" in the collection Li Proverbe au Vilain (The Proverbs of the Common Man), which was a fascinating book of poems each followed by popular sayings of peasants. (Wikipedia)\nQueen Elizabeth I gave this saying royal endorsement when she quoted it in Latin as \"Roma uno die non est condita\" during an address at Cambridge University in 1563, helping boost its popularity in England. (Wikipedia)",
+      "clue_order": [
+        4,
+        5,
+        3,
+        2,
+        1
+      ],
+      "grid": {
+        "width": 7,
+        "height": 6
+      },
+      "words": [
+        {
+          "text": "TENSION",
+          "dir": "H",
+          "row": 1,
+          "col": 0,
+          "clue": "What keeps things taut in the story line"
+        },
+        {
+          "text": "TRAIL",
+          "dir": "H",
+          "row": 3,
+          "col": 1,
+          "clue": "Slip behind, with evidence"
+        },
+        {
+          "text": "MEATY",
+          "dir": "V",
+          "row": 0,
+          "col": 1,
+          "clue": "Juicy, but in the sense of import"
+        },
+        {
+          "text": "SAAB",
+          "dir": "V",
+          "row": 1,
+          "col": 3,
+          "clue": "Once took off, then landed"
+        },
+        {
+          "text": "WOULD",
+          "dir": "V",
+          "row": 0,
+          "col": 5,
+          "clue": "Habitual past indicator"
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          11,
+          9,
+          13,
+          16,
+          6,
+          3,
+          8,
+          5,
+          2,
+          10,
+          4,
+          17,
+          7,
+          18,
+          12,
+          1,
+          15,
+          19,
+          14,
+          20
+        ],
+        "correct_positions": [
+          10,
+          12,
+          20
+        ],
+        "min_moves": 12
+      },
+      "id": 5
+    },
+    {
+      "phrase": "THE MUSTARD'S OFF THE HOT DOG",
+      "theme_info": "This phrase was one of legendary Lakers broadcaster Chick Hearn's famous \"Chickisms,\" used when a player attempted an unnecessarily showy, flashy play which ended up in a turnover or was otherwise unsuccessful, such as a missed dunk. The Seattle TimesFandom (Wikipedia)\nHearn was the first broadcaster named to the Naismith Basketball Hall of Fame and is remembered for his rapid-fire broadcasting style that created many colorful phrases that became common basketball vernacular, including \"slam dunk,\" \"air ball,\" and \"no harm, no foul.\" WebworldincThe Seattle Times (Wikipedia)",
+      "clue_order": [
+        4,
+        1,
+        2,
+        5,
+        3
+      ],
+      "grid": {
+        "width": 7,
+        "height": 6
+      },
+      "words": [
+        {
+          "text": "THEFT",
+          "dir": "H",
+          "row": 2,
+          "col": 1,
+          "clue": "Work of light fingers."
+        },
+        {
+          "text": "SOOTHED",
+          "dir": "H",
+          "row": 4,
+          "col": 0,
+          "clue": "Took the sting out."
+        },
+        {
+          "text": "FATHOM",
+          "dir": "V",
+          "row": 0,
+          "col": 1,
+          "clue": "Measure of understanding."
+        },
+        {
+          "text": "GUEST",
+          "dir": "V",
+          "row": 0,
+          "col": 3,
+          "clue": "One staying on the house."
+        },
+        {
+          "text": "ROTTED",
+          "dir": "V",
+          "row": 0,
+          "col": 5,
+          "clue": "Spoiled in every sense."
+        }
+      ],
+      "start_state": {
+        "scramble": [
+          12,
+          8,
+          21,
+          4,
+          19,
+          22,
+          11,
+          13,
+          18,
+          7,
+          15,
+          23,
+          1,
+          17,
+          14,
+          5,
+          20,
+          2,
+          6,
+          3,
+          10,
+          9,
+          16
+        ],
+        "correct_positions": [
+          2,
+          4,
+          10
+        ],
+        "min_moves": 14
+      },
+      "id": 6
+    }
+  ]
+}

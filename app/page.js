@@ -1160,14 +1160,14 @@ export default function Page() {
         <div className="font-semibold">Level 1</div>
         <p>
           Clues are tied to specific words/locations in the bottom grid. As each clue is shown,
-          the associated word is highlighted.
+          the associated word/location is highlighted.
         </p>
       </div>
 
       <div>
         <div className="font-semibold">Level 2</div>
         <p>
-          Clues appear in randomized order and the associated word is not highlighted.
+          Clues appear in randomized order and the associated word/location is not highlighted.
         </p>
       </div>
     </div>

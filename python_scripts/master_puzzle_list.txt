@@ -29,65 +29,6 @@ About [THEME PHRASE]...
 • [Fact 2] (Source)  
 
 
-====================================
-====================================
-====================================
-
-
-Prompt 1 (Three Hard Clues Per Word — Harder Bias)
-You are a professional crossword constructor writing late-week (Saturday NYT or harder) clues. 
-Given a block of crossword answers, output three very challenging clues for each answer. 
-Always err on the harder side: 
-- Avoid simple synonyms or definitions. 
-- Favor misdirection, figurative readings, cryptic-style surfaces, and indirect definitions. 
-- Clues may be terse, elliptical, or metaphorical. 
-- Ordinary/straightforward clueing is never acceptable. 
-- Proper nouns and trivia should be avoided unless essential. 
-
-Format the output exactly as follows:
-WORD
-Clue 1
-Clue 2
-Clue 3
-
-(blank line)
-
-Then repeat for the next word. 
-Only return the words and their clues in this format.
-
-The block of answers will follow.
-
-
-====================================
-====================================
-====================================
-
-
-Prompt 2 (Preferred Single Clue List — Harder Bias)
-You are a professional crossword constructor writing late-week (Saturday NYT or harder) clues. 
-Given a block of crossword answers, output one single best clue for each word. 
-Always err on the harder side: 
-- Do not write straightforward definitions. 
-- Use indirection, clever wordplay, figurative senses, or surface misdirection. 
-- Clues should be elegant, concise, and challenging, requiring solvers to think laterally. 
-- Proper nouns and trivia should be avoided unless essential. 
-
-Format the output exactly as follows:
-CLUES:
-Clue for first answer.
-Clue for second answer.
-Clue for third answer.
-...etc.
-
-Do not include the words themselves, only the clue list in this exact format.
-
-The block of answers will follow.
-
-====================================
-====================================
-====================================
-
-
 
 PHRASE: ROME WASN'T BUILT IN A DAY
 
@@ -228,16 +169,54 @@ WORDS:
   V row=0 col=6 word=RAVE
 
 CLUES:
-A compact parked between Accent and Sonata.
-An act whose “Disintegration” was anything but.
-Arch, in a charming way.
-Successor to Sanford in Columbia.
-An in-house troubleshooter, informally.
-An all-night warehouse party.  
+ELANTRA: Relative of a Sonata
+THECURE: New Wave remedy?
+PERT: Saucy
+HALEY: Rocker or former Governor
+ITGUY: Crash first responder
+RAVE: Party till dawn
   
   
 THEME:
 The book originated from Eric Carle's use of a hole puncher on papers at his desk, which reminded him of a worm - his editor Ann Beneduce suggested changing it from "A Week with Willi the Worm" to a caterpillar, and Carle immediately shouted "Butterfly!" (Wikipedia/Penguin UK)
 The book was originally printed in Japan due to high US publishing costs caused by the die-cut holes in the pages, and Eric Carle intentionally used "cocoon" instead of the scientifically correct "chrysalis" because his father used to tell him to "come out of your cocoon" as a child. (Wikipedia)
+
+
+
+
+ADULATE: Flatter beyond all reason
+CANTINA: Star Wars hangout
+DASH: It can be mad
+DIARY: It may be locked
+DODGE: Reaction to a tough question
+
+EVASION: Artful dodge
+EYES: Potato parts
+FAINTS: Gets floored?
+FATHOM: Grasp what’s under the surface
+GILLS: Breathing apparatus
+GUEST: Often described as special
+
+IINGEST: Take in data
+
+JAKE: Insurance guy
+LAGER: Cold and behind bars
+MEATY: Packed with substance
+
+
+ROTTED: Went bad
+SAAB: Retired Swede
+SHAVE: Close call
+SOOTHED: Softened the blow
+TACO: Crunch time at dinner
+TENSION: Charged atmosphere
+
+THEFT: Pinching technique
+TOOTS: Term of endearment
+TRAIL: Crumbs left for others
+VEIN: It's bloody useful
+WOULD: Wishful thinking, in a way
+
+
 
 

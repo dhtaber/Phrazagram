@@ -230,12 +230,12 @@ function ratingLabel(moves, min) {
 
   const d = moves - min;
   if (d <= 0) return "Out of This World";
-  if (d <= 3) return "Cream of the Crop";
-  if (d <= 6) return "The Cat's Pajamas";
-  if (d <= 9) return "A cut above";
-  if (d <= 12) return "Right as Rain";
-  if (d <= 15) return "Run of the Mill";
-  return "Don't give up the ship";
+  if (d <= 2) return "Cream of the Crop";
+  if (d <= 4) return "The Cat's Pajamas";
+  if (d <= 6) return "A Cut Above";
+  if (d <= 8) return "Right as Rain";
+  if (d <= 10) return "Run of the Mill";
+  return "Don't Give Up the Ship";
 }
 
 /* --------------------------------- Page --------------------------------- */
@@ -1127,60 +1127,62 @@ export default function Page() {
               )}
 
               {modal === "help" && (
-                <>
-                  <h2 id="modal-title" className="text-lg font-semibold mb-2">How to Play</h2>
-                  <div className="text-sm text-gray-800 space-y-3">
-                    <div>
-                      <div className="font-semibold">Objective</div>
-                      <p>
-                        Complete the puzzle by arranging all the tiles in their correct positions to reveal the phrase or
-                        theme (shown at the top). Fewer moves = higher rating.
-                      </p>
-                    </div>
+  <>
+    <h2 id="modal-title" className="text-lg font-semibold mb-2">How to Play</h2>
+    <div className="text-sm text-gray-800 space-y-3">
+      <div>
+        <div className="font-semibold">Objective</div>
+        <p>
+          Reveal the phrase or theme shown at the top by arranging the tiles in their correct numeric positions.
+          Solving the bottom grid (words, phrases, proper nouns, foreign words) will place the letters in their
+          proper positions at the top.
+        </p>
+      </div>
 
-                    <div>
-                      <div className="font-semibold">Swapping tiles</div>
-                      <p>
-                        Drag one letter onto another in the bottom grid to swap them. Letters in their correct location
-                        (green) are locked and can’t be moved.
-                      </p>
-                    </div>
+      <div>
+        <div className="font-semibold">Green tiles</div>
+        <p>
+          Some letters begin green, meaning they are already correctly placed. Once a letter is in its correct
+          location, it can’t be moved.
+        </p>
+      </div>
 
-                    <div>
-                      <div className="font-semibold">Relationship between top and bottom</div>
-                      <p>
-                        Each numbered slot in the top ribbon corresponds to the same numbered square in the bottom grid.
-                        Example: placing an “A” in square 7 below puts an “A” in slot 7 above. Likewise, if you know slot
-                        12 should be a certain letter, move that letter into square 12.
-                      </p>
-                    </div>
+      <div>
+        <div className="font-semibold">Rearranging letters</div>
+        <p>
+          Dragging one letter onto another in the bottom grid exchanges their locations, and those letters will move
+          to the corresponding numbered spaces at the top. Example: placing an “A” in square 7 below puts an “A” in
+          slot 7 above. If that is the correct placement, the A will turn green. Fewer moves = higher rating.
+        </p>
+      </div>
 
-                    <div>
-                      <div className="font-semibold">Level 1</div>
-                      <p>
-                        Clues follow the order provided and are tied to specific words. The currently shown clue highlights
-                        its word in the grid.
-                      </p>
-                    </div>
+      <div>
+        <div className="font-semibold">Level 1</div>
+        <p>
+          Clues are tied to specific words/locations in the bottom grid. As each clue is shown,
+          the associated word is highlighted.
+        </p>
+      </div>
 
-                    <div>
-                      <div className="font-semibold">Level 2</div>
-                      <p>Clues appear in randomized order from the puzzle data (not tied to specific words).</p>
-                    </div>
+      <div>
+        <div className="font-semibold">Level 2</div>
+        <p>
+          Clues appear in randomized order and the associated word is not highlighted.
+        </p>
+      </div>
+    </div>
 
-                    <div>
-                      <div className="font-semibold">Starting position</div>
-                      <p>Some squares begin green, meaning those letters are already correctly placed.</p>
-                    </div>
-                  </div>
+    <div className="mt-4 flex justify-end">
+      <button
+        className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50"
+        onClick={closeModal}
+      >
+        Close
+      </button>
+    </div>
+  </>
+)}
 
-                  <div className="mt-4 flex justify-end">
-                    <button className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50" onClick={closeModal}>
-                      Close
-                    </button>
-                  </div>
-                </>
-              )}
 
               {modal === "reset" && (
                 <>

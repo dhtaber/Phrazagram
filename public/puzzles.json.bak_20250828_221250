@@ -27,84 +27,84 @@
           "dir": "H",
           "row": 0,
           "col": 1,
-          "clue": "Cold and behind bars"
+          "clue": "A pale ale, often served cold."
         },
         {
           "text": "ADULATE",
           "dir": "H",
           "row": 2,
           "col": 0,
-          "clue": "Flatter beyond all reason"
+          "clue": "To laud with a certain fervor."
         },
         {
           "text": "EVASION",
           "dir": "H",
           "row": 4,
           "col": 0,
-          "clue": "Artful dodge"
+          "clue": "A slippery form of a question."
         },
         {
           "text": "JAKE",
           "dir": "V",
           "row": 1,
           "col": 0,
-          "clue": "Insurance guy"
+          "clue": "A certain country boy."
         },
         {
           "text": "GILLS",
           "dir": "V",
           "row": 0,
           "col": 3,
-          "clue": "Breathing apparatus"
+          "clue": "A pair of parts on a fish."
         },
         {
           "text": "VEIN",
           "dir": "V",
           "row": 1,
           "col": 6,
-          "clue": "It's bloody useful"
+          "clue": "A blue line, often on a map."
         }
       ],
       "start_state": {
         "scramble": [
-          25,
-          2,
-          8,
-          19,
-          16,
-          17,
-          21,
-          24,
-          20,
-          23,
-          3,
-          10,
-          13,
-          5,
-          18,
-          11,
-          15,
-          14,
-          7,
-          12,
-          4,
-          9,
           22,
+          19,
+          18,
+          24,
+          10,
+          7,
+          4,
+          15,
+          12,
+          1,
           6,
-          1
+          14,
+          8,
+          2,
+          5,
+          16,
+          13,
+          9,
+          11,
+          20,
+          3,
+          25,
+          23,
+          17,
+          21
         ],
         "correct_positions": [
-          2,
-          7,
-          13
+          16,
+          20,
+          23
         ],
-        "min_moves": 17
+        "min_moves": 16
       },
       "id": 1
     },
     {
       "phrase": "(I CAN’T GET NO) SATISFACTION",
-      "theme_info": "Keith Richards wrote the famous guitar riff in his sleep on May 6, 1965, woke up to record it on a tape player, then fell back asleep - when he played the tape back, it contained 30 seconds of the riff followed by 40 minutes of snoring. (Songfacts/American Songwriter)\n\nThe song's success was so enormous that it caused Gibson's entire stock of fuzzbox pedals to sell out by the end of 1965, as musicians rushed to recreate the distinctive distorted guitar sound that defined the track (Wikipedia)",
+      "theme_info": "Keith Richards wrote the famous guitar riff in his sleep on May 6, 1965, woke up to record it on a tape player, then fell back asleep - when he played the tape back, it contained 30 seconds of the riff followed by 40 minutes of snoring. (Songfacts/American Songwriter)\nThe song's success was so enormous that it caused Gibson's entire stock of fuzzbox pedals to sell out by the end of 1965, as musicians rushed to recreate the distinctive distorted guitar sound that defined the track (Wikipedia)",
       "clue_order": [
         3,
         5,
@@ -122,66 +122,66 @@
           "dir": "H",
           "row": 1,
           "col": 0,
-          "clue": "Star Wars hangout"
+          "clue": "An agave-forward watering hole."
         },
         {
           "text": "TOOTS",
           "dir": "H",
           "row": 4,
           "col": 1,
-          "clue": "Term of endearment"
+          "clue": "Pet names with a Jazz Age ring."
         },
         {
           "text": "FAINTS",
           "dir": "V",
           "row": 0,
           "col": 1,
-          "clue": "Gets floored?"
+          "clue": "Drops in a dead swoon."
         },
         {
           "text": "TACO",
           "dir": "V",
           "row": 1,
           "col": 3,
-          "clue": "Crunch time at dinner"
+          "clue": "A folded street staple."
         },
         {
           "text": "INGEST",
           "dir": "V",
           "row": 0,
           "col": 5,
-          "clue": "Take in data"
+          "clue": "Introduce to the alimentary tract."
         }
       ],
       "start_state": {
         "scramble": [
-          11,
-          3,
-          1,
-          16,
-          7,
-          4,
-          12,
           9,
-          13,
-          22,
-          5,
-          15,
-          19,
-          2,
-          10,
           14,
-          21,
-          6,
+          5,
           8,
+          6,
+          19,
+          10,
+          22,
+          17,
+          15,
+          4,
           20,
+          11,
+          13,
+          2,
+          1,
+          3,
           18,
-          17
+          7,
+          12,
+          21,
+          16
         ],
         "correct_positions": [
-          8,
-          19,
-          20
+          3,
+          18,
+          21
         ],
         "min_moves": 14
       },
@@ -189,7 +189,7 @@
     },
     {
       "phrase": "EVERY DOG HAS HIS DAY",
-      "theme_info": "According to Dutch scholar Erasmus, the saying originated from the death of Greek playwright Euripides in 405 BC, who was killed by dogs set upon him by a rival, with the proverb first recorded by Plutarch in the first century AD as \"Even a dog gets his revenge\" (EnglishClub/Phrases.org.uk)\n\nThe phrase became popularized by William Shakespeare when he used it in Hamlet in the early 1600s, though earlier English versions appeared as \"A dogge hath a day\" in Richard Taverner's 1539 translation of Erasmus' Adages (The Stunt Dog Guy/No Sweat Shakespeare)",
+      "theme_info": "According to Dutch scholar Erasmus, the saying originated from the death of Greek playwright Euripides in 405 BC, who was killed by dogs set upon him by a rival, with the proverb first recorded by Plutarch in the first century AD as \"Even a dog gets his revenge\" (EnglishClub/Phrases.org.uk)\nThe phrase became popularized by William Shakespeare when he used it in Hamlet in the early 1600s, though earlier English versions appeared as \"A dogge hath a day\" in Richard Taverner's 1539 translation of Erasmus' Adages (The Stunt Dog Guy/No Sweat Shakespeare)",
       "clue_order": [
         1,
         3,
@@ -207,69 +207,69 @@
           "dir": "H",
           "row": 0,
           "col": 0,
-          "clue": "Reaction to a tough question"
+          "clue": "To evade in a quick motion."
         },
         {
           "text": "SHAVE",
           "dir": "H",
           "row": 2,
           "col": 0,
-          "clue": "Close call"
+          "clue": "A close trim, or a narrow escape."
         },
         {
           "text": "DASH",
           "dir": "V",
           "row": 0,
           "col": 0,
-          "clue": "It can be mad"
+          "clue": "A sudden burst of speed."
         },
         {
           "text": "DIARY",
           "dir": "V",
           "row": 0,
           "col": 2,
-          "clue": "It may be locked"
+          "clue": "A record kept daily."
         },
         {
           "text": "EYES",
           "dir": "V",
           "row": 0,
           "col": 4,
-          "clue": "Potato parts"
+          "clue": "A pair of organs for sight."
         }
       ],
       "start_state": {
         "scramble": [
-          4,
-          17,
-          9,
-          11,
-          6,
-          10,
-          2,
-          7,
-          15,
-          3,
-          1,
-          8,
-          13,
-          14,
           16,
           12,
-          5
+          3,
+          17,
+          15,
+          4,
+          6,
+          8,
+          11,
+          7,
+          10,
+          1,
+          5,
+          14,
+          13,
+          2,
+          9
         ],
         "correct_positions": [
-          5,
-          13,
+          3,
+          8,
           14
         ],
-        "min_moves": 11
+        "min_moves": 12
       },
       "id": 3
     },
     {
       "phrase": "THE VERY HUNGRY CATERPILLAR",
-      "theme_info": "The book originated from Eric Carle's use of a hole puncher on papers at his desk, which reminded him of a worm - his editor Ann Beneduce suggested changing it from \"A Week with Willi the Worm\" to a caterpillar, and Carle immediately shouted \"Butterfly!\" (Wikipedia/Penguin UK)\n\nThe book was originally printed in Japan due to high US publishing costs caused by the die-cut holes in the pages, and Eric Carle intentionally used \"cocoon\" instead of the scientifically correct \"chrysalis\" because his father used to tell him to \"come out of your cocoon\" as a child. (Wikipedia)",
+      "theme_info": "The book originated from Eric Carle's use of a hole puncher on papers at his desk, which reminded him of a worm - his editor Ann Beneduce suggested changing it from \"A Week with Willi the Worm\" to a caterpillar, and Carle immediately shouted \"Butterfly!\" (Wikipedia/Penguin UK)\nThe book was originally printed in Japan due to high US publishing costs caused by the die-cut holes in the pages, and Eric Carle intentionally used \"cocoon\" instead of the scientifically correct \"chrysalis\" because his father used to tell him to \"come out of your cocoon\" as a child. (Wikipedia)",
       "clue_order": [
         1,
         4,
@@ -288,83 +288,83 @@
           "dir": "H",
           "row": 1,
           "col": 0,
-          "clue": "Relative of a Sonata"
+          "clue": "A compact parked between Accent and Sonata."
         },
         {
           "text": "THECURE",
           "dir": "H",
           "row": 3,
           "col": 0,
-          "clue": "New Wave remedy?"
+          "clue": "An act whose “Disintegration” was anything but."
         },
         {
           "text": "PERT",
           "dir": "V",
           "row": 0,
           "col": 0,
-          "clue": "Saucy"
+          "clue": "Arch, in a charming way."
         },
         {
           "text": "HALEY",
           "dir": "V",
           "row": 0,
           "col": 2,
-          "clue": "Rocker or former Governor"
+          "clue": "Successor to Sanford in Columbia."
         },
         {
           "text": "ITGUY",
           "dir": "V",
           "row": 0,
           "col": 4,
-          "clue": "Crash first responder"
+          "clue": "An in-house troubleshooter, informally."
         },
         {
           "text": "RAVE",
           "dir": "V",
           "row": 0,
           "col": 6,
-          "clue": "Party till dawn"
+          "clue": "An all-night warehouse party."
         }
       ],
       "start_state": {
         "scramble": [
-          7,
-          1,
-          10,
-          21,
-          8,
-          4,
-          20,
-          12,
           24,
-          9,
+          1,
+          12,
+          4,
+          19,
+          13,
+          6,
+          16,
+          18,
+          8,
+          22,
+          11,
+          20,
+          15,
+          14,
+          10,
+          5,
           3,
           17,
-          18,
-          16,
-          5,
-          14,
-          13,
-          19,
-          2,
-          11,
-          15,
-          22,
+          7,
           23,
-          6
+          21,
+          9,
+          2
         ],
         "correct_positions": [
-          6,
-          22,
-          23
+          4,
+          5,
+          21
         ],
-        "min_moves": 16
+        "min_moves": 13
       },
       "id": 4
     },
     {
       "phrase": "ROME WASN'T BUILT IN A DAY",
-      "theme_info": "This proverb originates from medieval France around 1190, first appearing as \"Rome ne fu[t] pas faite toute en un jour\" in the collection Li Proverbe au Vilain (The Proverbs of the Common Man), which was a fascinating book of poems each followed by popular sayings of peasants. (Wikipedia)\n\nQueen Elizabeth I gave this saying royal endorsement when she quoted it in Latin as \"Roma uno die non est condita\" during an address at Cambridge University in 1563, helping boost its popularity in England. (Wikipedia)",
+      "theme_info": "This proverb originates from medieval France around 1190, first appearing as \"Rome ne fu[t] pas faite toute en un jour\" in the collection Li Proverbe au Vilain (The Proverbs of the Common Man), which was a fascinating book of poems each followed by popular sayings of peasants. (Wikipedia)\nQueen Elizabeth I gave this saying royal endorsement when she quoted it in Latin as \"Roma uno die non est condita\" during an address at Cambridge University in 1563, helping boost its popularity in England. (Wikipedia)",
       "clue_order": [
         4,
         5,
@@ -415,31 +415,31 @@
       ],
       "start_state": {
         "scramble": [
-          19,
-          3,
-          16,
-          5,
-          6,
-          8,
-          17,
-          20,
-          18,
-          10,
-          15,
-          14,
-          13,
-          9,
-          1,
-          4,
-          11,
           7,
           2,
-          12
+          16,
+          6,
+          11,
+          9,
+          5,
+          1,
+          4,
+          10,
+          12,
+          19,
+          17,
+          3,
+          13,
+          8,
+          20,
+          15,
+          14,
+          18
         ],
         "correct_positions": [
-          9,
-          10,
-          13
+          2,
+          8,
+          10
         ],
         "min_moves": 14
       },
@@ -447,7 +447,7 @@
     },
     {
       "phrase": "THE MUSTARD'S OFF THE HOT DOG",
-      "theme_info": "This phrase was one of legendary Lakers broadcaster Chick Hearn's famous \"Chickisms,\" used when a player attempted an unnecessarily showy, flashy play which ended up in a turnover or was otherwise unsuccessful, such as a missed dunk. The Seattle TimesFandom (Wikipedia)\n\nHearn was the first broadcaster named to the Naismith Basketball Hall of Fame and is remembered for his rapid-fire broadcasting style that created many colorful phrases that became common basketball vernacular, including \"slam dunk,\" \"air ball,\" and \"no harm, no foul.\" WebworldincThe Seattle Times (Wikipedia)",
+      "theme_info": "This phrase was one of legendary Lakers broadcaster Chick Hearn's famous \"Chickisms,\" used when a player attempted an unnecessarily showy, flashy play which ended up in a turnover or was otherwise unsuccessful, such as a missed dunk. The Seattle TimesFandom (Wikipedia)\nHearn was the first broadcaster named to the Naismith Basketball Hall of Fame and is remembered for his rapid-fire broadcasting style that created many colorful phrases that became common basketball vernacular, including \"slam dunk,\" \"air ball,\" and \"no harm, no foul.\" WebworldincThe Seattle Times (Wikipedia)",
       "clue_order": [
         4,
         1,
@@ -500,34 +500,34 @@
         "scramble": [
           10,
           23,
-          14,
-          16,
-          12,
-          3,
-          22,
-          8,
-          15,
-          9,
-          4,
-          5,
-          6,
-          11,
           17,
-          13,
-          21,
-          18,
-          2,
-          20,
-          7,
+          15,
           1,
+          8,
+          2,
+          21,
+          22,
+          12,
+          14,
+          7,
+          18,
+          5,
+          13,
+          20,
+          3,
+          16,
+          4,
+          11,
+          9,
+          6,
           19
         ],
         "correct_positions": [
-          8,
-          18,
-          20
+          3,
+          16,
+          17
         ],
-        "min_moves": 13
+        "min_moves": 15
       },
       "id": 6
     }

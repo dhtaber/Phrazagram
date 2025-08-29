@@ -269,7 +269,7 @@
     },
     {
       "phrase": "THE VERY HUNGRY CATERPILLAR",
-      "theme_info": "The book originated from Eric Carle's use of a hole puncher on papers at his desk, which reminded him of a worm - his editor Ann Beneduce suggested changing it from \"A Week with Willi the Worm\" to a caterpillar, and Carle immediately shouted \"Butterfly!\" (Wikipedia/Penguin UK)\n\nThe book was originally printed in Japan due to high US publishing costs caused by the die-cut holes in the pages, and Eric Carle intentionally used \"cocoon\" instead of the scientifically correct \"chrysalis\" because his father used to tell him to \"come out of your cocoon\" as a child. (Wikipedia)",
+      "theme_info": "The book originated from Eric Carle's use of a hole puncher on papers at his desk, which reminded him of a worm - his editor Ann Beneduce suggested changing it from \"A Week with Willi the Worm\" to a caterpillar, and Carle immediately shouted \"Butterfly!\" (Wikipedia/Penguin UK)\nThe book was originally printed in Japan due to high US publishing costs caused by the die-cut holes in the pages, and Eric Carle intentionally used \"cocoon\" instead of the scientifically correct \"chrysalis\" because his father used to tell him to \"come out of your cocoon\" as a child. (Wikipedia)",
       "clue_order": [
         1,
         4,
@@ -288,77 +288,77 @@
           "dir": "H",
           "row": 1,
           "col": 0,
-          "clue": "Relative of a Sonata"
+          "clue": "A compact parked between Accent and Sonata."
         },
         {
           "text": "THECURE",
           "dir": "H",
           "row": 3,
           "col": 0,
-          "clue": "New Wave remedy?"
+          "clue": "An act whose “Disintegration” was anything but."
         },
         {
           "text": "PERT",
           "dir": "V",
           "row": 0,
           "col": 0,
-          "clue": "Saucy"
+          "clue": "Arch, in a charming way."
         },
         {
           "text": "HALEY",
           "dir": "V",
           "row": 0,
           "col": 2,
-          "clue": "Rocker or former Governor"
+          "clue": "Successor to Sanford in Columbia."
         },
         {
           "text": "ITGUY",
           "dir": "V",
           "row": 0,
           "col": 4,
-          "clue": "Crash first responder"
+          "clue": "An in-house troubleshooter, informally."
         },
         {
           "text": "RAVE",
           "dir": "V",
           "row": 0,
           "col": 6,
-          "clue": "Party till dawn"
+          "clue": "An all-night warehouse party."
         }
       ],
       "start_state": {
         "scramble": [
-          7,
-          1,
-          10,
-          21,
-          8,
-          4,
-          20,
-          12,
           24,
-          9,
+          1,
+          12,
+          4,
+          19,
+          13,
+          6,
+          16,
+          18,
+          8,
+          22,
+          11,
+          20,
+          15,
+          14,
+          10,
+          5,
           3,
           17,
-          18,
-          16,
-          5,
-          14,
-          13,
-          19,
-          2,
-          11,
-          15,
-          22,
+          7,
           23,
-          6
+          21,
+          9,
+          2
         ],
         "correct_positions": [
-          6,
-          22,
-          23
+          4,
+          5,
+          21
         ],
-        "min_moves": 16
+        "min_moves": 13
       },
       "id": 4
     },

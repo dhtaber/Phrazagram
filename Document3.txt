@@ -1,0 +1,154 @@
+ADULATE: Fawn over like a sycophant
+ADULATE: Flatter beyond all reason
+ADULATE: Lay it on thick, like frosting on power
+ADULATE: Treat a mortal as divine
+ADULATE: What a fan might do to a star
+CANTINA: A place to find a lot of different people
+CANTINA: Bar from the west
+CANTINA: Mexican tavern setting
+CANTINA: Saloon from a tin can upset
+CANTINA: Star Wars hangout
+CANTINA: Where small talk comes salted
+DASH: Fast punctuation
+DASH: It can be mad
+DASH: Quick run
+DASH: Sprint
+DASH: You might see it within a word
+DIARY: A writes personal story
+DIARY: Day by day catalogue
+DIARY: It may be locked
+DIARY: It's kept by a private eye
+DODGE: A car make and a verb
+DODGE: Avoid
+DODGE: Miss the ball?
+DODGE: Public reaction to a tough question
+DODGE: Sidestep smoothly
+ELANTRA: “fluid motion” on four wheels
+ELANTRA: it can be found in "refuel and transport"
+ELANTRA: It's in a Sonata's family 
+ELANTRA: Korean energy on the road
+ELANTRA: Korean import
+EVASION: Artful dodge
+EVASION: Politician’s skill
+EVASION: Politician’s specialty
+EVASION: Sidestepping
+EVASION: Slippery answer
+EYES: A pair of balls
+EYES: Potato parts
+EYES: Storm parts
+EYES: They're on some playing cards
+FAINTS: Collapses
+FAINTS: Drops out
+FAINTS: Gets floored?
+FAINTS: To lose heart, perhaps
+FATHOM: Grasp what’s under the surface
+FATHOM: Piece together
+FATHOM: Sailor's measure
+GILLS: Breathing helper/enabler
+GILLS: Inhuman anatomny part
+GILLS: Underwater lungs, sort of
+GUEST: It might be found in a hotel
+GUEST: Often described as special
+GUEST: One-timer
+GUEST: TV appearance
+GUEST: Type of book
+HALEY: “Rock Around the Clock-er”
+HALEY: Band leader or orbiter
+HALEY: Political surname
+HALEY: Rocker or govenor
+HALEY: Southern politician
+INGEST: Absorb precursor
+INGEST: Consume
+INGEST: Fuel up at the cellular level
+INGEST: Take inside information
+ITGUY: Company problem solver
+ITGUY: Company savior
+ITGUY: Crash first responder
+ITGUY: Fixer-upper
+ITGUY: Password helper
+ITGUY: Password locator
+JAKE: A Tapper
+JAKE: Alright
+JAKE: A-OK
+JAKE: Insurance guy
+LAGER: Bottom line at the brewery
+LAGER: Cold and behind bars
+LAGER: Cold comfort for some
+LAGER: Draft pick
+LAGER: What might be tapped at length
+MEATY: Dense
+MEATY: Like something you sink your teeth into
+MEATY: Not just filler
+MEATY: Packed with substance
+MEATY: Substantial
+PERT: Bold option for your hair
+PERT: Charmingly cheeky
+PERT: Frisky
+PERT: Lively and spirited
+PERT: Saucy
+RAVE: Gush
+RAVE: Loveable party
+RAVE: Party line from the critic
+RAVE: Party till dawn
+RAVE: What a critic could do
+ROTTED: A sign of decay
+ROTTED: Like a bad apple
+ROTTED: Like your least favorite fruit
+ROTTED: Spoiled
+ROTTED: Spoiled beyond redemption
+ROTTED: Went bad
+ROTTED: Went off?
+SAAB: Car maker with a Griffin on its logo
+SAAB: Former Swede
+SAAB: Make once owned by General Motors
+SAAB: Old automaker
+SAAB: Retired Swede
+SHAVE: A close call
+SHAVE: Barely touch
+SHAVE: Bring down
+SHAVE: Shed
+SHAVE: Whittle down
+SOOTHED: Helped to feel better after a long day
+SOOTHED: Like a baby with a pacifier
+SOOTHED: Softened the blow
+SOOTHED: Took the edge off
+SOOTHED: Took the heat off
+TACO: Crunch time at dinner
+TACO: Folded food
+TACO: It can be hard or soft
+TACO: Shell game?
+TENSION: Charged atmosphere
+TENSION: Courtroom feeling right before the verdict
+TENSION: Headache type
+TENSION: It can be sensed it a good play
+TENSION: Silent weight in a room
+TENSION: What a string section creates
+THECURE: Alternative food preservation
+THECURE: Alternative remedy?
+THECURE: Musical food preservation
+THECURE: Panacea promised or melancholy delivered
+THECURE: Prescription for a concert
+THECURE: What patients are often definitely looking for 
+THEFT: It could be grand
+THEFT: Lifting operation
+THEFT: Pinching technique
+THEFT: Taking stock?
+TOOTS: A term of endearment
+TOOTS: Honks
+TOOTS: Musical sounds
+TOOTS: Says "get going!"
+TOOTS: They can come from an old train
+TRACK: It may be happy when it's ending
+TRAIL: Crumbs left for others
+TRAIL: It keeps detectives busy
+TRAIL: It's for followers
+TRAIL: Track record?
+VEIN: A line of thought
+VEIN: It has a pulse, but not a heartbeat
+VEIN: It's bloody useful
+VEIN: Leaf part
+VEIN: Style or manner
+WOULD: Express lane for wants never cashed
+WOULD: Past tense thats not past
+WOULD: Past that never was
+WOULD: Wishful thinking, in a way

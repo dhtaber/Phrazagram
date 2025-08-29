@@ -800,22 +800,35 @@ export default function Page() {
     </div>
 
     {/* Clue bar */}
-    <div className="flex items-center justify-between px-2 py-1 border border-gray-300 rounded bg-white shadow my-3">
-      <div className="pr-2 overflow-hidden text-ellipsis whitespace-nowrap text-sm">
-        <span className="font-semibold">{clueIndex + 1}.</span>{" "}
-        {currentClue || "—"}
-      </div>
-      <button
-        className="ml-2 px-1 py-0.5 bg-gray-100 rounded border border-gray-300 text-lg leading-none"
-        onClick={() => {
-          if (allClues.length > 0) {
-            setClueIndex((prev) => (prev + 1) % allClues.length);
-          }
-        }}
-      >
-        ▸
-      </button>
+<div className="flex items-start justify-between px-2 py-1 border border-gray-300 rounded bg-white shadow my-3">
+  <div className="pr-2 min-w-0 flex-1 text-sm">
+    <div
+      className="font-normal"
+      style={{
+        display: "-webkit-box",
+        WebkitLineClamp: 2,           // clamp to 2 lines
+        WebkitBoxOrient: "vertical",
+        overflow: "hidden"
+      }}
+      title={currentClue || "—"}      // full text on long-press / hover
+    >
+      <span className="font-semibold">{clueIndex + 1}.</span>{" "}
+      {currentClue || "—"}
     </div>
+  </div>
+  <button
+    className="ml-2 px-1 py-0.5 bg-gray-100 rounded border border-gray-300 text-lg leading-none shrink-0"
+    onClick={() => {
+      if (allClues.length > 0) {
+        setClueIndex((prev) => (prev + 1) % allClues.length);
+      }
+    }}
+    aria-label="Next clue"
+  >
+    ▸
+  </button>
+</div>
+
   </div>
 ) : (
   /* Level 2 block starts here… */
@@ -1073,7 +1086,7 @@ export default function Page() {
 
     <div>
       <div className="font-semibold">Starting position</div>
-      <p>Some squares begin highlighted in green, meaning those letters are already correctly placed. These give you a head start.</p>
+      <p>Some squares begin highlighted in green, meaning those letters are already correctly placed.</p>
     </div>
   </div>
 

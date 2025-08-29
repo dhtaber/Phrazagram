@@ -1,3 +1,7 @@
+/*
+FILE: app/page.js
+SUMMARY: Mobile-first Phrazagram page with Level-1 word-tied cluing + highlight, Level-2 randomized cluing, and a per-level Hide/Show clues toggle placed on the same row as the Moves info (left: moves/min, right: Hide/Show). Clue text wraps/clamps to 2 lines.
+*/
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
@@ -13,7 +17,7 @@ function normalizeAZ(s) {
     .replace(/[^A-Z]/g, "");
 }
 
-// enumerate unique grid cells in deterministic order (Spec §1.2)
+// enumerate unique grid cells in deterministic order
 function enumerateCells(words) {
   const seen = new Set();
   const cells = [];
@@ -42,7 +46,7 @@ function enumerateCells(words) {
   return { cells, solutionLetters };
 }
 
-// assign first-fit locations (Spec §1.3)
+// assign first-fit locations
 function assignLocations(lettersTop, solutionLetters, cells) {
   const N = lettersTop.length;
   const claimed = new Array(solutionLetters.length).fill(false);
@@ -135,7 +139,6 @@ function makeRibbonLines(phrase) {
 }
 
 /* ---------------------------- per-puzzle derive ---------------------------- */
-// Packs ALL derived data for a puzzle so Level 1/2 switch instantly with no duplication.
 function derivePuzzleData(puzzle) {
   if (!puzzle) return null;
 
@@ -170,8 +173,8 @@ function derivePuzzleData(puzzle) {
     if (cell) locByKey[`${cell.row},${cell.col}`] = i;
   }
 
-  // Per-word location-id lists in reading order (for yellow bands)
-  const wordsIndex = { H: [], V: [] };
+  // Per-word location-id lists by original words[] index (for Level 1 word highlighting)
+  const wordLocsByIndex = [];
   for (const w of puzzle.words || []) {
     const t = normalizeAZ(w.text);
     const horiz = w.dir === "H";
@@ -184,8 +187,7 @@ function derivePuzzleData(puzzle) {
       if (!loc) throw new Error(`Missing location for cell ${key}`);
       locs.push(loc);
     }
-    if (horiz) wordsIndex.H.push({ locs });
-    else wordsIndex.V.push({ locs });
+    wordLocsByIndex.push(locs);
   }
 
   // Startup placement from JSON
@@ -208,7 +210,7 @@ function derivePuzzleData(puzzle) {
     requiredLetterAt,
     cellForLocation,
     locByKey,
-    wordsIndex, // kept (bands now disabled for L1 per spec)
+    wordLocsByIndex,
     ribbonLines,
     displayCharByTopIndex,
     tileAtLocationStart,
@@ -221,14 +223,11 @@ function derivePuzzleData(puzzle) {
   };
 }
 
-
-// Simple, tweakable rating tiers based on how close you are to the theoretical minimum.
+// Simple, tweakable rating tiers
 function ratingLabel(moves, min) {
-  // Guard against weird inputs
   if (!Number.isFinite(min) || min < 0) min = 0;
   if (!Number.isFinite(moves) || moves < 0) moves = 0;
 
-  // Absolute step thresholds from min, step = 3 moves
   const d = moves - min;
   if (d <= 0) return "Out of This World";
   if (d <= 3) return "Cream of the Crop";
@@ -238,7 +237,6 @@ function ratingLabel(moves, min) {
   if (d <= 15) return "Run of the Mill";
   return "Don't give up the ship";
 }
-
 
 /* --------------------------------- Page --------------------------------- */
 
@@ -274,7 +272,7 @@ export default function Page() {
   const idx1 = Math.max(0, Math.min(baseIndex, puzzles.length - 1));
   const idx2 = Math.max(0, Math.min(baseIndex + 1, puzzles.length - 1));
 
-  // Derive BOTH puzzles (memoized), then instant toggle
+  // Derive BOTH puzzles (memoized)
   const derived1 = useMemo(
     () => (puzzles[idx1] ? derivePuzzleData(puzzles[idx1]) : null),
     [puzzles, idx1]
@@ -284,7 +282,7 @@ export default function Page() {
     [puzzles, idx2]
   );
 
-  // Level selection (instant toggle; URL does NOT change)
+  // Level selection (URL does NOT change)
   const [activeLevel, setActiveLevel] = useState(1);
 
   // Per-level tiles & moves; initialize when that level's puzzle changes
@@ -312,7 +310,7 @@ export default function Page() {
     }));
   }, [derived2?.puzzle?.id]);
 
-  /* ---------- ALWAYS define derived view + hooks BEFORE any early return ---------- */
+  /* ---------- Prep derived view + guards ---------- */
   const D = useMemo(() => {
     const fallback = {
       puzzle: null,
@@ -322,7 +320,7 @@ export default function Page() {
       requiredLetterAt: [],
       cellForLocation: [],
       locByKey: {},
-      wordsIndex: { H: [], V: [] },
+      wordLocsByIndex: [],
       ribbonLines: [],
       displayCharByTopIndex: [],
       tileAtLocationStart: [],
@@ -357,6 +355,9 @@ export default function Page() {
   const greensSet = useMemo(() => new Set(greensComputed), [greensComputed]);
 
   // Detect completion and show a single Congrats modal per level
+  const [modal, setModal] = useState(null); // 'tbd' | 'reset' | 'help' | 'congrats' | null
+  const lastFocusRef = useRef(null);
+
   useEffect(() => {
     if (!D.N) return;
     const solved = greensSet.size === D.N;
@@ -365,7 +366,6 @@ export default function Page() {
       if (!cur) return prev;
       if (solved && !cur.isComplete) {
         const copy = { ...prev, [activeLevel]: { ...cur, isComplete: true } };
-        // open modal next tick to avoid setState-while-render warnings
         Promise.resolve().then(() => openModal("congrats"));
         return copy;
       }
@@ -373,12 +373,19 @@ export default function Page() {
     });
   }, [greensSet, D.N, activeLevel]);
 
-  /* -------------------- NEW: Level-1 clue bar state & derive -------------------- */
+  /* -------------------- Clue state (both levels share index & order) -------------------- */
+
+  // Show/Hide clues per-level (session-only)
+  const [showCluesByLevel, setShowCluesByLevel] = useState({ 1: true, 2: true });
+  const showClues = Boolean(showCluesByLevel[activeLevel]);
+  const toggleShowClues = () =>
+    setShowCluesByLevel((prev) => ({ ...prev, [activeLevel]: !prev[activeLevel] }));
   const [clueIndex, setClueIndex] = useState(0);
-  // Reset clue index whenever Level 1 puzzle changes or user switches levels
+
+  // Reset clue index whenever level or puzzle changes
   useEffect(() => {
     setClueIndex(0);
-  }, [activeLevel, derived1?.puzzle?.id]);
+  }, [activeLevel, derived1?.puzzle?.id, derived2?.puzzle?.id]);
 
   const allClues = useMemo(() => {
     const words = D.puzzle?.words || [];
@@ -387,9 +394,7 @@ export default function Page() {
 
   const clueOrder0 = useMemo(() => {
     if (!Array.isArray(allClues) || allClues.length === 0) return [];
-    const ord = Array.isArray(D.puzzle?.clue_order)
-      ? D.puzzle.clue_order
-      : null;
+    const ord = Array.isArray(D.puzzle?.clue_order) ? D.puzzle.clue_order : null;
     if (ord && ord.length === allClues.length) {
       // stored as 1-based in JSON
       return ord.map((n) => (n | 0) - 1).filter((i) => i >= 0 && i < allClues.length);
@@ -404,20 +409,22 @@ export default function Page() {
     return allClues[i] || "";
   }, [allClues, clueOrder0, clueIndex]);
 
-  /* --------------------------- Bands (now disabled for L1) --------------------------- */
-  // We keep the structure, but we no longer show yellow bands on Level 1 per your spec.
-  const { bandH, bandV } = useMemo(() => {
-    const N = D.N || 0;
-    const outH = new Array(N + 1).fill(false);
-    const outV = new Array(N + 1).fill(false);
+  // Active word index + loc set (Level 1 only)
+  const activeWordIndexL1 = useMemo(() => {
+    if (activeLevel !== 1) return -1;
+    if (!allClues.length || !clueOrder0.length) return -1;
+    const i = clueOrder0[(clueIndex % clueOrder0.length + clueOrder0.length) % clueOrder0.length];
+    return i;
+  }, [activeLevel, allClues, clueOrder0, clueIndex]);
 
-    // Historically, Level 1 had bands and Level 2 didn't.
-    // New behavior: NO BANDS on Level 1 either. Level 2 stays as before (no bands).
-    // So we always return all-false arrays.
-    return { bandH: outH, bandV: outV };
-  }, [D.N]);
+  const activeWordLocSet = useMemo(() => {
+    if (activeLevel !== 1) return new Set();
+    const idx = activeWordIndexL1;
+    const locs = (D.wordLocsByIndex && D.wordLocsByIndex[idx]) || [];
+    return new Set(locs);
+  }, [activeLevel, activeWordIndexL1, D.wordLocsByIndex]);
 
-  /* ------------------------- Bottom grid helpers + lattice -------------------------- */
+  /* ------------------------- Lattice (unique edges) -------------------------- */
   const cellSize = "clamp(48px, 12.5vw, 64px)";
   const getLocId = (r, c) => {
     const key = `${r},${c}`;
@@ -425,7 +432,6 @@ export default function Page() {
     return typeof loc === "number" ? loc : 0;
   };
 
-  // Build a set of unique edges (so interior lines are drawn once, not doubled).
   const { edgesH, edgesV } = useMemo(() => {
     const occ = new Set(Object.keys(D.locByKey || {})); // "r,c" for letter cells
     const H = new Set();
@@ -468,10 +474,6 @@ export default function Page() {
     originRect: null,
   });
 
-  // --- Modals ---
-  const [modal, setModal] = useState(null); // 'tbd' | 'reset' | 'help' | 'congrats' | null
-  const lastFocusRef = useRef(null);
-
   function openModal(type, fromEl) {
     lastFocusRef.current = fromEl || null;
     setModal(type);
@@ -487,7 +489,9 @@ export default function Page() {
       if (e.key === "Escape") closeModal();
     }
     if (modal) window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
+    return () => {
+      window.removeEventListener("keydown", onKey);
+    };
   }, [modal]);
 
   // Reset current level to JSON start state
@@ -509,7 +513,9 @@ export default function Page() {
     if (!loc || greensSet.has(loc)) return;
     const el = cellRefs.current[loc];
     if (!el) return;
-    try { e.currentTarget.setPointerCapture?.(e.pointerId); } catch { }
+    try {
+      e.currentTarget.setPointerCapture?.(e.pointerId);
+    } catch {}
     const rect = el.getBoundingClientRect();
     const tileId = selectedTileAtLocation[loc] || 0;
     if (!tileId) return;
@@ -558,7 +564,7 @@ export default function Page() {
     }
 
     function onUp() {
-      // compute best overlap with other UNLOCKED tiles (>= 50%)
+      // compute best overlap with other UNLOCKED tiles (>= 33%)
       const moved = shiftedRect(drag.originRect, drag.dx, drag.dy);
       const areaDragged = moved.width * moved.height;
 
@@ -584,8 +590,11 @@ export default function Page() {
           const copy = { ...prev };
           const lvl = { ...(copy[activeLevel] || {}) };
           const arr = (lvl.tileAtLocation || D.tileAtLocationStart || []).slice();
-          const a = drag.srcLoc, b = bestLoc;
-          const tmp = arr[a]; arr[a] = arr[b]; arr[b] = tmp;
+          const a = drag.srcLoc,
+            b = bestLoc;
+          const tmp = arr[a];
+          arr[a] = arr[b];
+          arr[b] = tmp;
           lvl.tileAtLocation = arr;
           lvl.moveCount = (lvl.moveCount || 0) + 1;
           copy[activeLevel] = lvl;
@@ -615,7 +624,7 @@ export default function Page() {
     };
   }, [drag.active, drag.dx, drag.dy, drag.originRect, drag.srcLoc, D.N, greensSet, activeLevel, D.tileAtLocationStart]);
 
-  /* --------------------------- Early guards (after hooks) --------------------------- */
+  /* --------------------------- Early guards --------------------------- */
   if (err) return <div className="p-6 text-red-600">Error: {err}</div>;
   if (!derived1) return <div className="p-6">Loading…</div>;
 
@@ -623,28 +632,23 @@ export default function Page() {
   return (
     <div className="min-h-screen w-full bg-white text-gray-900 p-4">
       <div className="max-w-xl mx-auto space-y-5">
-
-<style jsx global>{`
-  :root {
-    /* Phones / default (keep what you liked) */
-    --band-y1: #F7D448;
-    --band-y2: #F6D24A;
-  }
-  /* Desktop/laptop heuristic: mouse/trackpad present */
-  @media (hover: hover) and (pointer: fine) {
-    :root {
-      /* Slightly toned down from phone, not too golden */
-      --band-y1: #F3CD3F;
-      --band-y2: #E6BC33;
-    }
-  }
-`}</style>
+        <style jsx global>{`
+          :root {
+            --band-y1: #f7d448;
+            --band-y2: #f6d24a;
+          }
+          @media (hover: hover) and (pointer: fine) {
+            :root {
+              --band-y1: #f3cd3f;
+              --band-y2: #e6bc33;
+            }
+          }
+        `}</style>
 
         {/* Header */}
         <div className="flex items-center justify-between">
           <div className="text-lg font-semibold">Phrazagram</div>
           <div className="flex items-center gap-2">
-            {/* Right button group: TBD · Reset · Help */}
             <button
               type="button"
               className="px-2 py-1 text-sm rounded border border-gray-300 hover:bg-gray-50"
@@ -672,12 +676,8 @@ export default function Page() {
           </div>
         </div>
 
-        {/* Level selector (instant; URL does NOT change) */}
-        <div
-          role="radiogroup"
-          aria-label="Level"
-          className="flex items-center justify-center gap-2"
-        >
+        {/* Level selector */}
+        <div role="radiogroup" aria-label="Level" className="flex items-center justify-center gap-2">
           <button
             type="button"
             role="radio"
@@ -708,7 +708,7 @@ export default function Page() {
           </button>
         </div>
 
-        {/* Top Ribbon (lowercase, accented; numbers hide on greens) */}
+        {/* Top Ribbon (numbers hide on greens) */}
         <div className="pt-2 pb-0 px-3">
           <div className="space-y-2">
             {D.ribbonLines.map((line, li) => (
@@ -732,16 +732,14 @@ export default function Page() {
                     greensSet.has(cell.topIndex);
                   const showNumber = cell.isLetter && !isGreen;
                   const colorClass = cell.isLetter
-                    ? isGreen
-                      ? "text-[#208040]"
-                      : "text-[#1240A0]"
-                    : "text-gray-700";
+  ? (isGreen ? "text-white" : "text-[#1240A0]")
+  : "text-gray-700";
 
                   // Show the TILE’s glyph, but match case to TARGET slot
                   let glyph = cell.ch;
                   if (cell.isLetter && cell.topIndex != null) {
                     const tileId = selectedTileAtLocation[cell.topIndex] || 0;
-                    const tileGlyph = tileId ? (D.displayCharByTopIndex[tileId] || "") : "";
+                    const tileGlyph = tileId ? D.displayCharByTopIndex[tileId] || "" : "";
                     const targetGlyph = D.displayCharByTopIndex[cell.topIndex] || "";
                     const isUpper =
                       targetGlyph &&
@@ -754,18 +752,37 @@ export default function Page() {
                     glyph = isUpper
                       ? tileGlyph.toLocaleUpperCase()
                       : isLower
-                        ? tileGlyph.toLocaleLowerCase()
-                        : tileGlyph;
+                      ? tileGlyph.toLocaleLowerCase()
+                      : tileGlyph;
                   }
 
                   return (
                     <div key={ci} className="flex flex-col items-center" style={{ minWidth: "1ch" }}>
                       <span
-                        className={`leading-none font-semibold ${colorClass}`}
-                        style={{ fontSize: "clamp(18px, 4.2vw, 26px)" }}
-                      >
-                        {glyph}
-                      </span>
+  className="relative leading-none font-semibold"
+  style={{ fontSize: "clamp(18px, 4.2vw, 26px)" }}
+>
+  {isGreen && (
+    <span
+      aria-hidden
+      className="absolute"
+      style={{
+        left: "50%",
+        top: "50%",
+        transform: "translate(-50%,-50%)",
+        width: ".95em",     // tight chip width
+        height: "1.05em",    // tight chip height
+        background: "#208040",
+        borderRadius: "0.30em", // rounded “chip” look
+        zIndex: 0,
+      }}
+    />
+  )}
+  <span className={colorClass} style={{ position: "relative", zIndex: 1 }}>
+    {glyph}
+  </span>
+</span>
+
                       <span
                         className={`leading-[1.0] ${showNumber ? "opacity-100" : "opacity-0"}`}
                         style={{ fontSize: "10px", marginTop: "2px" }}
@@ -781,79 +798,146 @@ export default function Page() {
         </div>
 
         {/* CENTER BAR:
-            - Level 1: Clue bar (cycles clues in puzzle.clue_order; no Moves/Minimum)
-            - Level 2: Original Moves + Minimum (unchanged)
+            - Level 1: Clue bar (cycles clues in puzzle.clue_order; word highlight in grid)
+            - Level 2: Moves + Minimum + Clue bar (no word highlight)
+           The Hide/Show toggle is on the same line as the Moves info, above the clue bar.
         */}
         {activeLevel === 1 ? (
-  <div className="w-full max-w-2xl mx-auto">
-    {/* Moves line */}
-    <div className="text-center select-none my-3">
-      <span className="text-sm text-gray-700">
-        Moves:{" "}
-        <span className="text-xl font-semibold text-black">
-          {byLevel[activeLevel]?.moveCount ?? 0}
-        </span>
-      </span>
-      <span className="text-xs text-gray-500 ml-3">
-        (minimum needed: {D.minMoves})
-      </span>
-    </div>
-
-    {/* Clue bar */}
-<div className="flex items-start justify-between px-2 py-1 border border-gray-300 rounded bg-white shadow my-3">
-  <div className="pr-2 min-w-0 flex-1 text-sm">
-    <div
-      className="font-normal"
-      style={{
-        display: "-webkit-box",
-        WebkitLineClamp: 2,           // clamp to 2 lines
-        WebkitBoxOrient: "vertical",
-        overflow: "hidden"
-      }}
-      title={currentClue || "—"}      // full text on long-press / hover
-    >
-      <span className="font-semibold">{clueIndex + 1}.</span>{" "}
-      {currentClue || "—"}
-    </div>
-  </div>
-  <button
-    className="ml-2 px-1 py-0.5 bg-gray-100 rounded border border-gray-300 text-lg leading-none shrink-0"
-    onClick={() => {
-      if (allClues.length > 0) {
-        setClueIndex((prev) => (prev + 1) % allClues.length);
-      }
-    }}
-    aria-label="Next clue"
-  >
-    ▸
-  </button>
-</div>
-
-  </div>
-) : (
-  /* Level 2 block starts here… */
-            <div className="text-center select-none mb-5">
-              <span className="text-sm text-gray-700">
-                Moves:{" "}
-                <span className="text-xl font-semibold text-black">
-                  {byLevel[activeLevel]?.moveCount ?? 0}
+          <div className="w-full max-w-2xl mx-auto">
+            {/* Header row: left = Moves/min, right = Hide/Show */}
+            <div className="my-3 flex items-center justify-between">
+              <div className="select-none">
+                <span className="text-sm text-gray-700">
+                  Moves:{" "}
+                  <span className="text-xl font-semibold text-black">
+                    {byLevel[activeLevel]?.moveCount ?? 0}
+                  </span>
                 </span>
-              </span>
-              <span className="text-xs text-gray-500 ml-3">
-                (minimum needed: {D.minMoves})
-              </span>
+                <span className="text-xs text-gray-500 ml-3">
+                  (minimum needed: {D.minMoves})
+                </span>
+              </div>
+              <button
+                className="px-2 py-1 text-xs bg-gray-100 rounded border border-gray-300 leading-none"
+                onClick={toggleShowClues}
+                aria-pressed={!showClues}
+                aria-label={showClues ? "Hide clues" : "Show clues"}
+                title={showClues ? "Hide all clues" : "Show all clues"}
+              >
+                {showClues ? "Hide clues" : "Show clues"}
+              </button>
             </div>
 
+            {/* Clue bar (only when shown) */}
+            {showClues && (
+              <div className="flex items-start justify-between px-2 py-1 border border-gray-300 rounded bg-white shadow mb-3">
+                {/* Clue text (two-line clamp) */}
+                <div className="pr-2 min-w-0 flex-1 text-sm">
+                  <div
+                    className="font-normal"
+                    style={{
+                      display: "-webkit-box",
+                      WebkitLineClamp: 2,
+                      WebkitBoxOrient: "vertical",
+                      overflow: "hidden",
+                    }}
+                    title={currentClue || "—"}
+                  >
+                    <span className="font-semibold">{clueIndex + 1}.</span>{" "}
+                    {currentClue || "—"}
+                  </div>
+                </div>
+
+                {/* Right: Next only */}
+                <div className="flex flex-col items-end gap-1 shrink-0">
+                  <button
+                    className="px-2 py-1 bg-gray-100 rounded border border-gray-300 text-base leading-none"
+                    onClick={() => {
+                      if (allClues.length > 0) {
+                        setClueIndex((prev) => (prev + 1) % allClues.length);
+                      }
+                    }}
+                    aria-label="Next clue"
+                    title="Next clue"
+                  >
+                    ▸
+                  </button>
+                </div>
+              </div>
+            )}
+          </div>
+        ) : (
+          /* Level 2 block */
+          <div className="w-full max-w-2xl mx-auto">
+            {/* Header row: left = Moves/min, right = Hide/Show */}
+            <div className="mb-3 flex items-center justify-between">
+              <div className="select-none">
+                <span className="text-sm text-gray-700">
+                  Moves:{" "}
+                  <span className="text-xl font-semibold text-black">
+                    {byLevel[activeLevel]?.moveCount ?? 0}
+                  </span>
+                </span>
+                <span className="text-xs text-gray-500 ml-3">
+                  (minimum needed: {D.minMoves})
+                </span>
+              </div>
+              <button
+                className="px-2 py-1 text-xs bg-gray-100 rounded border border-gray-300 leading-none"
+                onClick={toggleShowClues}
+                aria-pressed={!showClues}
+                aria-label={showClues ? "Hide clues" : "Show clues"}
+                title={showClues ? "Hide all clues" : "Show all clues"}
+              >
+                {showClues ? "Hide clues" : "Show clues"}
+              </button>
+            </div>
+
+            {/* Clue bar (only when shown) */}
+            {showClues && (
+              <div className="flex items-start justify-between px-2 py-1 border border-gray-300 rounded bg-white shadow mb-3">
+                <div className="pr-2 min-w-0 flex-1 text-sm">
+                  <div
+                    className="font-normal"
+                    style={{
+                      display: "-webkit-box",
+                      WebkitLineClamp: 2,
+                      WebkitBoxOrient: "vertical",
+                      overflow: "hidden",
+                    }}
+                    title={currentClue || "—"}
+                  >
+                    <span className="font-semibold">{clueIndex + 1}.</span>{" "}
+                    {currentClue || "—"}
+                  </div>
+                </div>
+                <div className="flex flex-col items-end gap-1 shrink-0">
+                  <button
+                    className="px-2 py-1 bg-gray-100 rounded border border-gray-300 text-base leading-none"
+                    onClick={() => {
+                      if (allClues.length > 0) {
+                        setClueIndex((prev) => (prev + 1) % allClues.length);
+                      }
+                    }}
+                    aria-label="Next clue"
+                    title="Next clue"
+                  >
+                    ▸
+                  </button>
+                </div>
+              </div>
+            )}
+          </div>
         )}
 
-        {/* Bottom Grid (UPPERCASE, A–Z only; greens locked; DRAGGABLE; bands disabled on L1; lattice overlay) */}
+        {/* Bottom Grid (UPPERCASE, A–Z only; greens locked; DRAGGABLE; lattice overlay) */}
         <div className="pt-0 pb-3 px-3">
           <div
             className="mx-auto"
-            style={{ width: `calc(${D.gridW} * ${cellSize})`, ["--cell-size"]: cellSize }}
+            style={{ width: `calc(${D.gridW} * ${cellSize})`, "--cell-size": cellSize }}
           >
             <div className="relative">
-              {/* The grid of tiles (no borders; background is transparent) */}
+              {/* The grid of tiles */}
               <div
                 className="grid"
                 style={{
@@ -866,7 +950,7 @@ export default function Page() {
                     const loc = getLocId(r, c);
                     const isLetterCell = loc > 0;
 
-                    const tileId = isLetterCell ? (selectedTileAtLocation[loc] || 0) : 0;
+                    const tileId = isLetterCell ? selectedTileAtLocation[loc] || 0 : 0;
 
                     const isGreen =
                       isLetterCell &&
@@ -878,14 +962,21 @@ export default function Page() {
                     // Use normalized gameplay letter (A–Z only), no accents.
                     const glyph =
                       isLetterCell && tileId > 0
-                        ? (D.lettersTop[tileId - 1] || "")
+                        ? D.lettersTop[tileId - 1] || ""
                         : "";
 
                     const isDraggingThis = drag.active && drag.srcLoc === loc;
+                    // Active-word highlight (Level 1 only, when clues are visible)
+                    const isActiveWordTile =
+                      activeLevel === 1 && showClues && activeWordLocSet.has(loc);
 
-                    // Yellow bands: DISABLED for Level 1 per spec; Level 2 already had none.
-                    const showBandH = false;
-                    const showBandV = false;
+                    // Colors
+                    let bgColor = isGreen ? "#208040" : "#ECEFF3";
+                    let glyphColor = isGreen ? "#FFFFFF" : "#1240A0";
+                    if (isActiveWordTile && !isGreen) {
+                      bgColor = "#1240A0"; // flip
+                      glyphColor = "#ECEFF3";
+                    }
 
                     return (
                       <div
@@ -900,13 +991,13 @@ export default function Page() {
                           background: "transparent",
                         }}
                       >
-                        {/* Full-tile wrapper: background + bands + letter + number move together */}
+                        {/* Full-tile wrapper */}
                         {isLetterCell && (
                           <div
                             className="absolute inset-0 flex flex-col items-center justify-center touch-none"
                             onPointerDown={(e) => (!isGreen ? onTilePointerDown(e, loc) : null)}
                             style={{
-                              background: isGreen ? "#208040" : "#ECEFF3",
+                              background: bgColor,
                               cursor: !isGreen ? (isDraggingThis ? "grabbing" : "grab") : "default",
                               transform: isDraggingThis
                                 ? `translate(${drag.dx}px, ${drag.dy}px) scale(1.06)`
@@ -917,48 +1008,42 @@ export default function Page() {
                               zIndex: isDraggingThis ? 4 : 1,
                             }}
                           >
-                            {/* (Bands removed for Level 1) */}
-                            {showBandH && (
+                            {/* Active word ring */}
+                            {isActiveWordTile && (
                               <div
                                 aria-hidden
-                                className="absolute"
+                                className="absolute inset-0 pointer-events-none"
                                 style={{
-                                  left: "0px",
-                                  right: "0px",
-                                  top: "30%",
-                                  height: "40%",
-                                  background: "linear-gradient(var(--band-y1), var(--band-y2))",
-                                  zIndex: 1,
-                                }}
-                              />
-                            )}
-                            {showBandV && (
-                              <div
-                                aria-hidden
-                                className="absolute"
-                                style={{
-                                  top: "0px",
-                                  bottom: "0px",
-                                  left: "30%",
-                                  width: "40%",
-                                  background: "linear-gradient(var(--band-y1), var(--band-y2))",
-                                  zIndex: 1,
+                                  boxShadow: "inset 0 0 0 2px #3B82F6",
+                                  borderRadius: "2px",
+                                  zIndex: 2,
                                 }}
                               />
                             )}
 
-                            {/* Letter glyph (above lattice) */}
+                            {/* Letter glyph */}
                             <span
-                              className={`leading-none font-semibold ${isGreen ? "text-white" : "text-[#1240A0]"}`}
-                              style={{ fontSize: "clamp(18px, 4.2vw, 26px)", position: "relative", zIndex: 3 }}
+                              className="leading-none font-semibold"
+                              style={{
+                                fontSize: "clamp(18px, 4.2vw, 26px)",
+                                position: "relative",
+                                zIndex: 3,
+                                color: glyphColor,
+                              }}
                             >
                               {glyph}
                             </span>
 
-                            {/* Location number (hidden on greens; above lattice) */}
+                            {/* Location number (hidden on greens) */}
                             <span
                               className={`leading-[1.0] ${showNumber ? "opacity-100" : "opacity-0"}`}
-                              style={{ fontSize: "10px", marginTop: "6px", color: "#222", position: "relative", zIndex: 3 }}
+                              style={{
+                                fontSize: "10px",
+                                marginTop: "6px",
+                                color: (isActiveWordTile && !isGreen) ? "#FFFFFF" : "#222",
+                                position: "relative",
+                                zIndex: 3,
+                              }}
                             >
                               {showNumber ? loc : " "}
                             </span>
@@ -970,12 +1055,8 @@ export default function Page() {
                 )}
               </div>
 
-              {/* LATTICE OVERLAY: a single 1px grid, only around letter cells */}
-              <div
-                className="pointer-events-none absolute inset-0"
-                style={{ zIndex: 2 }}
-                aria-hidden
-              >
+              {/* LATTICE OVERLAY */}
+              <div className="pointer-events-none absolute inset-0" style={{ zIndex: 2 }} aria-hidden>
                 {/* Horizontal edges */}
                 {edgesH.map(({ y, x1, x2 }, i) => (
                   <div
@@ -1011,15 +1092,9 @@ export default function Page() {
 
         {/* Modals */}
         {modal && (
-          <div
-            className="fixed inset-0 z-[999] flex items-center justify-center"
-            aria-hidden={false}
-          >
+          <div className="fixed inset-0 z-[999] flex items-center justify-center" aria-hidden={false}>
             {/* Backdrop */}
-            <div
-              className="absolute inset-0 bg-black/40"
-              onClick={closeModal}
-            />
+            <div className="absolute inset-0 bg-black/40" onClick={closeModal} />
             {/* Dialog */}
             <div
               role="dialog"
@@ -1039,15 +1114,12 @@ export default function Page() {
               {/* Content by type */}
               {modal === "tbd" && (
                 <>
-                  <h2 id="modal-title" className="text-lg font-semibold mb-2">Placeholder</h2>
-                  <p className="text-sm text-gray-700">
-                    To be used to access past puzzles
-                  </p>
+                  <h2 id="modal-title" className="text-lg font-semibold mb-2">
+                    Placeholder
+                  </h2>
+                  <p className="text-sm text-gray-700">To be used to access past puzzles</p>
                   <div className="mt-4 flex justify-end">
-                    <button
-                      className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50"
-                      onClick={closeModal}
-                    >
+                    <button className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50" onClick={closeModal}>
                       Close
                     </button>
                   </div>
@@ -1056,57 +1128,66 @@ export default function Page() {
 
               {modal === "help" && (
                 <>
-  <h2 id="modal-title" className="text-lg font-semibold mb-2">How to Play</h2>
+                  <h2 id="modal-title" className="text-lg font-semibold mb-2">How to Play</h2>
+                  <div className="text-sm text-gray-800 space-y-3">
+                    <div>
+                      <div className="font-semibold">Objective</div>
+                      <p>
+                        Complete the puzzle by arranging all the tiles in their correct positions to reveal the phrase or
+                        theme (shown at the top). Fewer moves = higher rating.
+                      </p>
+                    </div>
 
-  <div className="text-sm text-gray-800 space-y-3">
-    <div>
-      <div className="font-semibold">Objective</div>
-      <p>Complete the puzzle by arranging all the tiles in their correct positions to reveal the phrase or theme (shown at the top). Fewer moves = higher rating.</p>
-    </div>
+                    <div>
+                      <div className="font-semibold">Swapping tiles</div>
+                      <p>
+                        Drag one letter onto another in the bottom grid to swap them. Letters in their correct location
+                        (green) are locked and can’t be moved.
+                      </p>
+                    </div>
 
-    <div>
-      <div className="font-semibold">Swapping tiles</div>
-      <p>Drag one letter onto another in the bottom grid to swap them. Letters in their correct location (green) are locked and can’t be moved.</p>
-    </div>
+                    <div>
+                      <div className="font-semibold">Relationship between top and bottom</div>
+                      <p>
+                        Each numbered slot in the top ribbon corresponds to the same numbered square in the bottom grid.
+                        Example: placing an “A” in square 7 below puts an “A” in slot 7 above. Likewise, if you know slot
+                        12 should be a certain letter, move that letter into square 12.
+                      </p>
+                    </div>
 
-    <div>
-      <div className="font-semibold">Relationship between top and bottom</div>
-      <p>Each numbered slot in the top ribbon corresponds to the same numbered square in the bottom grid. Example: placing an “A” in square 7 below puts an “A” in slot 7 above. Likewise, if you know slot 12 should be a certain letter, move that letter into square 12.</p>
-    </div>
+                    <div>
+                      <div className="font-semibold">Level 1</div>
+                      <p>
+                        Clues follow the order provided and are tied to specific words. The currently shown clue highlights
+                        its word in the grid.
+                      </p>
+                    </div>
 
-    <div>
-      <div className="font-semibold">Level 1</div>
-      <p>Alongside the phrase, you’ll see clues for each grid word. They appear one at a time in no particular order so you don’t know which clue belongs to which word. Cycle through them with the arrow.</p>
-    </div>
+                    <div>
+                      <div className="font-semibold">Level 2</div>
+                      <p>Clues appear in randomized order from the puzzle data (not tied to specific words).</p>
+                    </div>
 
-    <div>
-      <div className="font-semibold">Level 2</div>
-      <p>No word clues are provided.</p>
-    </div>
+                    <div>
+                      <div className="font-semibold">Starting position</div>
+                      <p>Some squares begin green, meaning those letters are already correctly placed.</p>
+                    </div>
+                  </div>
 
-    <div>
-      <div className="font-semibold">Starting position</div>
-      <p>Some squares begin highlighted in green, meaning those letters are already correctly placed.</p>
-    </div>
-  </div>
-
-  <div className="mt-4 flex justify-end">
-    <button
-      className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50"
-      onClick={closeModal}
-    >
-      Close
-    </button>
-  </div>
-</>
-
+                  <div className="mt-4 flex justify-end">
+                    <button className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50" onClick={closeModal}>
+                      Close
+                    </button>
+                  </div>
+                </>
               )}
 
               {modal === "reset" && (
                 <>
                   <h2 id="modal-title" className="text-lg font-semibold mb-2">Reset this level?</h2>
                   <p className="text-sm text-gray-700">
-                    This restores the current level to its original start state (same scramble and seeded greens) and sets Moves to 0. You can’t undo this.
+                    This restores the current level to its original start state (same scramble and seeded greens) and sets
+                    Moves to 0. You can’t undo this.
                   </p>
                   <div className="mt-4 flex justify-end gap-2">
                     <button
@@ -1116,10 +1197,7 @@ export default function Page() {
                     >
                       Cancel
                     </button>
-                    <button
-                      className="px-3 py-1 rounded bg-red-600 text-white hover:bg-red-700"
-                      onClick={doResetCurrentLevel}
-                    >
+                    <button className="px-3 py-1 rounded bg-red-600 text-white hover:bg-red-700" onClick={doResetCurrentLevel}>
                       Reset
                     </button>
                   </div>
@@ -1127,106 +1205,79 @@ export default function Page() {
               )}
 
               {modal === "congrats" && (() => {
-  const moves = byLevel[activeLevel]?.moveCount ?? 0;
-  const min = D.minMoves;
-  const label = ratingLabel(moves, min);
+                const moves = byLevel[activeLevel]?.moveCount ?? 0;
+                const min = D.minMoves;
+                const label = ratingLabel(moves, min);
 
-  const otherLevel = activeLevel === 1 ? 2 : 1;
-  const otherExists = otherLevel === 2 ? Boolean(derived2) : Boolean(derived1);
-  const otherSolved = Boolean(byLevel[otherLevel]?.isComplete);
+                const otherLevel = activeLevel === 1 ? 2 : 1;
+                const otherExists = otherLevel === 2 ? Boolean(derived2) : Boolean(derived1);
+                const otherSolved = Boolean(byLevel[otherLevel]?.isComplete);
 
-  function shareText() {
-    return `I solved today’s Phrazagram and was officially designated: “${label}.” Play here: <link TBD>`;
-  }
+                function shareText() {
+                  return `I solved today’s Phrazagram and was officially designated: “${label}.” Play here: <link TBD>`;
+                }
 
-  function onShare() {
-    const txt = shareText();
-    navigator.clipboard?.writeText(txt)
-      .then(() => alert("Share text copied to clipboard!"))
-      .catch(() => {
-        // Fallback if clipboard is blocked
-        window.prompt("Copy your share text:", txt);
-      });
-  }
+                function onShare() {
+                  const txt = shareText();
+                  navigator.clipboard?.writeText(txt)
+                    .then(() => alert("Share text copied to clipboard!"))
+                    .catch(() => {
+                      window.prompt("Copy your share text:", txt);
+                    });
+                }
 
-  return (
-    <>
-      {/* Title */}
-      <h2 id="modal-title" className="text-lg font-semibold mb-1">Congratulations!</h2>
-
-      {/* Body line */}
-      <div className="text-sm text-gray-800">
-        You solved <span className="font-semibold">Level {activeLevel}</span> in{" "}
-        <span className="font-mono font-semibold">{moves}</span> moves (min{" "}
-        <span className="font-mono">{min}</span>).
-      </div>
-
-      {/* Designation */}
-      <div className="mt-1 text-base font-semibold">
-        You’re officially: {label}
-      </div>
-
-      {/* Actions */}
-      <div className="mt-3 flex items-center gap-2">
-        {/* Show Play Level {other} only if the other level exists and is NOT already solved */}
-        {!otherSolved && otherExists && (
-          <button
-            className="px-3 py-1 rounded bg-blue-600 text-white hover:bg-blue-700"
-            onClick={() => {
-              setActiveLevel(otherLevel);
-              closeModal();
-            }}
-          >
-            Play Level {otherLevel}
-          </button>
-        )}
-        <button
-          className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50"
-          onClick={onShare}
-        >
-          Share results
-        </button>
-      </div>
-
-      {/* Divider */}
-      <div className="mt-4 border-t pt-3">
-        {/* Theme section (optional) */}
-        {D.puzzle?.theme_info?.trim() ? (
-          <>
-            <div className="font-semibold mb-2">
-              About {D.puzzle.phrase}…
-            </div>
-            {(D.puzzle.theme_info || "")
-              .split(/\n{2,}/)
-              .map((para, i) => (
-                <p key={i} className="text-sm text-gray-700 mb-2 last:mb-0">
-                  {para}
-                </p>
-              ))}
-          </>
-        ) : (
-          <div className="text-sm text-gray-500">No theme notes.</div>
-        )}
-      </div>
-
-      {/* Close */}
-      <div className="mt-4 flex justify-end">
-        <button
-          className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50"
-          onClick={closeModal}
-          autoFocus
-        >
-          Close
-        </button>
-      </div>
-    </>
-  );
-})()}
-
+                return (
+                  <>
+                    <h2 id="modal-title" className="text-lg font-semibold mb-1">Congratulations!</h2>
+                    <div className="text-sm text-gray-800">
+                      You solved <span className="font-semibold">Level {activeLevel}</span> in{" "}
+                      <span className="font-mono font-semibold">{moves}</span> moves (min{" "}
+                      <span className="font-mono">{min}</span>).
+                    </div>
+                    <div className="mt-1 text-base font-semibold">You’re officially: {label}</div>
+                    <div className="mt-3 flex items-center gap-2">
+                      {!otherSolved && otherExists && (
+                        <button
+                          className="px-3 py-1 rounded bg-blue-600 text-white hover:bg-blue-700"
+                          onClick={() => {
+                            setActiveLevel(otherLevel);
+                            closeModal();
+                          }}
+                        >
+                          Play Level {otherLevel}
+                        </button>
+                      )}
+                      <button className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50" onClick={onShare}>
+                        Share results
+                      </button>
+                    </div>
+                    <div className="mt-4 border-t pt-3">
+                      {D.puzzle?.theme_info?.trim() ? (
+                        <>
+                          <div className="font-semibold mb-2">About {D.puzzle.phrase}…</div>
+                          {(D.puzzle.theme_info || "")
+                            .split(/\n{2,}/)
+                            .map((para, i) => (
+                              <p key={i} className="text-sm text-gray-700 mb-2 last:mb-0">
+                                {para}
+                              </p>
+                            ))}
+                        </>
+                      ) : (
+                        <div className="text-sm text-gray-500">No theme notes.</div>
+                      )}
+                    </div>
+                    <div className="mt-4 flex justify-end">
+                      <button className="px-3 py-1 rounded border border-gray-300 hover:bg-gray-50" onClick={closeModal} autoFocus>
+                        Close
+                      </button>
+                    </div>
+                  </>
+                );
+              })()}
             </div>
           </div>
         )}
-
       </div>
     </div>
   );

@@ -104,7 +104,6 @@ WORDS:
 CLUES:
 What keeps things taut in the story line
 Slip behind, with evidence
-Dense with substance, if not fat
 Juicy, but in the sense of import
 Once took off, then landed
 Habitual past indicator
@@ -116,8 +115,6 @@ Queen Elizabeth I gave this saying royal endorsement when she quoted it in Latin
 
 
 PHRASE: THE MUSTARD'S OFF THE HOT DOG
-This phrase was one of legendary Lakers broadcaster Chick Hearn's famous "Chickisms," used when a player attempted an unnecessarily showy, flashy play which ended up in a turnover or was otherwise unsuccessful, such as a missed dunk. The Seattle TimesFandom (Wikipedia)
-Hearn was the first broadcaster named to the Naismith Basketball Hall of Fame and is remembered for his rapid-fire broadcasting style that created many colorful phrases that became common basketball vernacular, including "slam dunk," "air ball," and "no harm, no foul." WebworldincThe Seattle Times (Wikipedia)
 
 WIDTH: 7
 HEIGHT: 6
@@ -138,6 +135,8 @@ One staying on the house.
 Spoiled in every sense.
 
 THEME:
+This phrase was one of legendary Lakers broadcaster Chick Hearn's famous "Chickisms," used when a player attempted an unnecessarily showy, flashy play which ended up in a turnover or was otherwise unsuccessful, such as a missed dunk. The Seattle TimesFandom (Wikipedia)
+Hearn was the first broadcaster named to the Naismith Basketball Hall of Fame and is remembered for his rapid-fire broadcasting style that created many colorful phrases that became common basketball vernacular, including "slam dunk," "air ball," and "no harm, no foul." WebworldincThe Seattle Times (Wikipedia)
 
 
 

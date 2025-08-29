@@ -8,7 +8,7 @@
   "puzzles": [
     {
       "phrase": "IT'S LIKE DEJA VU ALL OVER AGAIN.",
-      "theme_info": "Despite being one of baseball's most famous \"Yogi-isms,\" the quote didn't appear in print attributed to Yogi Berra until 1984, and in a 1987 interview with the New York Times, Berra himself denied ever saying it, stating \"Nope, not true, I never said that\" (Quote Investigator)\n\nAccording to the Yogi Berra Museum, Yogi supposedly said this phrase after Mickey Mantle and Roger Maris hit back-to-back home runs during the 1961 season when both players were competing to break Babe Ruth's single-season home run record of 60 Yogi-isms  (Yogi Berra Museum & Learning Center)",
+      "theme_info": "Despite being one of baseball's most famous \"Yogi-isms,\" the quote didn't appear in print attributed to Yogi Berra until 1984, and in a 1987 interview with the New York Times, Berra himself denied ever saying it, stating \"Nope, not true, I never said that\" (Quote Investigator)\nAccording to the Yogi Berra Museum, Yogi supposedly said this phrase after Mickey Mantle and Roger Maris hit back-to-back home runs during the 1961 season when both players were competing to break Babe Ruth's single-season home run record of 60 Yogi-isms  (Yogi Berra Museum & Learning Center)",
       "clue_order": [
         1,
         2,
@@ -67,38 +67,38 @@
       ],
       "start_state": {
         "scramble": [
-          22,
-          19,
-          18,
-          24,
-          10,
+          17,
           7,
-          4,
-          15,
-          12,
-          1,
-          6,
-          14,
-          8,
-          2,
-          5,
-          16,
-          13,
-          9,
-          11,
-          20,
           3,
           25,
+          11,
+          24,
+          12,
+          1,
           23,
-          17,
+          9,
+          20,
+          4,
+          13,
+          2,
+          22,
+          5,
+          14,
+          16,
+          19,
+          10,
+          15,
+          8,
+          6,
+          18,
           21
         ],
         "correct_positions": [
-          16,
-          20,
-          23
+          3,
+          13,
+          19
         ],
-        "min_moves": 16
+        "min_moves": 18
       },
       "id": 1
     },

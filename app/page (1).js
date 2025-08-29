@@ -1,3 +1,13 @@
+/*
+FILE: app/page.js
+SUMMARY: Mobile-first Phrazagram page with Level‑1 word‑tied cluing + highlight, Level‑2 randomized cluing, and a per‑level Hide/Show clues toggle with two‑line wrapped clue text.
+FEATURES:
+- Derives grid from puzzles.json (A–Z only) and renders draggable tiles with greens lock and lattice.
+- Level 1: clue bar uses `clue_order`; active word tiles get a subtle blue outline; non‑green tiles in the active word invert background/text colors.
+- Level 2: adds a clue bar that cycles clues in randomized order (from JSON) without word highlighting.
+- New Hide/Show clues toggle appears above the Next button on both levels; session‑only.
+- Clue text clamps/wraps to two lines on small screens (e.g., iPhone SE).
+*/
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
@@ -170,7 +180,24 @@ function derivePuzzleData(puzzle) {
     if (cell) locByKey[`${cell.row},${cell.col}`] = i;
   }
 
-  // Per-word location-id lists in reading order (for yellow bands)
+  
+  // Per-word location-id lists by original words[] index (for Level 1 word highlighting)
+  const wordLocsByIndex = [];
+  for (const w of puzzle.words || []) {
+    const t = normalizeAZ(w.text);
+    const horiz = w.dir === "H";
+    const locs = [];
+    for (let i = 0; i < t.length; i++) {
+      const r = w.row + (horiz ? 0 : i);
+      const c = w.col + (horiz ? i : 0);
+      const key = `${r},${c}`;
+      const loc = locByKey[key];
+      if (!loc) throw new Error(\`Missing location for cell \${key}\`);
+      locs.push(loc);
+    }
+    wordLocsByIndex.push(locs);
+  }
+// Per-word location-id lists in reading order (for yellow bands)
   const wordsIndex = { H: [], V: [] };
   for (const w of puzzle.words || []) {
     const t = normalizeAZ(w.text);
@@ -208,6 +235,7 @@ function derivePuzzleData(puzzle) {
     requiredLetterAt,
     cellForLocation,
     locByKey,
+    wordLocsByIndex,
     wordsIndex, // kept (bands now disabled for L1 per spec)
     ribbonLines,
     displayCharByTopIndex,
@@ -322,6 +350,7 @@ export default function Page() {
       requiredLetterAt: [],
       cellForLocation: [],
       locByKey: {},
+      wordLocsByIndex: [],
       wordsIndex: { H: [], V: [] },
       ribbonLines: [],
       displayCharByTopIndex: [],
@@ -374,11 +403,17 @@ export default function Page() {
   }, [greensSet, D.N, activeLevel]);
 
   /* -------------------- NEW: Level-1 clue bar state & derive -------------------- */
+
+  // Show/Hide clues per-level (session-only)
+  const [showCluesByLevel, setShowCluesByLevel] = useState({ 1: true, 2: true });
+  const showClues = Boolean(showCluesByLevel[activeLevel]);
+  const toggleShowClues = () =>
+    setShowCluesByLevel((prev) => ({ ...prev, [activeLevel]: !prev[activeLevel] }));
   const [clueIndex, setClueIndex] = useState(0);
   // Reset clue index whenever Level 1 puzzle changes or user switches levels
   useEffect(() => {
     setClueIndex(0);
-  }, [activeLevel, derived1?.puzzle?.id]);
+  }, [activeLevel, derived1?.puzzle?.id, derived2?.puzzle?.id]);
 
   const allClues = useMemo(() => {
     const words = D.puzzle?.words || [];
@@ -447,6 +482,21 @@ export default function Page() {
       const [, y, x1, x2] = s.split("|").map(Number);
       return { y, x1, x2 };
     });
+  // Active word index for Level 1 based on clue_order and clueIndex
+  const activeWordIndexL1 = useMemo(() => {
+    if (activeLevel !== 1) return -1;
+    if (!allClues.length || !clueOrder0.length) return -1;
+    const i = clueOrder0[(clueIndex % clueOrder0.length + clueOrder0.length) % clueOrder0.length];
+    return i;
+  }, [activeLevel, allClues, clueOrder0, clueIndex]);
+
+  const activeWordLocSet = useMemo(() => {
+    if (activeLevel !== 1) return new Set();
+    const idx = activeWordIndexL1;
+    const locs = (D.wordLocsByIndex && D.wordLocsByIndex[idx]) || [];
+    return new Set(locs);
+  }, [activeLevel, activeWordIndexL1, D.wordLocsByIndex]);
+
     const edgesV = Array.from(V).map((s) => {
       const [, x, y1, y2] = s.split("|").map(Number);
       return { x, y1, y2 };
@@ -800,35 +850,64 @@ export default function Page() {
     </div>
 
     {/* Clue bar */}
-<div className="flex items-start justify-between px-2 py-1 border border-gray-300 rounded bg-white shadow my-3">
-  <div className="pr-2 min-w-0 flex-1 text-sm">
-    <div
-      className="font-normal"
-      style={{
-        display: "-webkit-box",
-        WebkitLineClamp: 2,           // clamp to 2 lines
-        WebkitBoxOrient: "vertical",
-        overflow: "hidden"
-      }}
-      title={currentClue || "—"}      // full text on long-press / hover
-    >
-      <span className="font-semibold">{clueIndex + 1}.</span>{" "}
-      {currentClue || "—"}
-    </div>
-  </div>
-  <button
-    className="ml-2 px-1 py-0.5 bg-gray-100 rounded border border-gray-300 text-lg leading-none shrink-0"
-    onClick={() => {
-      if (allClues.length > 0) {
-        setClueIndex((prev) => (prev + 1) % allClues.length);
-      }
-    }}
-    aria-label="Next clue"
-  >
-    ▸
-  </button>
-</div>
+    {showClues ? (
+      <div className="flex items-start justify-between px-2 py-1 border border-gray-300 rounded bg-white shadow my-3">
+        {/* Clue text (two-line clamp) */}
+        <div className="pr-2 min-w-0 flex-1 text-sm">
+          <div
+            className="font-normal"
+            style={{
+              display: "-webkit-box",
+              WebkitLineClamp: 2,
+              WebkitBoxOrient: "vertical",
+              overflow: "hidden"
+            }}
+            title={currentClue || "—"}
+          >
+            <span className="font-semibold">{clueIndex + 1}.</span>{" "}
+            {currentClue || "—"}
+          </div>
+        </div>
 
+        {/* Right controls: Hide (top), Next (bottom) */}
+        <div className="flex flex-col items-end gap-1 shrink-0">
+          <button
+            className="px-2 py-1 text-xs bg-gray-100 rounded border border-gray-300 leading-none"
+            onClick={toggleShowClues}
+            aria-pressed={!showClues}
+            aria-label="Hide clues"
+            title="Hide all clues"
+          >
+            Hide clues
+          </button>
+          <button
+            className="px-2 py-1 bg-gray-100 rounded border border-gray-300 text-base leading-none"
+            onClick={() => {
+              if (allClues.length > 0) {
+                setClueIndex((prev) => (prev + 1) % allClues.length);
+              }
+            }}
+            aria-label="Next clue"
+            title="Next clue"
+          >
+            ▸
+          </button>
+        </div>
+      </div>
+    ) : (
+      // Minimal shell with only 'Show clues' in top-right
+      <div className="flex items-center justify-end my-3">
+        <button
+          className="px-2 py-1 text-xs bg-gray-100 rounded border border-gray-300 leading-none"
+          onClick={toggleShowClues}
+          aria-pressed={!showClues}
+          aria-label="Show clues"
+          title="Show all clues"
+        >
+          Show clues
+        </button>
+      </div>
+    )}
   </div>
 ) : (
   /* Level 2 block starts here… */
@@ -843,6 +922,62 @@ export default function Page() {
                 (minimum needed: {D.minMoves})
               </span>
             </div>
+
+            {/* Clue bar (Level 2 randomized order) */}
+            {showClues ? (
+              <div className="flex items-start justify-between px-2 py-1 border border-gray-300 rounded bg-white shadow my-3">
+                <div className="pr-2 min-w-0 flex-1 text-sm">
+                  <div
+                    className="font-normal"
+                    style={{
+                      display: "-webkit-box",
+                      WebkitLineClamp: 2,
+                      WebkitBoxOrient: "vertical",
+                      overflow: "hidden"
+                    }}
+                    title={currentClue || "—"}
+                  >
+                    <span className="font-semibold">{clueIndex + 1}.</span>{" "}
+                    {currentClue || "—"}
+                  </div>
+                </div>
+                <div className="flex flex-col items-end gap-1 shrink-0">
+                  <button
+                    className="px-2 py-1 text-xs bg-gray-100 rounded border border-gray-300 leading-none"
+                    onClick={toggleShowClues}
+                    aria-pressed={!showClues}
+                    aria-label="Hide clues"
+                    title="Hide all clues"
+                  >
+                    Hide clues
+                  </button>
+                  <button
+                    className="px-2 py-1 bg-gray-100 rounded border border-gray-300 text-base leading-none"
+                    onClick={() => {
+                      if (allClues.length > 0) {
+                        setClueIndex((prev) => (prev + 1) % allClues.length);
+                      }
+                    }}
+                    aria-label="Next clue"
+                    title="Next clue"
+                  >
+                    ▸
+                  </button>
+                </div>
+              </div>
+            ) : (
+              <div className="flex items-center justify-end my-3">
+                <button
+                  className="px-2 py-1 text-xs bg-gray-100 rounded border border-gray-300 leading-none"
+                  onClick={toggleShowClues}
+                  aria-pressed={!showClues}
+                  aria-label="Show clues"
+                  title="Show all clues"
+                >
+                  Show clues
+                </button>
+              </div>
+            )}
 
         )}
 
@@ -882,6 +1017,17 @@ export default function Page() {
                         : "";
 
                     const isDraggingThis = drag.active && drag.srcLoc === loc;
+                    // Active-word highlight (Level 1 only, when clues are visible)
+                    const isActiveWordTile = activeLevel === 1 && showClues && activeWordLocSet.has(loc);
+
+                    // Colors
+                    let bgColor = isGreen ? "#208040" : "#ECEFF3";
+                    let glyphColor = isGreen ? "#FFFFFF" : "#1240A0";
+                    if (isActiveWordTile && !isGreen) {
+                      bgColor = "#1240A0";     // flip
+                      glyphColor = "#ECEFF3";
+                    }
+
 
                     // Yellow bands: DISABLED for Level 1 per spec; Level 2 already had none.
                     const showBandH = false;
@@ -906,7 +1052,7 @@ export default function Page() {
                             className="absolute inset-0 flex flex-col items-center justify-center touch-none"
                             onPointerDown={(e) => (!isGreen ? onTilePointerDown(e, loc) : null)}
                             style={{
-                              background: isGreen ? "#208040" : "#ECEFF3",
+                              background: bgColor,
                               cursor: !isGreen ? (isDraggingThis ? "grabbing" : "grab") : "default",
                               transform: isDraggingThis
                                 ? `translate(${drag.dx}px, ${drag.dy}px) scale(1.06)`
@@ -947,10 +1093,19 @@ export default function Page() {
                               />
                             )}
 
-                            {/* Letter glyph (above lattice) */}
+                            
+                            {/* Active word ring */}
+                            {isActiveWordTile && (
+                              <div
+                                aria-hidden
+                                className="absolute inset-0 pointer-events-none"
+                                style={{ boxShadow: "inset 0 0 0 2px #3B82F6", borderRadius: "2px", zIndex: 2 }}
+                              />
+                            )}
+{/* Letter glyph (above lattice) */}
                             <span
-                              className={`leading-none font-semibold ${isGreen ? "text-white" : "text-[#1240A0]"}`}
-                              style={{ fontSize: "clamp(18px, 4.2vw, 26px)", position: "relative", zIndex: 3 }}
+                              className="leading-none font-semibold"
+                              style={{ fontSize: "clamp(18px, 4.2vw, 26px)", position: "relative", zIndex: 3, color: glyphColor }}
                             >
                               {glyph}
                             </span>
@@ -1081,12 +1236,12 @@ export default function Page() {
 
     <div>
       <div className="font-semibold">Level 2</div>
-      <p>No word clues are provided.</p>
+      <p>Clues appear in random order (not tied to specific words). Use the arrow to cycle.</p>
     </div>
 
     <div>
       <div className="font-semibold">Starting position</div>
-      <p>Some squares begin highlighted in green, meaning those letters are already correctly placed.</p>
+      <p>Some squares begin highlighted in green, meaning those letters are already correctly placed. These give you a head start.</p>
     </div>
   </div>
 
